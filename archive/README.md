@@ -4,4 +4,4 @@
 
 | Date | | Analysis |
 |---|---|---|
-| 2026-11-12 | <a href="2026-11-12-deaths-outnumber-births/post.md"><img src="2026-11-12-deaths-outnumber-births/chart.png" width="180"></a> | **[Deaths now outnumber births for more than one in four people on Earth](2026-11-12-deaths-outnumber-births/post.md)**<br><sub>Population</sub><br>57 countries, home to 27% of humanity, now record more deaths than births. The share barely moves until India tips around 2063, when it jumps 17 points in a single year. |
+| 2026-11-12 | <a href="2026-11-12-clocks-run-fast/post.md"><img src="2026-11-12-clocks-run-fast/chart.png" width="180"></a> | **[Humanity's clocks run fast. Almost nobody lives with the sun ahead of the clock](2026-11-12-clocks-run-fast/post.md)**<br><sub>Time</sub><br>Across 4.1bn city-dwellers, 38% see the sun peak at 12:30 or later; only 1.1% see it at 11:30 or earlier. Time zones aren't centred on the sun. They lean one way, by 35 to 1. |

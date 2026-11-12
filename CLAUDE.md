@@ -9,17 +9,30 @@ Follow it every time.
 
 ## The bar
 
+**The test: the reader shouldn't be able to easily find another take like it.** Occasionally
+someone will have done something similar. Usually nobody should have. Uniqueness matters more
+than scale: a modest, specific question answered freshly beats a grand theme everyone has
+already charted.
+
 1. **One claim.** The headline is a sentence with a verb that states the finding
-   ("Deaths now outnumber births for one in four people on Earth"), not a topic label
-   ("Global demographics"). If you can't write that sentence, you don't have a post yet.
-2. **New about the world.** Prefer things that are timely (this week, this season, this year),
-   underrated, or counter-intuitive. The reader should learn something they couldn't have guessed.
-3. **Meaningful.** It should bear on how people live, what societies decide, or how the
-   planet is changing. No trivia, novelty rankings, or "fun facts".
-4. **Not a cliché.** Banned unless there's a genuinely new angle: the hockey-stick temperature
-   chart, "the rise of China", population pyramids for their own sake, generic GDP rankings,
-   tech-company market caps, "AI is growing fast", Spotify/Netflix data, election maps
-   with no twist.
+   ("Humanity's clocks run fast"), not a topic label ("Time zones of the world").
+   If you can't write that sentence, you don't have a post yet.
+2. **An original angle.** Get there by one of these routes:
+   - *A question nobody asks.* Pick something ordinary that's rarely measured (when the sun
+     peaks on the clock, how far apart a country's capitals have moved, what share of a
+     river's length is dammed).
+   - *Your own computation.* Combine or derive data rather than replotting a chart that already
+     exists. If an Our World in Data, Statista or FT chart already shows your exact point, stop.
+   - *A re-weighting.* Count people, not countries; hours, not dollars; per km², not per nation.
+   - *An unexpected join.* Two datasets that are rarely put together.
+3. **Doesn't have to be grand.** Small and specific is fine, even good. It does have to be
+   *true, interesting and about the real world*. No trivia for its own sake, no novelty
+   rankings.
+4. **The first-idea test.** Before committing, ask: "Is this the first topic a newsroom or an AI
+   would pick?" If yes, discard it or push the angle two steps further. Big, well-worn themes
+   (fertility decline and ageing, warming curves, the rise of China, AI growth, inequality
+   headline stats, GDP rankings, election maps, streaming or tech-company data) are allowed
+   only with an angle you've verified isn't already out there.
 5. **Readable in 10 seconds, rewarding in 2 minutes.** A headline reader gets the point at a
    glance; a curious reader finds texture (annotations, outliers, a second panel).
 6. **Decisive.** Take a position on what the data says. Where data runs out, speculate openly
@@ -29,16 +42,17 @@ Follow it every time.
 ## Topic selection
 
 - Read `archive/README.md` first. **Don't repeat a topic family two days running**, and don't
-  repeat a specific subject within 60 days. Rotate across these families:
-  energy & climate · demography & health · economics & labour · cities, housing & transport ·
-  geopolitics, conflict & migration · science & technology · food, water & land ·
-  culture, language & time use · oceans, space & the natural world · institutions & governance.
-- Use today's date: anniversaries, seasonal phenomena, scheduled events (summits, elections,
-  data releases, launches), and recent news you can verify.
-- Good recipes: *a threshold being crossed* · *a ranking that flips* · *a gap that is closing or
-  widening* · *a hidden concentration (5% of X causes 60% of Y)* · *a forecast vs. what actually
-  happened* · *the same metric, re-based per person / per hour / per km² so it says something new*.
-- Write three candidate headlines, pick the strongest, and move on. Don't dither.
+  repeat a specific subject within 60 days. Rotate widely across: energy & climate ·
+  demography & health · economics & work · cities, housing & transport · geopolitics, borders
+  & migration · science & technology · food, water & land · culture, language & time ·
+  oceans, space & the natural world · institutions & law · infrastructure & logistics ·
+  sport & play (only with a real-world point).
+- Timeliness is a bonus, not a requirement. Use the date when it helps (season, anniversary,
+  an event this week), but never at the expense of originality.
+- Vary the form. Rotate chart types (dot plot, small multiples, map, slope, sawtooth, hero
+  number, timeline, flow) so the archive doesn't settle into one look.
+- Write five candidate headlines, apply the first-idea test, pick the most original one that
+  the available data can support, and move on.
 
 ## Data
 

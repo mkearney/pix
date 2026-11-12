@@ -1,3 +1,4 @@
 matplotlib>=3.8
 pandas>=2.1
 numpy>=1.26
+tzdata>=2024.1

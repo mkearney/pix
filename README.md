@@ -1,37 +1,36 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 1 · 2026-11-12 · Population · [archive →](archive/)</sub>
+<sub>**pix** · one visual analysis of the world, every day · No. 1 · 2026-11-12 · Time · [archive →](archive/)</sub>
 
-# Deaths now outnumber births for more than one in four people on Earth. India decides when it's most.
+# Humanity's clocks run fast. Almost nobody lives with the sun ahead of the clock.
 
-![The tipping point: share of humanity living in natural decrease, 1950–2100, and the year each country tips](archive/2026-11-12-deaths-outnumber-births/chart.png)
+![Clock time of solar noon for 34,212 cities by longitude, and the population-weighted distribution](archive/2026-11-12-clocks-run-fast/chart.png)
 
-**The point:** Shrinking populations aren't a quirk of Japan and Italy any more. **57 countries, home to 27% of humanity, now record more deaths than births each year.** The main cause is China: when it tipped in 2021, the share of people living in a country with natural decrease jumped from 11% to 28% in one year. The next jump that large is India's.
+**The point:** In theory, time zones are centred on the sun, so cities should sit evenly on both sides of "true noon". In practice, governments almost always push the clock forward and almost never pull it back. **38% of the world's city-dwellers see the sun peak at 12:30 or later. Only 1.1% see it at 11:30 or earlier.** That's a 35-to-1 skew, and the typical urban human's sun peaks 24 minutes after the clock says noon.
 
 ### What the chart shows
 
-- **Top:** the share of the world's population living in a country where annual deaths exceed births. History to 2026 is solid; after that it's the UN's medium projection (lighter).
-- **Bottom:** every country, placed at the year it enters *permanent* natural decrease, with dot size showing population. Filled dots have already tipped, outlined dots are projected to, and gray dots are still growing naturally in 2100.
+- **Top:** every city with 15,000+ people, plotted by longitude against the clock time when the sun is highest, averaged over 2026 (so daylight saving counts for the months it's in force). Within a time zone the sun reaches cities later as you go west, which produces the sawtooth. A long, unbroken diagonal means a country has chosen one clock for a lot of longitude.
+- **Bottom:** the same cities weighted by population. Orange means the sun is at least 30 minutes late, blue at least 30 minutes early.
 
 ### What stands out
 
-1. **A quiet plateau that hides a stampede.** From 2026 to 2040 the number of countries in natural decrease rises from 57 to 92, yet the share of humanity stays flat at about 27%. The countries tipping in that window (the UK and France in 2027, then much of Latin America and Southeast Asia) are smaller than the amount China shrinks.
-2. **One country, one step.** In 2063, when India's deaths overtake its births, the share of humanity living in natural decrease jumps from 39% to 56% in a single year. No other demographic event this century moves the global picture as much.
-3. **The United States tips in 2042, but only on paper.** Without migration, the US would join the club before Brazil (2043) or Turkey (2049). In practice US population growth now depends mostly on immigration. That makes immigration policy demographic policy, whether or not anyone calls it that.
-4. **The exceptions are concentrated.** 75 countries, home to 2.1 billion people today and mostly in sub-Saharan Africa plus Pakistan, still have more births than deaths in 2100. By the end of the century, natural population growth is largely an African phenomenon.
-5. **The world tips in 2084.** From then on the human population falls everywhere it isn't topped up by migration, and at the global level there is no migration to make up the difference.
+1. **The skew is the story.** 78% of city-dwellers have solar noon after 12:00. Push the threshold to 30 minutes and it's 38% late against 1.1% early. At an hour, it's 12% against effectively zero.
+2. **Daylight saving explains only part of it.** On standard time alone, 27.5% of people still have the sun 30+ minutes late, and the mean offset is 17 minutes. Clocks are set ahead even before summer time adds its extra hour.
+3. **Spain is the world's most "jet-lagged" country.** The population-weighted solar noon is 1h43m after 12:00. Spain lies mostly west of London but has kept Central European Time since 1940, and Seville's sun peaks at almost 2pm. France (+1h23), Argentina (+1h05) and Malaysia (+1h07) follow.
+4. **China's single clock creates both extremes.** Beijing time covers more than 60° of longitude. Kashgar's sun peaks near 3pm and Lhasa's near 2pm, while Hegang in the far northeast sees solar noon at 11:19, one of the few large blue clusters on Earth. Officially, every one of them is "noon at 12".
+5. **The early-sun club is small and specific:** Brazil's Atlantic coast (Recife −40m), the eastern edges of Indonesia's zones and of India's single zone, northeast China and Mozambique. Japan (−9m) is one of the only big countries that sits slightly early.
 
-### Why it matters now
+### Why it matters
 
-Pension systems, housing markets, school networks and military recruitment were all designed around growth. More than a quarter of humanity already lives under the opposite arithmetic. Fertility in many countries is falling faster than the UN's medium path assumes (South Korea, China and Thailand have all come in below it), so if anything these dates are **late**.
+Clock time sets when school starts, when shifts begin and when people wake. Solar time sets when it gets light and when the body clock expects to be up. Societies that keep their clocks well ahead of the sun get darker mornings, later dinners and, according to a growing body of sleep research, shorter sleep. Spain has debated returning to "its" time zone for a decade, and the EU's plan to abolish clock changes stalled in 2019. The chart shows how unusual the alternative would be: almost no country chooses to have the sun early.
 
 ### Method & caveats
 
-- **Data:** UN *World Population Prospects 2024*: estimates for 1950–2023, medium variant for 2024–2100, via Our World in Data. 236 countries and territories.
-- **Natural decrease** = deaths > births in a calendar year. Migration is deliberately excluded: the question is whether a society replaces itself.
-- **Tipping year** = the first year of the last unbroken run of natural decrease that lasts through 2100. Temporary dips (for example, COVID-era excess deaths in 2020–22) don't count.
-- The 1959–61 spike is China's Great Leap Forward famine. The 1990s step is the post-Soviet mortality crisis.
-- Projections are only projections. The medium variant has tended to overestimate fertility in East Asia, so the true dates are probably earlier.
+- **Cities:** GeoNames `cities15000` (34,212 places, 4.08bn people). That is urban population only, roughly half of humanity, with city boundaries that vary by country.
+- **Solar noon** = 12:00 − longitude/15 h + UTC offset. Offsets come from the IANA time-zone database for every day of 2026 and are averaged, so DST is weighted by how long it lasts. Averaged over a year, the equation of time nets to about zero, so it's omitted. On any given day the sun can be up to about 16 minutes either side of these values.
+- **China** is set to its legal Beijing time everywhere. Many people in Xinjiang informally use UTC+6, which would halve Kashgar's offset.
+- "Late" and "early" are relative to astronomical noon, not to a judgement about the right time.
 
-**Files:** [`analysis.py`](archive/2026-11-12-deaths-outnumber-births/analysis.py) · [`data/`](archive/2026-11-12-deaths-outnumber-births/data/) · [`chart.svg`](archive/2026-11-12-deaths-outnumber-births/chart.svg)
+**Files:** [`analysis.py`](archive/2026-11-12-clocks-run-fast/analysis.py) · [`data/`](archive/2026-11-12-clocks-run-fast/data/) · [`chart.svg`](archive/2026-11-12-clocks-run-fast/chart.svg)
 
 ---
 
