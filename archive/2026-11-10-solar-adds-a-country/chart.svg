@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="1022.4pt" viewBox="0 0 864 1022.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-12T05:01:50.003702</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1022.4 
+L 864 1022.4 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f3eee4"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 15.12 1003.392 
+L 34.56 1003.392 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 19.008 1007.28 
+L 19.008 987.84 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 15.12 19.008 
+L 34.56 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 19.008 15.12 
+L 19.008 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 848.88 1003.392 
+L 829.44 1003.392 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 844.992 1007.28 
+L 844.992 987.84 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 848.88 19.008 
+L 829.44 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 844.992 15.12 
+L 844.992 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 99.36 685.008 
+L 807.84 685.008 
+L 807.84 327.708 
+L 99.36 327.708 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m4e5b20f3bb" d="M 0 0 
+L 0 3 
+" style="stroke: #8c877d; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="99.36" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="99.36" y="703.7455" transform="rotate(-0 99.36 703.7455)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="184.719036" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="184.719036" y="703.7455" transform="rotate(-0 184.719036 703.7455)">100</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="270.078072" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="270.078072" y="703.7455" transform="rotate(-0 270.078072 703.7455)">200</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="355.437108" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="355.437108" y="703.7455" transform="rotate(-0 355.437108 703.7455)">300</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="440.796145" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="440.796145" y="703.7455" transform="rotate(-0 440.796145 703.7455)">400</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="526.155181" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="526.155181" y="703.7455" transform="rotate(-0 526.155181 703.7455)">500</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="611.514217" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="611.514217" y="703.7455" transform="rotate(-0 611.514217 703.7455)">600</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="696.873253" y="685.008" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="696.873253" y="703.7455" transform="rotate(-0 696.873253 703.7455)">700</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="453.6" y="719.561125" transform="rotate(-0 453.6 719.561125)">New solar generation that year, terawatt-hours</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="LineCollection_1">
+    <path d="M 99.36 342.95861 
+L 109.935985 342.95861 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 364.745195 
+L 126.120058 364.745195 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 386.53178 
+L 127.835774 386.53178 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 408.318366 
+L 129.090552 408.318366 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 430.104951 
+L 155.688428 430.104951 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 451.891537 
+L 149.09871 451.891537 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 473.678122 
+L 160.357567 473.678122 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 495.464707 
+L 199.383719 495.464707 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 517.251293 
+L 210.762078 517.251293 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 539.037878 
+L 204.163825 539.037878 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 560.824463 
+L 232.050622 560.824463 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 582.611049 
+L 270.590227 582.611049 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 604.397634 
+L 337.622678 604.397634 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 626.18422 
+L 381.915481 626.18422 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 647.970805 
+L 507.811524 647.970805 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+    <path d="M 99.36 669.75739 
+L 642.234934 669.75739 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #bdb4a4; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 99.36 685.008 
+L 807.84 685.008 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mf78cb58d22" d="M 0 2.915476 
+C 0.773193 2.915476 1.514823 2.608283 2.061553 2.061553 
+C 2.608283 1.514823 2.915476 0.773193 2.915476 0 
+C 2.915476 -0.773193 2.608283 -1.514823 2.061553 -2.061553 
+C 1.514823 -2.608283 0.773193 -2.915476 0 -2.915476 
+C -0.773193 -2.915476 -1.514823 -2.608283 -2.061553 -2.061553 
+C -2.608283 -1.514823 -2.915476 -0.773193 -2.915476 0 
+C -2.915476 0.773193 -2.608283 1.514823 -2.061553 2.061553 
+C -1.514823 2.608283 -0.773193 2.915476 0 2.915476 
+z
+" style="stroke: #f3eee4; stroke-width: 0.6"/>
+    </defs>
+    <g clip-path="url(#p0b4c2bccbe)">
+     <use xlink:href="#mf78cb58d22" x="126.120058" y="364.745195" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="127.835774" y="386.53178" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="129.090552" y="408.318366" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="155.688428" y="430.104951" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="149.09871" y="451.891537" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="160.357567" y="473.678122" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="210.762078" y="517.251293" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="204.163825" y="539.037878" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="232.050622" y="560.824463" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="270.590227" y="582.611049" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+     <use xlink:href="#mf78cb58d22" x="381.915481" y="626.18422" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.6"/>
+    </g>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 99.36 342.95861 
+L 109.935985 342.95861 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #e4572e; stroke-width: 2"/>
+    <path d="M 99.36 495.464707 
+L 199.383719 495.464707 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #e4572e; stroke-width: 2"/>
+    <path d="M 99.36 604.397634 
+L 337.622678 604.397634 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #e4572e; stroke-width: 2"/>
+    <path d="M 99.36 647.970805 
+L 507.811524 647.970805 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #e4572e; stroke-width: 2"/>
+    <path d="M 99.36 669.75739 
+L 642.234934 669.75739 
+" clip-path="url(#p0b4c2bccbe)" style="fill: none; stroke: #e4572e; stroke-width: 2"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="118.471888" y="346.77819" transform="rotate(-0 118.471888 346.77819)">Kyrgyzstan   12 TWh</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="346.52111" transform="rotate(-0 89.116916 346.52111)">2010</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="134.655961" y="368.201006" transform="rotate(-0 134.655961 368.201006)">Qatar</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="368.307695" transform="rotate(-0 89.116916 368.307695)">2011</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="136.371678" y="389.987591" transform="rotate(-0 136.371678 389.987591)">Libya</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="390.09428" transform="rotate(-0 89.116916 390.09428)">2012</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="137.626456" y="411.774176" transform="rotate(-0 137.626456 411.774176)">Qatar</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="411.880866" transform="rotate(-0 89.116916 411.880866)">2013</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="164.224332" y="433.560762" transform="rotate(-0 164.224332 433.560762)">Kuwait</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="433.667451" transform="rotate(-0 89.116916 433.667451)">2014</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="157.634614" y="455.347347" transform="rotate(-0 157.634614 455.347347)">Uzbekistan</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="455.454037" transform="rotate(-0 89.116916 455.454037)">2015</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="168.893471" y="477.133932" transform="rotate(-0 168.893471 477.133932)">Algeria</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="477.240622" transform="rotate(-0 89.116916 477.240622)">2016</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="207.919622" y="499.284287" transform="rotate(-0 207.919622 499.284287)">Netherlands   117 TWh</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="499.027207" transform="rotate(-0 89.116916 499.027207)">2017</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="219.297982" y="520.707103" transform="rotate(-0 219.297982 520.707103)">Pakistan</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="520.813793" transform="rotate(-0 89.116916 520.813793)">2018</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="212.699728" y="542.493689" transform="rotate(-0 212.699728 542.493689)">Netherlands</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="542.600378" transform="rotate(-0 89.116916 542.600378)">2019</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="240.586525" y="564.280274" transform="rotate(-0 240.586525 564.280274)">Norway</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="564.386963" transform="rotate(-0 89.116916 564.386963)">2020</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="279.12613" y="586.066859" transform="rotate(-0 279.12613 586.066859)">Egypt</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="586.173549" transform="rotate(-0 89.116916 586.173549)">2021</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="346.158581" y="608.217214" transform="rotate(-0 346.158581 608.217214)">Italy   279 TWh</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="607.960134" transform="rotate(-0 89.116916 607.960134)">2022</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="390.451385" y="629.64003" transform="rotate(-0 390.451385 629.64003)">Turkey</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="629.74672" transform="rotate(-0 89.116916 629.74672)">2023</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="516.347427" y="651.790385" transform="rotate(-0 516.347427 651.790385)">Germany   479 TWh</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="651.533305" transform="rotate(-0 89.116916 651.533305)">2024</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="650.770838" y="673.57697" transform="rotate(-0 650.770838 673.57697)">South Korea   636 TWh</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="89.116916" y="673.31989" transform="rotate(-0 89.116916 673.31989)">2025</text>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="mffed9eacab" d="M 0 4.1833 
+C 1.109424 4.1833 2.173559 3.742521 2.95804 2.95804 
+C 3.742521 2.173559 4.1833 1.109424 4.1833 0 
+C 4.1833 -1.109424 3.742521 -2.173559 2.95804 -2.95804 
+C 2.173559 -3.742521 1.109424 -4.1833 0 -4.1833 
+C -1.109424 -4.1833 -2.173559 -3.742521 -2.95804 -2.95804 
+C -3.742521 -2.173559 -4.1833 -1.109424 -4.1833 0 
+C -4.1833 1.109424 -3.742521 2.173559 -2.95804 2.95804 
+C -2.173559 3.742521 -1.109424 4.1833 0 4.1833 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p0b4c2bccbe)">
+     <use xlink:href="#mffed9eacab" x="109.935985" y="342.95861" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#mffed9eacab" x="199.383719" y="495.464707" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#mffed9eacab" x="337.622678" y="604.397634" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#mffed9eacab" x="507.811524" y="647.970805" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#mffed9eacab" x="642.234934" y="669.75739" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 99.36 904.824 
+L 807.84 904.824 
+L 807.84 782.136 
+L 99.36 782.136 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="112.984615" y="904.824" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="112.984615" y="923.5615" transform="rotate(-0 112.984615 923.5615)">2010</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="340.061538" y="904.824" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="340.061538" y="923.5615" transform="rotate(-0 340.061538 923.5615)">2015</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="567.138462" y="904.824" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="567.138462" y="923.5615" transform="rotate(-0 567.138462 923.5615)">2020</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m4e5b20f3bb" x="794.215385" y="904.824" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="794.215385" y="923.5615" transform="rotate(-0 794.215385 923.5615)">2025</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_1">
+     <g id="line2d_21">
+      <path d="M 99.36 904.824 
+L 807.84 904.824 
+" clip-path="url(#pabbb06ee90)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_22"/>
+     <g id="text_46">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="93.36" y="909.69275" transform="rotate(-0 93.36 909.69275)">0%</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_23">
+      <path d="M 99.36 843.48 
+L 807.84 843.48 
+" clip-path="url(#pabbb06ee90)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_24"/>
+     <g id="text_47">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="93.36" y="848.34875" transform="rotate(-0 93.36 848.34875)">5%</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_25">
+      <path d="M 99.36 782.136 
+L 807.84 782.136 
+" clip-path="url(#pabbb06ee90)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_26"/>
+     <g id="text_48">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="93.36" y="787.00475" transform="rotate(-0 93.36 787.00475)">10%</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 99.36 904.824 
+L 807.84 904.824 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 112.984615 902.965541 
+L 158.4 901.27492 
+L 203.815385 899.542822 
+L 249.230769 897.843165 
+L 294.646154 894.607866 
+L 340.061538 891.73805 
+L 385.476923 888.554538 
+L 430.892308 883.381 
+L 476.307692 878.159881 
+L 521.723077 872.911536 
+L 567.138462 865.644542 
+L 612.553846 859.064559 
+L 657.969231 848.264354 
+L 703.384615 835.999571 
+L 748.8 819.833541 
+L 794.215385 797.527629 
+" clip-path="url(#pabbb06ee90)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #17171a" x="780.590769" y="801.277629" transform="rotate(-0 780.590769 801.277629)">8.7%</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="122.067692" y="892.854261" transform="rotate(-0 122.067692 892.854261)">0.2%</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="m162dfa92ab" d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#pabbb06ee90)">
+     <use xlink:href="#m162dfa92ab" x="794.215385" y="797.527629" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_28">
+   <path d="M 56.16 48.0528 
+L 807.84 48.0528 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_29">
+   <path d="M 56.16 956.9664 
+L 807.84 956.9664 
+" style="fill: none; stroke: #17171a; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="text_51">
+   <text style="font-weight: 500; font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="56.16" y="38.8512" transform="rotate(-0 56.16 38.8512)">PIX</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #8c877d" x="90.72" y="38.8512" transform="rotate(-0 90.72 38.8512)">No. 002</text>
+  </g>
+  <g id="text_53">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="807.84" y="38.8512" transform="rotate(-0 807.84 38.8512)">TUE 10 NOV 2026</text>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="87.4425" transform="rotate(-0 56.16 87.4425)">ENERGY · SOLAR</text>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 54px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="147.42" transform="rotate(-0 53.568 147.42)">Last year the world added</text>
+  </g>
+  <g id="text_56">
+   <text style="font-style: italic; font-size: 54px; font-family: 'Instrument Serif'; text-anchor: start; fill: #e4572e" x="53.568" y="202.5" transform="rotate(-0 53.568 202.5)">a South Korea</text>
+  </g>
+  <g id="text_57">
+   <text style="font-size: 54px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="321.12675" y="202.5" transform="rotate(-0 321.12675 202.5)"> of solar power</text>
+  </g>
+  <g id="text_58">
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 231.506323)">Each row is one year's new solar generation, next to the country whose entire electricity output is the</text>
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 256.008032)">same size. In 2010 the new solar matched Kyrgyzstan. In 2025 it matched South Korea.</text>
+  </g>
+  <g id="text_59">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="99.36" y="290.268" transform="rotate(-0 99.36 290.268)">01</text>
+  </g>
+  <g id="text_60">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="127.008" y="290.268" transform="rotate(-0 127.008 290.268)">One year of new solar, as a whole country</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="127.008" y="306.108" transform="rotate(-0 127.008 306.108)">Matched to the country whose total electricity generation is closest in size</text>
+  </g>
+  <g id="text_62">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="99.36" y="760.536" transform="rotate(-0 99.36 760.536)">02</text>
+  </g>
+  <g id="text_63">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="127.008" y="760.536" transform="rotate(-0 127.008 760.536)">Solar's share of the world's electricity</text>
+  </g>
+  <g id="text_64">
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 975.657475)">DATA  Our World in Data energy dataset (Ember, Energy Institute). World solar generation, change from the year before.</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 992.297475)">NOTE  Country totals use the same year where reported, otherwise the latest year before it. Generation, not capacity.</text>
+  </g>
+  <g id="text_65">
+   <text style="font-weight: 500; font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #17171a" x="807.84" y="974.3706" transform="rotate(-0 807.84 974.3706)">PIX · 002</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0b4c2bccbe">
+   <rect x="99.36" y="327.708" width="708.48" height="357.3"/>
+  </clipPath>
+  <clipPath id="pabbb06ee90">
+   <rect x="99.36" y="782.136" width="708.48" height="122.688"/>
+  </clipPath>
+ </defs>
+</svg>
