@@ -1,8 +1,8 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 4 · 2026-11-12 · Time · [archive →](archive/)</sub>
+<sub>**pix** · one visual analysis of the world, every day · No. 4 · 2026-11-11 · Time · [archive →](archive/)</sub>
 
 # The world's clocks run fast
 
-![Clock time when the sun is highest for 34,212 cities, by longitude, and how many people live at each offset](archive/2026-11-12-clocks-run-fast/chart.png)
+![Clock time when the sun is highest for 34,212 cities, by longitude, and how many people live at each offset](archive/2026-11-11-clocks-run-fast/chart.png)
 
 You'd expect the sun to be highest around noon. For most people it's later than that, and it's almost never earlier.
 
@@ -19,8 +19,8 @@ When countries choose a time zone, they push the clock ahead. That buys more lig
 
 **How I did it.** Solar noon comes from each city's longitude. Time zone offsets come from the IANA tz database for every day of 2026, so daylight saving counts for the months it's on. City populations are from GeoNames, so this covers people in cities only, about half the world. China is set to Beijing time everywhere, though a lot of people in Xinjiang unofficially use a clock two hours behind.
 
-[Code](archive/2026-11-12-clocks-run-fast/analysis.py) · [Data](archive/2026-11-12-clocks-run-fast/data/) · [SVG](archive/2026-11-12-clocks-run-fast/chart.svg)
+[Code](archive/2026-11-11-clocks-run-fast/analysis.py) · [Data](archive/2026-11-11-clocks-run-fast/data/) · [SVG](archive/2026-11-11-clocks-run-fast/chart.svg)
 
 ---
 
-<sub>Previously: [Two in five city dwellers live closer to a foreign capital](archive/2026-11-11-closer-to-a-foreign-capital/post.md) · [Last year the world added a South Korea of solar power](archive/2026-11-10-solar-adds-a-country/post.md) · [Four earthquakes released half this century's quake energy](archive/2026-11-09-quake-energy/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [Two in five city dwellers live closer to a foreign capital](archive/2026-11-10-closer-to-a-foreign-capital/post.md) · [Last year the world added a South Korea of solar power](archive/2026-11-09-solar-adds-a-country/post.md) · [Four earthquakes released half this century's quake energy](archive/2026-11-08-quake-energy/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>

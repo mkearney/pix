@@ -1,5 +1,5 @@
 ---
-date: 2026-11-10
+date: 2026-11-09
 title: Last year the world added a South Korea of solar power
 slug: solar-adds-a-country
 topic: Energy

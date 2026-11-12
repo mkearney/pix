@@ -1,5 +1,5 @@
 ---
-date: 2026-11-09
+date: 2026-11-08
 title: Four earthquakes released half this century's quake energy
 slug: quake-energy
 topic: Natural world

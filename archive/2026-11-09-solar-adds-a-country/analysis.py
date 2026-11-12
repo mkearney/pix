@@ -1,4 +1,4 @@
-"""2026-11-10: Last year the world added a South Korea of solar power.
+"""2026-11-09: Last year the world added a South Korea of solar power.
 
 Question: each year, how much new solar generation came online worldwide, and
 which country's entire electricity generation is that the same size as?
@@ -24,7 +24,7 @@ from pix import style as px  # noqa: E402
 from pix.style import INK, INK_2, INK_3, PAPER, PAPER_2, SIGNAL, TAUPE  # noqa: E402
 
 NO = px.issue_number(HERE)
-DATE = "2026-11-10"
+DATE = "2026-11-09"
 Y0, Y1 = 2010, 2025
 
 # ---------------------------------------------------------------- data ------

@@ -1,4 +1,4 @@
-"""2026-11-09: Four earthquakes released half this century's quake energy.
+"""2026-11-08: Four earthquakes released half this century's quake energy.
 
 Question: of all the energy released by big earthquakes (magnitude 6+) since
 2000, how much came from the very biggest few?
@@ -24,7 +24,7 @@ from pix import style as px  # noqa: E402
 from pix.style import INK, INK_3, PAPER_2, SIGNAL, TAUPE  # noqa: E402
 
 NO = px.issue_number(HERE)
-DATE = "2026-11-09"
+DATE = "2026-11-08"
 
 # ---------------------------------------------------------------- data ------
 q = pd.read_csv(HERE / "data/usgs_m6_2000_2026.csv")

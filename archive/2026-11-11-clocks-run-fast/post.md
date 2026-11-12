@@ -1,5 +1,5 @@
 ---
-date: 2026-11-12
+date: 2026-11-11
 title: The world's clocks run fast
 slug: clocks-run-fast
 topic: Time

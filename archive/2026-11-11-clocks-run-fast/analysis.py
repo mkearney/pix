@@ -1,4 +1,4 @@
-"""2026-11-12: The world's clocks run fast.
+"""2026-11-11: The world's clocks run fast.
 
 Question: when the clock says 12:00, where is the sun? For every city on Earth
 with 15,000+ people, compute the clock time of solar noon (the moment the sun is
@@ -87,7 +87,7 @@ print(by_cc.head(20).round(1).to_string())
 
 # ---------------------------------------------------------------- figure ----
 fig = px.plate(12, 15.6)
-px.masthead(fig, "2026-11-12", NO)
+px.masthead(fig, "2026-11-11", NO)
 deck_bottom = px.headline(
     fig, "Time · Sun vs. clock",
     "The world's clocks *run fast*",

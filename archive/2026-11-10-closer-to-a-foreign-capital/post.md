@@ -1,5 +1,5 @@
 ---
-date: 2026-11-11
+date: 2026-11-10
 title: Two in five city dwellers live closer to a foreign capital
 slug: closer-to-a-foreign-capital
 topic: Borders

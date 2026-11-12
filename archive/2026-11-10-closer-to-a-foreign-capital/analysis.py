@@ -1,4 +1,4 @@
-"""2026-11-11: A lot of people live closer to a foreign capital than their own.
+"""2026-11-10: A lot of people live closer to a foreign capital than their own.
 
 Question: for every city on Earth with 15,000+ people, which is closer: the
 capital of its own country, or the nearest capital of some other country?
@@ -27,7 +27,7 @@ from pix import style as px  # noqa: E402
 from pix.style import INDIGO, INK, INK_2, INK_3, PAPER, PAPER_2, RULE, SIGNAL, TAUPE  # noqa: E402
 
 NO = px.issue_number(HERE)
-DATE = "2026-11-11"
+DATE = "2026-11-10"
 
 # ---------------------------------------------------------------- data ------
 c = pd.read_csv(HERE / "data/cities15000.csv", keep_default_na=False)
