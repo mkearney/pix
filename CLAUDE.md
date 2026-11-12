@@ -60,6 +60,7 @@ already charted.
   (`https://ourworldindata.org/grapher/<slug>.csv?v=1&csvType=full&useColumnShortNames=true`,
   metadata at `.metadata.json`), World Bank API, UN, IEA/Ember, FRED, Eurostat, NOAA/NASA,
   USGS, Wikipedia tables (cross-checked), and official statistics offices.
+  A `FRED_API_KEY` environment variable is available in the cloud environment.
 - Save every input used under `data/` in the entry folder so the analysis reruns offline.
   Save derived tables too (e.g. `data/<name>.csv`).
 - If live data is unavailable, a carefully sourced hand-built dataset is acceptable. Cite every
@@ -87,7 +88,10 @@ Import the house style: `from pix.style import apply, title_block, footer, ACCEN
 
 ## Daily procedure
 
-1. `date -u +%F` gives the entry date. Read `archive/README.md` to see what's been covered.
+A Claude Code scheduled task runs this every day at 8:05am US Eastern.
+
+0. Setup: `pip install -r requirements.txt` (Inter font optional; style falls back gracefully).
+1. `TZ=America/Detroit date +%F` gives the entry date. Read `archive/README.md` to see what's been covered.
 2. Choose the topic (see above). Decide the one claim.
 3. Create `archive/YYYY-MM-DD-<short-slug>/` containing:
    - `data/`: raw inputs + derived tables
@@ -101,7 +105,7 @@ Import the house style: `from pix.style import apply, title_block, footer, ACCEN
      output.
 4. Run `python scripts/publish.py`. It regenerates `README.md` (today's post) and
    `archive/README.md` (index).
-5. Commit as `pix YYYY-MM-DD: <title>` (the scheduled workflow does this step itself).
+5. Commit as `pix YYYY-MM-DD: <title>` and push to `main`.
 
 ## Repo layout
 
@@ -112,5 +116,4 @@ pix/style.py            house visual style
 scripts/publish.py      rebuilds README.md + archive/README.md
 archive/README.md       index of every entry (generated)
 archive/YYYY-MM-DD-slug/{post.md, chart.png, chart.svg, analysis.py, data/}
-.github/workflows/daily.yml   scheduled daily run (needs the ANTHROPIC_API_KEY secret)
 ```
