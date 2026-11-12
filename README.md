@@ -1,4 +1,4 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 1 · 2026-11-12 · Time · [archive →](archive/)</sub>
+<sub>**pix** · one visual analysis of the world, every day · No. 4 · 2026-11-12 · Time · [archive →](archive/)</sub>
 
 # The world's clocks run fast
 
@@ -23,4 +23,4 @@ When countries choose a time zone, they push the clock ahead. That buys more lig
 
 ---
 
-<sub>Previously: this is the first one. · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [Two in five city dwellers live closer to a foreign capital](archive/2026-11-11-closer-to-a-foreign-capital/post.md) · [Last year the world added a South Korea of solar power](archive/2026-11-10-solar-adds-a-country/post.md) · [Four earthquakes released half this century's quake energy](archive/2026-11-09-quake-energy/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
