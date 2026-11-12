@@ -26,11 +26,12 @@ from matplotlib.ticker import FuncFormatter
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parents[1]))
-from pix.style import (ACCENT, ACCENT_2, GRID, INK, INK_2, INK_3, NEUTRAL, SURFACE,  # noqa: E402
-                       apply, footer, title_block)
+from pix import style as px  # noqa: E402
+from pix.style import INDIGO, INK, INK_2, INK_3, PAPER, PAPER_2, SIGNAL, TAUPE  # noqa: E402
 
 YEAR = 2026
-LATE, EARLY = ACCENT, ACCENT_2
+LATE, EARLY = SIGNAL, INDIGO
+NO = px.issue_number(HERE)
 
 # ---------------------------------------------------------------- data ------
 c = pd.read_csv(HERE / "data/cities15000.csv", keep_default_na=False)
@@ -85,40 +86,44 @@ print(f">=30 late on standard time only: {late30_std:.1%}")
 print(by_cc.head(20).round(1).to_string())
 
 # ---------------------------------------------------------------- figure ----
-apply()
-fig = plt.figure(figsize=(12, 15.0), dpi=100)
-
-title_block(
-    fig,
-    "The world's clocks run fast",
-    f"When is the sun highest? The clock time of solar noon in {len(c):,} cities ({W / 1e9:.1f} billion people), averaged over {YEAR}.\n"
-    f"{late30:.0%} of people see it at 12:30 or later. Only {early30:.0%} see it at 11:30 or earlier.",
-    kicker="Time",
+fig = px.plate(12, 15.6)
+px.masthead(fig, "2026-11-12", NO)
+deck_bottom = px.headline(
+    fig, "Time · Sun vs. clock",
+    "The world's clocks *run fast*",
+    f"When is the sun highest? The clock time of solar noon in {len(c):,} cities ({W / 1e9:.1f} billion people),\n"
+    f"averaged over {YEAR}. {late30:.0%} of people see it at 12:30 or later. Only {early30:.0%} see it at 11:30 or earlier.",
 )
 
-# --- Panel A: every city, longitude vs clock time of solar noon --------------
-axA = fig.add_axes([0.085, 0.405, 0.85, 0.38])
+
+def hhmm(v, _=None):
+    v = int(round(v))
+    return f"{12 + v // 60}:{v % 60:02d}"
+
+
+# --- 01: every city, longitude vs clock time of solar noon --------------------
+top_A = deck_bottom - 0.07
+axA = fig.add_axes([px.LEFT, 0.40, px.WIDTH, top_A - 0.40])
 s = np.clip(np.sqrt(c["pop"] / 1e3) * 1.1, 1.5, 450)
-col = np.where(c.noon_min >= 30, LATE, np.where(c.noon_min <= -30, EARLY, NEUTRAL))
+col = np.where(c.noon_min >= 30, LATE, np.where(c.noon_min <= -30, EARLY, TAUPE))
 order = np.argsort(-c["pop"].to_numpy())          # big cities underneath
 axA.scatter(c.lon.to_numpy()[order], c.noon_min.to_numpy()[order], s=s.to_numpy()[order],
-            c=col[order], alpha=0.75, edgecolors=SURFACE, linewidths=0.4, zorder=3)
-axA.axhspan(-30, 30, color="#f1f0ec", zorder=0, lw=0)
-axA.axhline(0, color=INK, lw=1, zorder=2)
+            c=col[order], alpha=0.8, edgecolors=PAPER, linewidths=0.4, zorder=3)
+axA.axhspan(-30, 30, color=PAPER_2, zorder=0, lw=0)
+axA.axhline(0, color=INK, lw=0.9, zorder=2)
 axA.set_xlim(-170, 180)
 axA.set_ylim(-80, 195)
 axA.set_yticks(range(-60, 181, 30))
-axA.yaxis.set_major_formatter(FuncFormatter(
-    lambda v, _: f"{12 + int(v) // 60}:{int(v) % 60:02d}" if v >= 0 else f"11:{60 + int(v):02d}" if v > -60 else "11:00"))
+axA.yaxis.set_major_formatter(FuncFormatter(hhmm))
 axA.set_xticks(range(-150, 181, 30))
 axA.xaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{abs(int(v))}°{'W' if v < 0 else 'E' if v > 0 else ''}"))
-axA.set_ylabel("Clock time when the sun is highest", color=INK_3, fontsize=10)
+axA.spines["bottom"].set_visible(False)
+axA.tick_params(axis="x", length=0)
 axA.text(-168, 3, "12:00 on the clock", fontsize=9.5, color=INK, va="bottom")
-axA.text(-168, -27, "within ±30 min of true noon", fontsize=9, color=INK_3, va="bottom")
-axA.text(0, 1.035, "Each dot is a city. The sawtooth comes from time zones. Long slopes are countries using one clock.",
-         transform=axA.transAxes, fontsize=10, color=INK_2)
-axA.text(0, 1.075, "Where the sun peaks, on the clock", transform=axA.transAxes,
-         fontsize=12, weight="bold", color=INK)
+axA.text(-168, -27, "within 30 min of true noon", fontsize=9, color=INK_3, va="bottom")
+px.panel(axA, 1, "Where the sun peaks, on the clock",
+         "Each dot is a city. The sawtooth comes from time zones. Long slopes are countries using one clock.")
+px.mono_ticks(axA)
 
 ci = c.sort_values("pop", ascending=False).drop_duplicates("name").set_index("name")
 
@@ -127,10 +132,7 @@ def lab(name, dx, dy, text=None, ha="left"):
     r = ci.loc[name]
     m = int(round(r.noon_min))
     off = ("+" if m >= 0 else "−") + (f"{abs(m) // 60}h{abs(m) % 60:02d}" if abs(m) >= 60 else f"{abs(m)}m")
-    text = (text or "{name} {off}").format(name=name, off=off)
-    axA.annotate(text, (r.lon, r.noon_min), xytext=(dx, dy), textcoords="offset points",
-                 fontsize=9.5, color=INK_2, ha=ha, va="center", zorder=5, linespacing=1.3,
-                 arrowprops=dict(arrowstyle="-", color=INK_3, lw=0.7, shrinkA=0, shrinkB=2))
+    px.note(axA, (r.lon, r.noon_min), (dx, dy), (text or "{name} {off}").format(name=name, off=off), ha=ha)
 
 
 lab("Madrid", -16, 12, "Spain is on Berlin time\nMadrid {off}", ha="right")
@@ -147,35 +149,30 @@ lab("Mumbai", -10, 26, "India: one zone\nMumbai {off}", ha="right")
 lab("Salta", 6, 26, "Argentina\nSalta {off}")
 lab("Lagos", 16, -24, "Lagos {off}")
 
-# --- Panel B: population-weighted distribution --------------------------------
-axB = fig.add_axes([0.085, 0.105, 0.85, 0.19])
+# --- 02: population-weighted distribution --------------------------------------
+axB = fig.add_axes([px.LEFT, 0.115, px.WIDTH, 0.19])
 bins = np.arange(-60, 181, 10)
 hist, edges = np.histogram(c.noon_min.clip(-59.9, 179.9), bins=bins, weights=w / 1e6)
 mid = (edges[:-1] + edges[1:]) / 2
-bcol = [LATE if m >= 30 else EARLY if m <= -30 else NEUTRAL for m in mid]
-axB.bar(mid, hist, width=8.6, color=bcol, zorder=3)
+bcol = [LATE if m >= 30 else EARLY if m <= -30 else TAUPE for m in mid]
+axB.bar(mid, hist, width=8.4, color=bcol, zorder=3)
 axB.set_xlim(-62, 182)
 axB.set_xticks(range(-60, 181, 30))
-axB.xaxis.set_major_formatter(axA.yaxis.get_major_formatter())
+axB.xaxis.set_major_formatter(FuncFormatter(hhmm))
 axB.yaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{v / 1000:.1f}bn" if v >= 1000 else f"{v:.0f}M"))
-axB.axvline(0, color=INK, lw=1, zorder=4)
-axB.text(0, 1.16, "How many people live at each offset", transform=axB.transAxes,
-         fontsize=12, weight="bold", color=INK)
-axB.text(0, 1.06, "People in cities, by when the sun peaks (10-minute bins)",
-         transform=axB.transAxes, fontsize=10, color=INK_2)
-ymax = hist.max()
-axB.text(-58, ymax * 0.92, f"{early30:.1%}", fontsize=22, weight="bold", color=EARLY, va="top")
-axB.text(-58, ymax * 0.74, "sun ≥30 min early", fontsize=10, color=INK_2, va="top")
-axB.text(178, ymax * 0.92, f"{late30:.0%}", fontsize=22, weight="bold", color=LATE, va="top", ha="right")
-axB.text(178, ymax * 0.74, f"sun ≥30 min late\n({late60:.0%} by an hour or more)", fontsize=10,
-         color=INK_2, va="top", ha="right", linespacing=1.35)
-axB.set_xlabel("Clock time when the sun is highest (annual average)", color=INK_3, fontsize=10)
+axB.axvline(0, color=INK, lw=0.9, zorder=4)
+px.panel(axB, 2, "How many people live at each offset", "People in cities, by when the sun peaks (10-minute bins)")
+px.big_number(axB, 0.015, 0.98, f"{early30:.1%}", "sun 30+ min early", color=EARLY)
+px.big_number(axB, 0.985, 0.98, f"{late30:.0%}", f"sun 30+ min late\n({late60:.0%} by an hour or more)",
+              color=LATE, ha="right")
+axB.set_xlabel("Clock time when the sun is highest (annual average)")
+px.mono_ticks(axB)
 
-footer(fig,
-       f"Data: GeoNames cities ≥15,000 people (CC BY 4.0); IANA time-zone database ({YEAR} rules, DST averaged over the year). "
-       "China set to its legal Beijing time.\nSolar noon from longitude; the equation of time averages out over a year. "
-       "City populations only, about half of humanity.")
+px.footer(fig,
+          f"DATA  GeoNames cities of 15,000+ people (CC BY 4.0). IANA time-zone database, {YEAR} rules, DST averaged over the year.\n"
+          "NOTE  Solar noon from longitude; the equation of time averages out over a year. China set to Beijing time.\n"
+          "      City populations only, about half of humanity.",
+          NO)
 
-fig.savefig(HERE / "chart.png", dpi=150)
-fig.savefig(HERE / "chart.svg")
+px.save(fig, HERE)
 print("saved")

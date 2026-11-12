@@ -86,23 +86,22 @@ a person wrote it, not an AI.
 
 ## Design system
 
-Import the house style: `from pix.style import apply, title_block, footer, ACCENT, ...`
-(see `pix/style.py`). Its rules:
+Every graphic uses the **Plate** house style. Read `STYLE.md` before drawing anything and use
+`pix/style.py` (`from pix import style as px`). In short:
 
-- Warm off-white surface, near-black ink, Inter typeface, recessive grid, no top/right spines.
-- **One accent colour carries the story** (`ACCENT`, orange); everything else is ink or
-  `NEUTRAL` gray. Add `ACCENT_2` (blue) only for a genuine contrast. Use the full `PALETTE`
-  only when identity really needs it, in fixed order, max ~6 series.
-- Headline (the claim) + a 2–3 line deck explaining how to read it, left-aligned at the top.
-  A source and method line in the footer.
-- Annotate directly on the chart. Avoid legends where labels can sit next to the marks.
-- Never use dual y-axes, pie charts with more than 3 slices, rainbow colour scales, or 3D.
-- Render `chart.png` at dpi 150 (around 1800 px wide) plus `chart.svg`. Then **open the PNG and
-  look at it.** Fix overlapping labels, clipped text and empty space before publishing.
-- Formats can vary: static chart (default), small multiples, an annotated map, a slope or dot
-  plot, a single "hero number" infographic. If a richer interactive piece is warranted, add
-  `index.html` alongside it (self-contained, no external data calls). The README still shows the
-  PNG.
+- `px.plate()` → `px.masthead()` → `px.headline()` → numbered `px.panel()`s → `px.footer()` →
+  `px.save()`. Look at the latest entry's `analysis.py` for a working example.
+- Warm paper, black ink, serif headline with one optional `*vermilion italic*` phrase, mono
+  numbers, crop marks.
+- Vermilion (`SIGNAL`) carries the point and taupe carries the context. Add indigo only for a
+  real contrast. Most plates use one or two colours.
+- Annotate directly. No legends where labels fit. No dual axes, 3D, rainbow scales or pie charts
+  with more than 3 slices.
+- The chart *form* should change from day to day. The plate stays the same.
+- Render, then **open chart.png and look at it**. Fix overlaps, clipping and dead space before
+  publishing.
+- For an interactive piece, add a self-contained `index.html` in the same style. The README
+  still shows the PNG.
 
 ## Daily procedure
 
@@ -130,7 +129,9 @@ A Claude Code scheduled task runs this every day at 8:05am US Eastern.
 ```
 README.md               today's post (generated, don't edit by hand)
 CLAUDE.md               this brief
-pix/style.py            house visual style
+pix/style.py            house visual style (see STYLE.md)
+pix/fonts/              bundled fonts (OFL)
+STYLE.md                the Plate style guide
 scripts/publish.py      rebuilds README.md + archive/README.md
 archive/README.md       index of every entry (generated)
 archive/YYYY-MM-DD-slug/{post.md, chart.png, chart.svg, analysis.py, data/}
