@@ -19,7 +19,7 @@ INK_3 = "#8a8984"        # muted text / axis labels
 GRID = "#e6e5e0"
 NEUTRAL = "#c9c8c1"      # context marks (the "everything else")
 
-# ---- Categorical (fixed order — never cycle; fold past 8 into "Other") -----
+# ---- Categorical (fixed order, never cycle; fold past 8 into "Other") -----
 PALETTE = [
     "#2a78d6",  # 1 blue
     "#eb6834",  # 2 orange

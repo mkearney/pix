@@ -54,6 +54,24 @@ already charted.
 - Write five candidate headlines, apply the first-idea test, pick the most original one that
   the available data can support, and move on.
 
+## Voice
+
+Write the way the maintainer talks: clear, direct, simple, short, natural. It should read like
+a person wrote it, not an AI.
+
+- First person is fine ("I took every city..."). Talk to the reader like a smart friend.
+- Short sentences. Plain words. Say the number, then move on.
+- **No em dashes** (—) anywhere: not in posts, chart text or commit messages. Use a period,
+  comma, colon or parentheses.
+- Not formal. No section headers like "Why it matters" or "Key takeaways". No bolded lead-ins on
+  every bullet.
+- Don't hype. Avoid: striking, stark, notably, crucially, underscores, highlights, delve,
+  landscape, tapestry, "it's not X, it's Y", "the story here is", "in a world where",
+  rhetorical questions as openers, triplets for rhythm, and ending on a big moral.
+- Headlines are short and plain ("The world's clocks run fast"), not two-clause slogans.
+- Chart text follows the same rules: a short title, a one or two line deck, and plain labels.
+- Before publishing, reread the post and cut anything that sounds like a press release.
+
 ## Data
 
 - Prefer primary or well-curated open sources: Our World in Data grapher CSVs
@@ -99,10 +117,10 @@ A Claude Code scheduled task runs this every day at 8:05am US Eastern.
      renders `chart.png` + `chart.svg`. It must run from the repo root with
      `python archive/<dir>/analysis.py`.
    - `post.md`: front matter (`date`, `title`, `slug`, `topic`, `chart`, `summary`), then:
-     H1 headline · the image · **The point** (2–3 sentences) · *What the chart shows* ·
-     *What stands out* (3–5 numbered findings with numbers) · *Why it matters now* ·
-     *Method & caveats* · links to files. Every number in the post must come from `analysis.py`
-     output.
+     H1 headline · the image · one or two short paragraphs saying what I looked at and what I
+     found · 3–6 plain bullets with the key numbers · one or two sentences on what it means ·
+     a short **How I did it.** paragraph (sources, method, main caveat) · links to code, data
+     and SVG. Aim for 200–350 words. Every number must come from `analysis.py` output.
 4. Run `python scripts/publish.py`. It regenerates `README.md` (today's post) and
    `archive/README.md` (index).
 5. Commit as `pix YYYY-MM-DD: <title>` and push to `main`.

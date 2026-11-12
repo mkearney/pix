@@ -1,4 +1,4 @@
-"""2026-11-12 — Humanity's clocks run fast.
+"""2026-11-12: The world's clocks run fast.
 
 Question: when the clock says 12:00, where is the sun? For every city on Earth
 with 15,000+ people, compute the clock time of solar noon (the moment the sun is
@@ -90,16 +90,14 @@ fig = plt.figure(figsize=(12, 15.0), dpi=100)
 
 title_block(
     fig,
-    "Humanity's clocks run fast. Almost nobody\nlives with the sun ahead of the clock.",
-    f"When does the sun actually peak? For {W / 1e9:.1f} billion people in {len(c):,} cities, averaged over {YEAR}.\n"
-    f"{late30:.0%} see solar noon at 12:30 or later; just {early30:.0%} see it at 11:30 or earlier. "
-    f"The typical city-dweller's sun\npeaks {mean_min:.0f} minutes after the clock says noon: "
-    f"darker mornings, brighter evenings, chosen by law.",
-    kicker="Time · Sun vs. clock",
+    "The world's clocks run fast",
+    f"When is the sun highest? The clock time of solar noon in {len(c):,} cities ({W / 1e9:.1f} billion people), averaged over {YEAR}.\n"
+    f"{late30:.0%} of people see it at 12:30 or later. Only {early30:.0%} see it at 11:30 or earlier.",
+    kicker="Time",
 )
 
 # --- Panel A: every city, longitude vs clock time of solar noon --------------
-axA = fig.add_axes([0.085, 0.395, 0.85, 0.355])
+axA = fig.add_axes([0.085, 0.405, 0.85, 0.38])
 s = np.clip(np.sqrt(c["pop"] / 1e3) * 1.1, 1.5, 450)
 col = np.where(c.noon_min >= 30, LATE, np.where(c.noon_min <= -30, EARLY, NEUTRAL))
 order = np.argsort(-c["pop"].to_numpy())          # big cities underneath
@@ -117,7 +115,7 @@ axA.xaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{abs(int(v))}°{'W' i
 axA.set_ylabel("Clock time when the sun is highest", color=INK_3, fontsize=10)
 axA.text(-168, 3, "12:00 on the clock", fontsize=9.5, color=INK, va="bottom")
 axA.text(-168, -27, "within ±30 min of true noon", fontsize=9, color=INK_3, va="bottom")
-axA.text(0, 1.035, "Each dot is a city, by longitude: the sawtooth is time zones; long flat runs are countries forcing one clock",
+axA.text(0, 1.035, "Each dot is a city. The sawtooth comes from time zones. Long slopes are countries using one clock.",
          transform=axA.transAxes, fontsize=10, color=INK_2)
 axA.text(0, 1.075, "Where the sun peaks, on the clock", transform=axA.transAxes,
          fontsize=12, weight="bold", color=INK)
@@ -135,7 +133,7 @@ def lab(name, dx, dy, text=None, ha="left"):
                  arrowprops=dict(arrowstyle="-", color=INK_3, lw=0.7, shrinkA=0, shrinkB=2))
 
 
-lab("Madrid", -16, 12, "Spain runs on Berlin's clock\nMadrid {off}", ha="right")
+lab("Madrid", -16, 12, "Spain is on Berlin time\nMadrid {off}", ha="right")
 lab("Paris", 18, 22, "Paris {off}")
 lab("Kashgar", 12, 6, "Kashgar, on Beijing time {off}")
 lab("Lhasa", 10, 18, "Lhasa {off}")
@@ -163,7 +161,7 @@ axB.yaxis.set_major_formatter(FuncFormatter(lambda v, _: f"{v / 1000:.1f}bn" if 
 axB.axvline(0, color=INK, lw=1, zorder=4)
 axB.text(0, 1.16, "How many people live at each offset", transform=axB.transAxes,
          fontsize=12, weight="bold", color=INK)
-axB.text(0, 1.06, "City population by the clock time of solar noon (10-minute bins)",
+axB.text(0, 1.06, "People in cities, by when the sun peaks (10-minute bins)",
          transform=axB.transAxes, fontsize=10, color=INK_2)
 ymax = hist.max()
 axB.text(-58, ymax * 0.92, f"{early30:.1%}", fontsize=22, weight="bold", color=EARLY, va="top")
