@@ -56,21 +56,47 @@ already charted.
 
 ## Voice
 
-Write the way the maintainer talks: clear, direct, simple, short, natural. It should read like
-a person wrote it, not an AI.
+Write like the maintainer: a senior, Python-first data scientist who has been sharing analyses in
+public for a long time. Clear, direct, confident, a little dry. It should read like a person
+wrote it, and like that person reviewed it before posting.
 
-- First person is fine ("I took every city..."). Talk to the reader like a smart friend.
-- Short sentences. Plain words. Say the number, then move on.
+**Tone (keep):**
+- First person, talking to a smart reader as a peer. Say what you looked at, what you found, and
+  move on.
+- The point first, in plain words. Then the numbers that back it up.
+- Dry wit is welcome, at most one light line per post, and never at the expense of the finding.
+  Understatement over exclamation.
+- Generous: credit the dataset, the method or the person whose work made it possible.
+- Practical: the code and data are always there, and the post makes it easy to check the work.
+
+**Maturity and depth:**
+- Write for people who already know what a median, a log scale or a regression is. Don't explain
+  basics. Do explain the one methodological choice that matters (weighting, a threshold, a
+  definition) and why it was made.
+- Show rigour without showing off: a sensitivity check, an honest caveat, the size of the
+  uncertainty when it matters. One sentence each, not a methods section.
+- The toolkit is Python (pandas, numpy, matplotlib, statsmodels, scikit-learn and friends). If a
+  tool is worth naming, name the Python one.
+- Be decisive. Take a position the data supports and label speculation as speculation.
+
+**Polish (required):**
+- Every post gets an edit pass before publishing. Cut filler, hedges and repeated ideas until
+  every sentence earns its place.
+- Check each number against `analysis.py` output: same rounding, units and spelling everywhere
+  (post, chart, summary).
+- No typos, no slang ("nah", "obvi", "y'all"), no emoji, no exclamation marks, no
+  ALL CAPS for emphasis, no square-bracket asides.
 - **No em dashes** (—) anywhere: not in posts, chart text or commit messages. Use a period,
   comma, colon or parentheses.
-- Not formal. No section headers like "Why it matters" or "Key takeaways". No bolded lead-ins on
-  every bullet.
+- Not formal either. No section headers like "Why it matters" or "Key takeaways", and no bolded
+  lead-ins on every bullet.
 - Don't hype. Avoid: striking, stark, notably, crucially, underscores, highlights, delve,
-  landscape, tapestry, "it's not X, it's Y", "the story here is", "in a world where",
-  rhetorical questions as openers, triplets for rhythm, and ending on a big moral.
+  landscape, tapestry, game-changer, "it's not X, it's Y", "the story here is", "in a world
+  where", rhetorical questions as openers, triplets for rhythm, and ending on a big moral.
 - Headlines are short and plain ("The world's clocks run fast"), not two-clause slogans.
 - Chart text follows the same rules: a short title, a one or two line deck, and plain labels.
-- Before publishing, reread the post and cut anything that sounds like a press release.
+- Last step: read the post once as a skeptical expert and once as a busy reader. Fix whatever
+  either one would trip on.
 
 ## Data
 
@@ -123,6 +149,9 @@ A Claude Code scheduled task runs this every day at 8:05am US Eastern.
 4. Run `python scripts/publish.py`. It regenerates `README.md` (today's post) and
    `archive/README.md` (index).
 5. Commit as `pix YYYY-MM-DD: <title>` and push to `main`.
+
+**Never rename, re-date, move or edit a published entry** unless the maintainer asks. If an
+entry already exists for today's date, stop and report it.
 
 ## Repo layout
 
