@@ -1,26 +1,25 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 5 · 2026-11-12 · Demography · [archive →](archive/)</sub>
+<sub>**pix** · one visual analysis of the world, every day · No. 6 · 2026-11-13 · Work · [archive →](archive/)</sub>
 
-# Most people alive were born after the Berlin Wall fell
+# Italy drops 19 places when every adult counts
 
-![Share of people alive in 2026 born after each date, and the share born after the Wall fell in the 31 countries with 50 million people or more](archive/2026-11-12-born-after-the-wall/chart.png)
+![OECD countries ranked by annual hours per worker and by hours per person aged 15 to 64 in 2024, and a scatter of hours per worker against employment rate](archive/2026-11-13-hours-per-adult/chart.png)
 
-The Berlin Wall came down 37 years ago this week. It still feels recent to a lot of us, so I wanted to know how many people alive today were born after it.
+The usual league table of working hours divides total hours by the number of people in work. That answers how hard the employed work. It says nothing about how many people are employed, which is the bigger difference between rich countries.
 
-I took the UN's population estimates for 2026, one year of age at a time, and counted everyone born after 9 November 1989. It's 57% of humanity, about 4.7 billion people. The catch is where they live.
+So I divided the same hours by everyone aged 15 to 64 instead, for the 40 OECD countries with 2024 data, and re-ranked them.
 
-- Half of everyone alive was born after May 1994.
-- 82% were born after the Moon landing. 39% were born after 9/11. 10% were born after Covid became a pandemic.
-- In Germany, only 37% were born after the Wall fell. In Japan it's 32%, in Italy 34%, in South Korea 35%.
-- China (42%), Russia (41%), the UK (44%) and the US (46%) are all under half too.
-- In 101 of 237 countries, most people were born before the Wall fell. Those countries hold 35% of the world's people.
-- In Niger it's 81%, in Nigeria 77%, in Pakistan 73%.
+- Italy goes from 15th to 34th. Its workers put in 1,715 hours a year, but only 62.2% of working-age Italians have a job, so it comes to 1,067 hours per adult.
+- The Netherlands goes the other way: 1,452 hours per worker, 1,195 per adult. Italians work 263 more hours per worker and 128 fewer per adult. That's 20.5 hours a week against 23.0.
+- Iceland rises 19 places (35th to 16th) on an 85.3% employment rate. Japan rises 13.
+- Greece falls 16 places and Romania 17. Germany stays near the bottom either way (40th, then 39th).
+- 10 of the 40 countries move 10 places or more. The rank correlation between the two tables is 0.76.
 
-So the world's majority is post-Cold War because of Africa and South Asia. In most of the countries that fought the Cold War, people born before the Wall fell still outnumber those born after.
+Long hours per worker often go with a small workforce. In Italy, Greece and Spain, the famous long hours say as much about who isn't working as about who is.
 
-**How I did it.** Population by single year of age on 1 July 2026 comes from the UN World Population Prospects 2024. I assumed births are spread evenly across each year of age. The data counts people alive now, so deaths are already accounted for. These are UN projections from 2024 data, not a census.
+**How I did it.** Annual hours actually worked per worker and the employment rate for ages 15 to 64 both come from the OECD, for 2024. Hours per adult is one times the other. The hours figure covers workers of every age while the employment rate stops at 64, so this is an approximation, but the ranking holds with 2023 data too (Italy goes from 15th to 37th). The OECD says its hours series is built for comparing trends, not levels, so treat neighbouring ranks as ties and look at the big moves.
 
-[Code](archive/2026-11-12-born-after-the-wall/analysis.py) · [Data](archive/2026-11-12-born-after-the-wall/data/) · [SVG](archive/2026-11-12-born-after-the-wall/chart.svg)
+[Code](archive/2026-11-13-hours-per-adult/analysis.py) · [Data](archive/2026-11-13-hours-per-adult/data/) · [SVG](archive/2026-11-13-hours-per-adult/chart.svg)
 
 ---
 
-<sub>Previously: [The world's clocks run fast](archive/2026-11-11-clocks-run-fast/post.md) · [Two in five city dwellers live closer to a foreign capital](archive/2026-11-10-closer-to-a-foreign-capital/post.md) · [Last year the world added a South Korea of solar power](archive/2026-11-09-solar-adds-a-country/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [Most people alive were born after the Berlin Wall fell](archive/2026-11-12-born-after-the-wall/post.md) · [The world's clocks run fast](archive/2026-11-11-clocks-run-fast/post.md) · [Two in five city dwellers live closer to a foreign capital](archive/2026-11-10-closer-to-a-foreign-capital/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
