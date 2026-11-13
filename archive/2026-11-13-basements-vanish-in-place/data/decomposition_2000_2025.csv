@@ -1,0 +1,10 @@
+div,division,basement_rate_2000,basement_rate_2025,share_of_houses_2000,share_of_houses_2025,within_contribution_pts,share_of_decline
+1,New England,0.97,0.6546,0.0266,0.0207,-0.7461,0.0347
+2,Middle Atlantic,0.8063,0.4626,0.0707,0.0444,-1.9793,0.0921
+3,East North Central,0.7602,0.4241,0.1337,0.0838,-3.6557,0.1702
+4,West North Central,0.8469,0.6312,0.0821,0.0463,-1.3843,0.0644
+5,South Atlantic,0.1946,0.0416,0.2828,0.3366,-4.7378,0.2206
+6,East South Central,0.2243,0.1676,0.0617,0.0571,-0.3366,0.0157
+7,West South Central,0.0072,0.0025,0.1104,0.1884,-0.0712,0.0033
+8,Mountain,0.3781,0.2781,0.1176,0.1217,-1.1958,0.0557
+9,Pacific,0.0451,0.0172,0.1144,0.101,-0.3001,0.014

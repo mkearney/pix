@@ -1,24 +1,23 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 6 · 2026-11-13 · Work · [archive →](archive/)</sub>
+<sub>**pix** · one visual analysis of the world, every day · No. 6 · 2026-11-13 · Housing · [archive →](archive/)</sub>
 
-# Italy drops 19 places when every adult counts
+# The move South explains only a third of lost basements
 
-![OECD countries ranked by annual hours per worker and by hours per person aged 15 to 64 in 2024, and a scatter of hours per worker against employment rate](archive/2026-11-13-hours-per-adult/chart.png)
+![The share of new US single-family houses with a basement, 1971 to 2025, against a counterfactual where only the location of building changes, and basement rates by census division in 2000 and 2025](archive/2026-11-13-basements-vanish-in-place/chart.png)
 
-The usual league table of working hours divides total hours by the number of people in work. That answers how hard the employed work. It says nothing about how many people are employed, which is the bigger difference between rich countries.
+In 2000, 37% of new single-family houses in the US had a full or partial basement. In 2025 it was 16%. The obvious explanation is geography: more houses go up in Texas, Florida and the Carolinas, where hardly anyone digs one.
 
-So I divided the same hours by everyone aged 15 to 64 instead, for the 40 OECD countries with 2024 data, and re-ranked them.
+I split the change in two across the nine census divisions: the shift in where houses are built, and the change in how often each division builds a basement. Geography accounts for a third. The rest is builders dropping basements where they used to be standard.
 
-- Italy goes from 15th to 34th. Its workers put in 1,715 hours a year, but only 62.2% of working-age Italians have a job, so it comes to 1,067 hours per adult.
-- The Netherlands goes the other way: 1,452 hours per worker, 1,195 per adult. Italians work 263 more hours per worker and 128 fewer per adult. That's 20.5 hours a week against 23.0.
-- Iceland rises 19 places (35th to 16th) on an 85.3% employment rate. Japan rises 13.
-- Greece falls 16 places and Romania 17. Germany stays near the bottom either way (40th, then 39th).
-- 10 of the 40 countries move 10 places or more. The rank correlation between the two tables is 0.76.
+- If every division had kept its 2000 basement rate, the national share would have fallen only to 29%, not 16%.
+- The South's share of new houses rose from 45.5% to 58.2%. Together with the North shrinking, that shift is worth 7.1 of the 21.5 points lost.
+- East North Central (Ohio to Wisconsin) went from 76% to 42%, and the Middle Atlantic from 81% to 46%. Builders in the four northern divisions account for 36% of the national fall on their own, more than the move South.
+- The biggest single contributor is the South Atlantic, where the rate fell from 19% to 4%.
 
-Long hours per worker often go with a small workforce. In Italy, Greece and Spain, the famous long hours say as much about who isn't working as about who is.
+Most lost basements were lost in place, including where the ground freezes. My guess, and it is only a guess, is cost: the basement is the biggest item a builder can cut from a house priced to the limit.
 
-**How I did it.** Annual hours actually worked per worker and the employment rate for ages 15 to 64 both come from the OECD, for 2024. Hours per adult is one times the other. The hours figure covers workers of every age while the employment rate stops at 64, so this is an approximation, but the ranking holds with 2023 data too (Italy goes from 15th to 37th). The OECD says its hours series is built for comparing trends, not levels, so treat neighbouring ranks as ties and look at the big moves.
+**How I did it.** Census Survey of Construction microdata, houses completed in 2000 and 2025 (19,918 and 13,440 sampled), weighted. A shift-share decomposition with average weights, so the two parts add up exactly. Splitting detached from attached houses gives 36% for composition, a 1999 start gives 33%, and so does the published four-region table from the 1975 peak. A shift inside a division (Virginia to Florida, say) counts as "within", so a third is a floor for geography. NAHB's yearly foundation posts track the national trend; I haven't seen it split this way.
 
-[Code](archive/2026-11-13-hours-per-adult/analysis.py) · [Data](archive/2026-11-13-hours-per-adult/data/) · [SVG](archive/2026-11-13-hours-per-adult/chart.svg)
+[Code](archive/2026-11-13-basements-vanish-in-place/analysis.py) · [Data](archive/2026-11-13-basements-vanish-in-place/data/) · [SVG](archive/2026-11-13-basements-vanish-in-place/chart.svg)
 
 ---
 
