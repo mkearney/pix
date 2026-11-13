@@ -15,6 +15,23 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "archive"
 
+# Originality checks (see CLAUDE.md) apply to entries dated on or after this.
+CHECKS_FROM = "2026-11-13"
+CLAIM_TYPES = {
+    "share", "concentration", "equivalence", "gap", "reversal",
+    "turning-point", "mechanism", "outlier", "crossover",
+}
+# Claim types for entries published before the field existed. Published entries
+# are never edited, so their types live here.
+LEGACY_CLAIMS = {
+    "2026-11-08": "concentration",
+    "2026-11-09": "equivalence",
+    "2026-11-10": "share",
+    "2026-11-11": "gap",
+    "2026-11-12": "share",
+}
+PRIOR_ART_FIELDS = ("Naive prediction:", "Searches:", "Closest takes:", "What this adds:")
+
 
 def parse(post: Path) -> tuple[dict, str]:
     text = post.read_text()
@@ -30,6 +47,37 @@ def parse(post: Path) -> tuple[dict, str]:
         if key not in meta:
             raise SystemExit(f"{post}: front matter missing '{key}'")
     return meta, m.group(2).lstrip()
+
+
+def claim_of(meta: dict) -> str | None:
+    return meta.get("claim") or LEGACY_CLAIMS.get(meta["date"])
+
+
+def check_originality(entries: list) -> None:
+    """Refuse new entries that skip the originality checks in CLAUDE.md."""
+    problems = []
+    for i, (d, meta, _) in enumerate(entries):
+        if meta["date"] < CHECKS_FROM:
+            continue
+        claim = meta.get("claim")
+        if claim not in CLAIM_TYPES:
+            problems.append(f"{d.name}: 'claim' must be one of {sorted(CLAIM_TYPES)}")
+            continue
+        prior = d / "prior_art.md"
+        if not prior.exists():
+            problems.append(f"{d.name}: missing prior_art.md")
+        else:
+            text = prior.read_text()
+            missing = [f for f in PRIOR_ART_FIELDS if f not in text]
+            if missing:
+                problems.append(f"{d.name}: prior_art.md lacks {', '.join(missing)}")
+        earlier = [claim_of(m) for _, m, _ in entries[max(0, i - 6):i]]
+        if claim in earlier[-2:]:
+            problems.append(f"{d.name}: claim '{claim}' repeats one of the previous two entries")
+        if earlier.count(claim) >= 2:
+            problems.append(f"{d.name}: claim '{claim}' used twice already in the last seven entries")
+    if problems:
+        raise SystemExit("originality checks failed:\n  " + "\n  ".join(problems))
 
 
 def rewrite_links(body: str, prefix: str) -> str:
@@ -50,6 +98,7 @@ def main() -> None:
     if not entries:
         raise SystemExit("no archive entries found")
     entries.sort(key=lambda e: (e[1]["date"], e[0].name))
+    check_originality(entries)
 
     d, meta, body = entries[-1]
     rel = d.relative_to(ROOT).as_posix()

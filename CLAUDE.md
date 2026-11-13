@@ -51,8 +51,65 @@ already charted.
   an event this week), but never at the expense of originality.
 - Vary the form. Rotate chart types (dot plot, small multiples, map, slope, sawtooth, hero
   number, timeline, flow) so the archive doesn't settle into one look.
-- Write five candidate headlines, apply the first-idea test, pick the most original one that
-  the available data can support, and move on.
+- Write five candidate headlines, apply the first-idea test and the originality checks below,
+  pick the most original one that the available data can support, and move on.
+
+## Originality checks
+
+Asking for originality isn't enough; these checks make it a step you can't skip. Every
+entry records them in `prior_art.md`, and `scripts/publish.py` refuses entries without it.
+
+1. **Search before you build.** For the chosen candidate, run at least five web searches
+   before writing any analysis code: the claim in plain words, the key number, the dataset
+   name plus "chart" or "map", and checks of the usual suspects (Our World in Data, FT, The
+   Economist, Visual Capitalist, Reddit r/dataisbeautiful and r/MapPorn, Wikipedia). Log the
+   queries.
+2. **Name the closest take.** Link the one or two existing pieces nearest to yours and say in
+   one sentence what yours adds. If one of them makes the same point with the same kind of
+   data, the candidate is dead. Pick another or push the angle further. "Nobody has done
+   this" is only allowed after the searches came back empty, and it should be rare.
+3. **Write the naive prediction first.** Before looking at results, write one sentence on what
+   a smart reader would guess. If the data just confirms that guess, it isn't a post unless
+   the size of the effect is the surprise, and then the headline has to lead with the size.
+4. **Your own number has to carry it.** The headline figure must come from your own
+   computation (a join, a re-weighting, a derived measure), not be read off a single
+   published table. If the key number already appears in a source's summary, you're
+   re-reporting, not analysing.
+5. **Rotate the kind of claim, not just the chart.** Give every entry a `claim:` field in its
+   front matter, one of:
+   - `share`: what fraction of some population is in a group ("57% were born after...")
+   - `concentration`: a few cases account for most of the total
+   - `equivalence`: one quantity restated as a familiar one ("a South Korea of solar")
+   - `gap`: two things that should match don't (clock noon vs solar noon)
+   - `reversal`: a ranking or trend flips under a different measure or weighting
+   - `turning-point`: when something changed direction, and by how much
+   - `mechanism`: the data shows why something happens, not just that it does
+   - `outlier`: one case breaks a pattern everything else follows
+   - `crossover`: when two lines met or will meet (forecasts labelled as estimates)
+
+   Don't use the same claim type as either of the previous two entries, and don't use any
+   type more than twice in the last seven. Headlines shaped "X% of people..." are the house
+   habit to watch.
+6. **Avoid known viral formats** unless the angle is clearly new: "share of people born after
+   [event]", "more people live inside this circle than outside it", solar time vs clock time
+   maps, true-size or Mercator overlays, "if the world were 100 people", population by
+   latitude, and "[country] compared with every other country" equivalences. Don't reuse a
+   format the archive itself used in the last 30 days.
+7. **Distrust the calendar.** Anniversaries and this week's news are where every other outlet
+   is looking. A date-hooked topic needs a closest-take search aimed at that date (e.g. the
+   event name plus "chart" plus this year) and must still pass check 2.
+
+`prior_art.md` is short and plain, in this shape:
+
+```
+# Prior art
+Claim type: gap
+Naive prediction: one sentence.
+Candidates considered: the five headlines, one line each on why the losers lost.
+Searches: the queries run.
+Closest takes: link, one line each.
+What this adds: one or two sentences.
+```
 
 ## Voice
 
@@ -135,13 +192,15 @@ A Claude Code scheduled task runs this every day at 8:05am US Eastern.
 
 0. Setup: `pip install -r requirements.txt` (Inter font optional; style falls back gracefully).
 1. `TZ=America/Detroit date +%F` gives the entry date. Read `archive/README.md` to see what's been covered.
-2. Choose the topic (see above). Decide the one claim.
+2. Choose the topic (see above). Decide the one claim. Run the originality checks before
+   writing analysis code.
 3. Create `archive/YYYY-MM-DD-<short-slug>/` containing:
+   - `prior_art.md`: the originality log (see Originality checks)
    - `data/`: raw inputs + derived tables
    - `analysis.py`: loads `data/`, computes every number quoted, prints the key stats, and
      renders `chart.png` + `chart.svg`. It must run from the repo root with
      `python archive/<dir>/analysis.py`.
-   - `post.md`: front matter (`date`, `title`, `slug`, `topic`, `chart`, `summary`), then:
+   - `post.md`: front matter (`date`, `title`, `slug`, `topic`, `claim`, `chart`, `summary`), then:
      H1 headline · the image · one or two short paragraphs saying what I looked at and what I
      found · 3–6 plain bullets with the key numbers · one or two sentences on what it means ·
      a short **How I did it.** paragraph (sources, method, main caveat) · links to code, data
@@ -163,5 +222,5 @@ pix/fonts/              bundled fonts (OFL)
 STYLE.md                the Plate style guide
 scripts/publish.py      rebuilds README.md + archive/README.md
 archive/README.md       index of every entry (generated)
-archive/YYYY-MM-DD-slug/{post.md, chart.png, chart.svg, analysis.py, data/}
+archive/YYYY-MM-DD-slug/{post.md, prior_art.md, chart.png, chart.svg, analysis.py, data/}
 ```
