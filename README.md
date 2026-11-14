@@ -1,24 +1,25 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 6 · 2026-11-13 · Housing · [archive →](archive/)</sub>
+<sub>**pix** · one visual analysis of the world, every day · No. 7 · 2026-11-14 · Food & land · [archive →](archive/)</sub>
 
-# The move South explains only a third of lost basements
+# Cocoa doubled its harvest by doubling its land
 
-![The share of new US single-family houses with a basement, 1971 to 2025, against a counterfactual where only the location of building changes, and basement rates by census division in 2000 and 2025](archive/2026-11-13-basements-vanish-in-place/chart.png)
+![World coffee and cocoa output, harvested area and yield indexed to 1986-90, and the share of output growth that came from new land for the 21 biggest crops](archive/2026-11-14-cocoa-needs-new-land/chart.png)
 
-In 2000, 37% of new single-family houses in the US had a full or partial basement. In 2025 it was 16%. The obvious explanation is geography: more houses go up in Texas, Florida and the Carolinas, where hardly anyone digs one.
+Coffee and cocoa have a lot in common: tropical trees, mostly smallholders, sold into global commodity markets. Both roughly doubled their world output between the late 1980s and the early 2020s. They got there in opposite ways.
 
-I split the change in two across the nine census divisions: the shift in where houses are built, and the change in how often each division builds a basement. Geography accounts for a third. The rest is builders dropping basements where they used to be standard.
+I split each crop's growth into more land and more output per hectare, using FAOSTAT area and production with five-year averages at each end.
 
-- If every division had kept its 2000 basement rate, the national share would have fallen only to 29%, not 16%.
-- The South's share of new houses rose from 45.5% to 58.2%. Together with the North shrinking, that shift is worth 7.1 of the 21.5 points lost.
-- East North Central (Ohio to Wisconsin) went from 76% to 42%, and the Middle Atlantic from 81% to 46%. Builders in the four northern divisions account for 36% of the national fall on their own, more than the move South.
-- The biggest single contributor is the South Atlantic, where the rate fell from 19% to 4%.
+- Coffee output grew 1.89x on only 1.12x the land. Yields went from 0.54 to 0.90 tonnes per hectare, so 18% of the growth came from new land.
+- Cocoa output grew 2.30x and harvested area grew 2.08x, from 5.48 to 11.42 million hectares. Yields barely moved (0.43 to 0.48), so 88% of the growth came from new land.
+- Brazil added 1.80 million tonnes of coffee while its coffee area shrank by 0.98 million hectares. Vietnam's yields went from 1.26 to 2.90 tonnes per hectare.
+- Côte d'Ivoire alone added 2.78 million hectares of cocoa, 47% of the world's extra cocoa land, at flat yields (0.53 to 0.51).
+- If cocoa yields had grown as fast as coffee's, today's crop would fit on 7.51 million hectares instead of 11.42.
 
-Most lost basements were lost in place, including where the ground freezes. My guess, and it is only a guess, is cost: the basement is the biggest item a builder can cut from a house priced to the limit.
+Among the 21 biggest crops by area, cocoa ranks third for reliance on new land, behind only yams and cassava. Coffee ranks 18th. My guess is that much of the 5.94 million extra hectares used to be forest, but this data can't show that.
 
-**How I did it.** Census Survey of Construction microdata, houses completed in 2000 and 2025 (19,918 and 13,440 sampled), weighted. A shift-share decomposition with average weights, so the two parts add up exactly. Splitting detached from attached houses gives 36% for composition, a 1999 start gives 33%, and so does the published four-region table from the 1975 peak. A shift inside a division (Virginia to Florida, say) counts as "within", so a third is a floor for geography. NAHB's yearly foundation posts track the national trend; I haven't seen it split this way.
+**How I did it.** FAOSTAT's crops data (QCL) gives world harvested area and production for 1961 to 2024. Production is area times yield, so the land share of growth is the log of the area ratio over the log of the output ratio. Starting from 1991-95 instead gives 29% for coffee and 94% for cocoa. Harvested area leaves out young trees that aren't bearing yet, which if anything understates cocoa's land.
 
-[Code](archive/2026-11-13-basements-vanish-in-place/analysis.py) · [Data](archive/2026-11-13-basements-vanish-in-place/data/) · [SVG](archive/2026-11-13-basements-vanish-in-place/chart.svg)
+[Code](archive/2026-11-14-cocoa-needs-new-land/analysis.py) · [Data](archive/2026-11-14-cocoa-needs-new-land/data/) · [SVG](archive/2026-11-14-cocoa-needs-new-land/chart.svg)
 
 ---
 
-<sub>Previously: [Most people alive were born after the Berlin Wall fell](archive/2026-11-12-born-after-the-wall/post.md) · [The world's clocks run fast](archive/2026-11-11-clocks-run-fast/post.md) · [Two in five city dwellers live closer to a foreign capital](archive/2026-11-10-closer-to-a-foreign-capital/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [The move South explains only a third of lost basements](archive/2026-11-13-basements-vanish-in-place/post.md) · [Most people alive were born after the Berlin Wall fell](archive/2026-11-12-born-after-the-wall/post.md) · [The world's clocks run fast](archive/2026-11-11-clocks-run-fast/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>

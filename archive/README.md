@@ -1,9 +1,10 @@
 # pix archive
 
-6 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
+7 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
 
 | Date | | Analysis |
 |---|---|---|
+| 2026-11-14 | <a href="2026-11-14-cocoa-needs-new-land/post.md"><img src="2026-11-14-cocoa-needs-new-land/chart.png" width="180"></a> | **[Cocoa doubled its harvest by doubling its land](2026-11-14-cocoa-needs-new-land/post.md)**<br><sub>Food & land</sub><br>Since the late 1980s, 88% of the growth in world cocoa output came from new land. For coffee, the other big tropical tree crop, it was 18%. |
 | 2026-11-13 | <a href="2026-11-13-basements-vanish-in-place/post.md"><img src="2026-11-13-basements-vanish-in-place/chart.png" width="180"></a> | **[The move South explains only a third of lost basements](2026-11-13-basements-vanish-in-place/post.md)**<br><sub>Housing</sub><br>New US houses with a basement fell from 37% in 2000 to 16% in 2025. Building shifting South accounts for a third of that. Builders dropping basements in places that had them account for the rest. |
 | 2026-11-12 | <a href="2026-11-12-born-after-the-wall/post.md"><img src="2026-11-12-born-after-the-wall/chart.png" width="180"></a> | **[Most people alive were born after the Berlin Wall fell](2026-11-12-born-after-the-wall/post.md)**<br><sub>Demography</sub><br>57% of the 8.3 billion people alive today were born after 9 November 1989. In Germany it's 37%, and in 101 countries it's under half. |
 | 2026-11-11 | <a href="2026-11-11-clocks-run-fast/post.md"><img src="2026-11-11-clocks-run-fast/chart.png" width="180"></a> | **[The world's clocks run fast](2026-11-11-clocks-run-fast/post.md)**<br><sub>Time</sub><br>For most people the sun peaks after noon, not at it. 38% see it at 12:30 or later. Only 1% see it at 11:30 or earlier. |
