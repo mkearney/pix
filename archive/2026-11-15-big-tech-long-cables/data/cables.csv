@@ -1,0 +1,715 @@
+id,name,km,rfs,planned,n_owners,big_tech,is_bt,bt_only
+2africa,2Africa,45000.0,2024.0,False,8,Meta,True,False
+5-villages-6-islands,5 Villages 6 Islands,355.0,2019.0,False,1,,False,False
+acs-alaska-oregon-network-akorn,ACS Alaska-Oregon Network (AKORN),3000.0,2009.0,False,1,,False,False
+adamasia-cable-system-1-acs-1,Adamasia Cable System 1 (ACS-1),1015.0,2027.0,True,1,,False,False
+aden-djibouti,Aden-Djibouti,269.0,1994.0,False,5,,False,False
+adria-1,Adria-1,440.0,1996.0,False,2,,False,False
+aec-1,AEC-1,5521.0,2016.0,False,1,,False,False
+africa-1,Africa-1,10000.0,2027.0,True,7,,False,False
+africa-coast-to-europe-ace,Africa Coast to Europe (ACE),17000.0,2012.0,False,20,,False,False
+airraq,Airraq,840.0,2025.0,False,2,,False,False
+ak-link,AK-Link,1435.0,2028.0,True,1,,False,False
+alaska-united-east-au-east,Alaska United East (AU-East),3751.0,1999.0,False,1,,False,False
+alaska-united-southeast-au-se,Alaska United Southeast (AU-SE),626.0,2008.0,False,1,,False,False
+alaska-united-turnagain-arm-auta,Alaska United Turnagain Arm (AUTA),53.0,2012.0,False,1,,False,False
+alaska-united-west-au-west,Alaska United West (AU-West),2485.0,2004.0,False,1,,False,False
+alba-1,ALBA-1,1860.0,2012.0,False,2,,False,False
+aletar,Aletar,787.0,1997.0,False,3,,False,False
+alisios,Alisios,,2028.0,True,1,Google,True,True
+almera-melilla-alme,Almería-Melilla (ALME),198.0,1990.0,False,1,,False,False
+alonso-de-ojeda,Alonso de Ojeda,122.0,1999.0,False,2,,False,False
+america-movil-submarine-cable-system-1-amx-1,America Movil Submarine Cable System-1 (AMX-1),17800.0,2014.0,False,1,,False,False
+american-1,AmeriCan-1,140.0,1999.0,False,4,,False,False
+americas-i-north,Americas-I North,2012.0,1994.0,False,1,,False,False
+americas-ii-west,Americas-II West,217.0,2000.0,False,3,,False,False
+amerigo-vespucci,Amerigo Vespucci,87.0,1999.0,False,1,,False,False
+amitie,Amitie,6792.0,2023.0,False,5,Meta;Microsoft,True,False
+andromeda,ANDROMEDA,,,True,3,,False,False
+anjana,Anjana,7121.0,2026.0,False,1,Meta,True,True
+antigua-st-kitts,Antigua-St.Kitts,141.0,1995.0,False,1,,False,False
+antillas-1,Antillas 1,601.0,1997.0,False,5,,False,False
+apcn-2,APCN-2,19000.0,2001.0,False,22,,False,False
+apocs-1,APOCS 1,,1991.0,False,1,,False,False
+apocs-2,APOCS 2,,1995.0,False,1,,False,False
+apollo,Apollo,13000.0,2003.0,False,1,,False,False
+apollo-east-and-west,Apollo East and West,670.0,2025.0,False,1,,False,False
+apricot,Apricot,11972.0,2025.0,False,5,Google;Meta,True,False
+apx-east,APX East,13000.0,2028.0,True,1,,False,False
+apx-east-2,APX East-2,10000.0,2029.0,True,1,,False,False
+apx-north,APX North,9500.0,2029.0,True,1,,False,False
+apx-west,APX West,4600.0,2029.0,True,1,,False,False
+aqualink,Aqualink,,2001.0,False,1,,False,False
+arcos,ARCOS,8704.0,2001.0,False,19,,False,False
+arctic-way,Arctic Way,2568.0,2028.0,True,1,,False,False
+arimao,ARIMAO,2470.0,2023.0,False,2,,False,False
+arsat-submarine-fiber-optic-cable,ARSAT Submarine Fiber Optic Cable,40.0,2012.0,False,1,,False,False
+asia-africa-europe-1-aae-1,Asia Africa Europe-1 (AAE-1),25000.0,2017.0,False,19,,False,False
+asia-america-gateway-aag-cable-system,Asia-America Gateway (AAG) Cable System,20000.0,2009.0,False,18,,False,False
+asia-connect-cable-1-acc-1,Asia Connect Cable-1 (ACC-1),19000.0,,True,1,,False,False
+asia-direct-cable-adc,Asia Direct Cable (ADC),9988.0,2024.0,False,8,,False,False
+asia-link-cable-alc,Asia Link Cable (ALC),7200.0,2027.0,True,11,,False,False
+asia-pacific-gateway-apg,Asia Pacific Gateway (APG),10400.0,2016.0,False,13,Meta,True,False
+asia-submarine-cable-express-asecahaya-malaysia,Asia Submarine-cable Express (ASE)/Cahaya Malaysia,8148.0,2012.0,False,4,,False,False
+asia-united-gateway-east-aug-east,Asia United Gateway East (AUG East),8900.0,2029.0,True,9,Amazon;Microsoft,True,False
+atisa,Atisa,279.0,2017.0,False,1,,False,False
+atlantic-crossing-1-ac-1,Atlantic Crossing-1 (AC-1),14301.0,1998.0,False,1,,False,False
+atlas-offshore,Atlas Offshore,1634.0,2007.0,False,1,,False,False
+au-aleutian,AU-Aleutian,1491.0,2022.0,False,1,,False,False
+aurora,Aurora,7268.0,2028.0,True,1,Meta,True,True
+australia-japan-cable-ajc,Australia-Japan Cable (AJC),12700.0,2001.0,False,5,,False,False
+australia-singapore-cable-asc,Australia-Singapore Cable (ASC),4600.0,2018.0,False,1,,False,False
+auur,AUÐUR,1285.0,2030.0,True,1,,False,False
+avassa,Avassa,260.0,2016.0,False,2,,False,False
+awashima-murakami,Awashima-Murakami,66.0,2022.0,False,1,,False,False
+azores-fiber-optic-system-afos,Azores Fiber Optic System (AFOS),1100.0,1998.0,False,1,,False,False
+bahamas-2,Bahamas 2,476.0,1997.0,False,1,,False,False
+bahamas-domestic-submarine-network-bdsni,Bahamas Domestic Submarine Network (BDSNi),2735.0,2006.0,False,1,,False,False
+bahamas-internet-cable-system-bics,Bahamas Internet Cable System (BICS),1100.0,2001.0,False,1,,False,False
+balalink,Balalink,274.0,2001.0,False,1,,False,False
+balok,BALOK,60.0,2016.0,False,1,,False,False
+baltic-sea-submarine-cable,Baltic Sea Submarine Cable,1042.0,2000.0,False,1,,False,False
+baltica,Baltica,437.0,1997.0,False,6,,False,False
+bangladesh-private-cable-system-bpcs,Bangladesh Private Cable System (BPCS),1300.0,2027.0,True,3,,False,False
+barat-timur-indonesia-1-bti-1,Barat Timur Indonesia-1 (BTI-1),4500.0,2028.0,True,1,,False,False
+barat-timur-indonesia-2-bti-2,Barat Timur Indonesia-2 (BTI-2),11600.0,,True,1,,False,False
+barracuda,Barracuda,1050.0,2028.0,True,1,,False,False
+bass-strait-1,Bass Strait-1,241.0,1995.0,False,1,,False,False
+bass-strait-2,Bass Strait-2,239.0,2003.0,False,1,,False,False
+basslink,Basslink,298.0,2005.0,False,1,,False,False
+batam-dumai-melaka-bdm,Batam Dumai Melaka (BDM),353.0,2009.0,False,2,,False,False
+batam-rengit-cable-system-brcs,Batam-Rengit Cable System (BRCS),64.0,2007.0,False,1,,False,False
+batam-sarawak-internet-cable-system-basics,Batam Sarawak Internet Cable System (BaSICS),762.0,2021.0,False,1,,False,False
+batam-singapore-cable-system-bscs,Batam Singapore Cable System (BSCS),73.0,2009.0,False,1,,False,False
+bay-of-bengal-gateway-bbg,Bay of Bengal Gateway (BBG),8100.0,2016.0,False,9,,False,False
+bcs-east,BCS East,97.0,1995.0,False,1,,False,False
+bcs-east-west-interlink,BCS East-West Interlink,218.0,1997.0,False,1,,False,False
+bcs-north---phase-1,BCS North - Phase 1,513.0,1998.0,False,1,,False,False
+bcs-north---phase-2,BCS North - Phase 2,280.0,2000.0,False,1,,False,False
+beaufort,Beaufort,158.0,2027.0,True,3,Amazon;Microsoft,True,False
+bernacchi-1,Bernacchi-1,200.0,2027.0,True,2,,False,False
+berytar,BERYTAR,134.0,1997.0,False,2,,False,False
+besut-perhentian-islands,Besut-Perhentian Islands,21.0,2019.0,False,1,,False,False
+bharat-lanka-cable-system,Bharat Lanka Cable System,325.0,2006.0,False,2,,False,False
+bicentenario,Bicentenario,250.0,2011.0,False,2,,False,False
+bifrost,Bifrost,19888.0,2025.0,False,3,Meta,True,False
+biznet-nusantara-cable-system-1-bncs-1,Biznet Nusantara Cable System-1 (BNCS-1),105.0,2024.0,False,1,,False,False
+blue,Blue,5055.0,2023.0,False,3,Google,True,False
+bodo-rost-cable,Bodo-Rost Cable,109.0,2016.0,False,1,,False,False
+boracay-palawan-submarine-cable-system-bpscs,Boracay-Palawan Submarine Cable System (BPSCS),332.0,2013.0,False,1,,False,False
+bosun,Bosun,,2028.0,True,1,Google,True,True
+botnia,Botnia,93.0,1994.0,False,1,,False,False
+brazilian-festoon,Brazilian Festoon,2552.0,1996.0,False,1,,False,False
+brusa,BRUSA,11000.0,2018.0,False,1,,False,False
+bt-highlands-and-islands-submarine-cable-system,BT Highlands and Islands Submarine Cable System,402.0,2014.0,False,1,,False,False
+bt-mt-1,BT-MT-1,80.0,1990.0,False,2,,False,False
+bugio,BUGIO,73.0,1996.0,False,1,,False,False
+bulikula,Bulikula,21600.0,2027.0,True,1,Google,True,True
+c-lion1,C-Lion1,1172.0,2016.0,False,1,,False,False
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Cabo Verde Telecom Domestic Submarine Cable Phase 1,,1997.0,False,1,,False,False
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Cabo Verde Telecom Domestic Submarine Cable Phase 2,,2002.0,False,1,,False,False
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Cabo Verde Telecom Domestic Submarine Cable Phase 3,,2011.0,False,1,,False,False
+cadmos,CADMOS,230.0,1995.0,False,9,,False,False
+cadmos-2,CADMOS-2,250.0,2027.0,True,2,,False,False
+calvi-st-florent,Calvi-St. Florent,64.0,1997.0,False,1,,False,False
+cam-ring,CAM Ring,1120.0,2003.0,False,1,,False,False
+canalink,Canalink,1835.0,2011.0,False,1,,False,False
+candalta,CANDALTA,110.0,1999.0,False,1,,False,False
+candle,Candle,8000.0,2028.0,True,7,Meta,True,False
+canoa,Canoa,,,True,1,Google,True,True
+cantat-3,CANTAT-3,270.0,1994.0,False,1,,False,False
+caribbean-bermuda-u-s-cbus,Caribbean-Bermuda U.S. (CBUS),1700.0,2009.0,False,2,,False,False
+caribbean-regional-communications-infrastructure-program-carcip,Caribbean Regional Communications Infrastructure Program (CARCIP),225.0,2019.0,False,1,,False,False
+carnival-submarine-network-1-csn-1,Carnival Submarine Network-1 (CSN-1),4670.0,2026.0,True,1,,False,False
+cat-submarine-network-csn,CAT Submarine Network (CSN),1240.0,2013.0,False,1,,False,False
+caucasus-cable-system,Caucasus Cable System,1200.0,2008.0,False,1,,False,False
+cayman-jamaica-fiber-system-cjfs,Cayman-Jamaica Fiber System (CJFS),1197.0,1997.0,False,2,,False,False
+ceiba-1,Ceiba-1,287.0,2011.0,False,1,,False,False
+ceiba-2,Ceiba-2,290.0,2017.0,False,1,,False,False
+celia,CELIA,3700.0,2027.0,True,4,,False,False
+celtixconnect-1-cc-1,CeltixConnect-1 (CC-1),131.0,2012.0,False,1,,False,False
+challenger-one-bermuda,Challenger One Bermuda,,2024.0,False,1,,False,False
+channel-islands-9-liberty-submarine-cable,Channel Islands-9 Liberty Submarine Cable,,2008.0,False,1,,False,False
+chennai-andaman-nicobar-islands-cable-cani,Chennai-Andaman & Nicobar Islands Cable (CANI),2300.0,2020.0,False,1,,False,False
+chi,CHI,3932.0,2001.0,False,2,,False,False
+chuuk-pohnpei-cable,Chuuk-Pohnpei Cable,1200.0,2019.0,False,1,,False,False
+circe-north,Circe North,203.0,1999.0,False,2,,False,False
+circe-south,Circe South,115.0,1999.0,False,2,,False,False
+cobracable,COBRAcable,304.0,2019.0,False,1,,False,False
+cogim,COGIM,438.0,2005.0,False,1,,False,False
+colombia-florida-express-cfx-1,Colombia-Florida Express (CFX-1),2438.0,2008.0,False,1,,False,False
+colombian-festoon,Colombian Festoon,400.0,1997.0,False,0,,False,False
+columbus-ii-b,Columbus-II b,2068.0,1994.0,False,2,,False,False
+columbus-iii-azores-portugal,Columbus-III Azores-Portugal,,1999.0,False,1,,False,False
+comoros-domestic-cable-system,Comoros Domestic Cable System,,2010.0,False,1,,False,False
+concerto,Concerto,550.0,1999.0,False,1,,False,False
+connected-coast,Connected Coast,,2024.0,False,1,,False,False
+continente-madeira,Continente-Madeira,1179.0,2000.0,False,1,,False,False
+converge-domestic-submarine-cable-network-cdscn,Converge Domestic Submarine Cable Network (CDSCN),1300.0,2021.0,False,1,,False,False
+cook-strait,Cook Strait,40.0,2020.0,False,1,,False,False
+coral-bridge,Coral Bridge,,2025.0,False,2,,False,False
+coral-sea-cable-system-cs,Coral Sea Cable System (CS²),4700.0,2020.0,False,2,,False,False
+corse-continent-4-cc4,Corse-Continent 4 (CC4),190.0,1992.0,False,1,,False,False
+corse-continent-5-cc5,Corse-Continent 5 (CC5),299.0,1995.0,False,1,,False,False
+cowes-fawley-2,Cowes-Fawley 2,,2018.0,False,1,,False,False
+cross-sound-cable,Cross Sound Cable,40.0,2003.0,False,1,,False,False
+cross-straits-cable-network-cscn,Cross-Straits Cable Network (CSCN),21.0,2012.0,False,4,,False,False
+crosschannel-fibre,CrossChannel Fibre,149.0,2021.0,False,1,,False,False
+crosslake-fibre,Crosslake Fibre,59.0,2019.0,False,1,,False,False
+curie,Curie,10476.0,2020.0,False,1,Google,True,True
+cyclades-a,Cyclades A,222.0,2018.0,False,1,,False,False
+cyclades-b,Cyclades B,52.0,2020.0,False,1,,False,False
+daito-loop,Daito Loop,18.0,2025.0,False,1,,False,False
+dalian-yantai-cable,Dalian-Yantai Cable,146.0,1998.0,False,1,,False,False
+damai-cable-system,DAMAI Cable System,575.0,2019.0,False,1,,False,False
+danica-north,Danica North,25.0,1998.0,False,1,,False,False
+danice,DANICE,2304.0,2009.0,False,1,,False,False
+daraja,Daraja,4108.0,2027.0,True,1,Meta,True,True
+darwin-jakarta-singapore-cable-djsc,Darwin-Jakarta-Singapore Cable (DJSC),1000.0,2023.0,False,1,,False,False
+deep-blue-one,Deep Blue One,2250.0,2024.0,False,1,,False,False
+denmark-sweden-17,Denmark-Sweden 17,11.0,1994.0,False,2,,False,False
+denmark-sweden-18,Denmark-Sweden 18,,1996.0,False,2,,False,False
+denpasar-waingapu-cable-systems,Denpasar-Waingapu Cable Systems,814.0,2019.0,False,1,,False,False
+dhiraagu-cable-network,Dhiraagu Cable Network,1253.0,2012.0,False,1,,False,False
+dhiraagu-slt-submarine-cable-network,Dhiraagu-SLT Submarine Cable Network,850.0,2007.0,False,2,,False,False
+dhivaru,Dhivaru,,2028.0,True,1,Google,True,True
+didon,Didon,170.0,2014.0,False,2,,False,False
+djibouti-africa-regional-express-1-dare-1,Djibouti Africa Regional Express 1 (DARE 1),4854.0,2021.0,False,4,,False,False
+domestic-submarine-cable-of-maldives-dscom,Domestic Submarine Cable of Maldives (DSCoM),286.0,2024.0,False,2,,False,False
+dos-continentes-l-ll,DOS CONTINENTES l & ll,95.0,2020.0,False,1,,False,False
+dumai-melaka-cable-system-dmcs,Dumai-Melaka Cable System (DMCS),159.0,2005.0,False,2,,False,False
+dunant,Dunant,6400.0,2021.0,False,1,Google,True,True
+e-finest,E-FINEST,,2019.0,False,1,,False,False
+e-llan,E-LLAN,,2007.0,False,1,,False,False
+e2a,E2A,12500.0,2029.0,True,4,,False,False
+eac-c2c,EAC-C2C,36500.0,2002.0,False,1,,False,False
+eagle,EAGLE,1900.0,2029.0,True,2,,False,False
+east-micronesia-cable-system-emcs,East Micronesia Cable System (EMCS),2250.0,2026.0,False,3,,False,False
+east-west-cable-ewc,East-West Cable (EWC),1705.0,2011.0,False,1,,False,False
+east-west-submarine-cable-system,East-West Submarine Cable System,950.0,2004.0,False,1,,False,False
+eastern-africa-submarine-system-eassy,Eastern Africa Submarine System (EASSy),10500.0,2010.0,False,19,,False,False
+eastern-caribbean-fiber-system-ecfs,Eastern Caribbean Fiber System (ECFS),1335.0,1995.0,False,6,,False,False
+eastern-light-sweden-finland-i,Eastern Light Sweden-Finland I,,2019.0,False,1,,False,False
+eastern-light-sweden-finland-ii,Eastern Light Sweden-Finland II,,2027.0,True,1,,False,False
+eaufon-1,EAUFON 1,1175.0,2022.0,False,1,,False,False
+eaufon-2,EAUFON 2,675.0,2024.0,False,1,,False,False
+eaufon-3,EAUFON 3,900.0,2027.0,True,1,,False,False
+ebla,Ebla,236.0,2028.0,True,3,,False,False
+ec-link,EC Link,1078.0,2007.0,False,1,,False,False
+echo,Echo,17184.0,2025.0,False,2,Google;Meta,True,True
+elektra-globalconnect-1-gc1,Elektra-GlobalConnect 1 (GC1),44.0,2000.0,False,1,,False,False
+ellalink,EllaLink,6200.0,2021.0,False,1,,False,False
+emc-west-1,EMC West-1,3639.0,2027.0,True,1,,False,False
+emc-west-2,EMC West-2,3978.0,2027.0,True,1,,False,False
+emerald-bridge-fibres,Emerald Bridge Fibres,120.0,2012.0,False,1,,False,False
+energinet-laeso-varberg,Energinet Laeso-Varberg,,2011.0,False,1,,False,False
+energinet-lyngsa-laeso,Energinet Lyngsa-Laeso,,2011.0,False,1,,False,False
+energy-bridge-cable,Energy Bridge Cable,13.0,2017.0,False,1,,False,False
+epic-malta-sicily-cable-system-emscs,Epic Malta-Sicily Cable System (EMSCS),260.0,2004.0,False,1,,False,False
+equiano,Equiano,15000.0,2023.0,False,1,Google,True,True
+esat-2,ESAT-2,245.0,2000.0,False,1,,False,False
+est-tet,Est-Tet,113.0,1994.0,False,2,,False,False
+europe-india-gateway-eig,Europe India Gateway (EIG),15000.0,2011.0,False,17,,False,False
+eviny-digital,Eviny Digital,210.0,2020.0,False,1,,False,False
+exa-express,EXA Express,4600.0,2015.0,False,1,,False,False
+exa-meridian,EXA Meridian,6552.0,2029.0,True,1,,False,False
+exa-north-and-south,EXA North and South,12200.0,2001.0,False,1,,False,False
+exelera-north,Exelera North,345.0,2012.0,False,1,,False,False
+falcon,FALCON,10300.0,2006.0,False,1,,False,False
+far-east-submarine-cable-system,Far East Submarine Cable System,1855.0,2016.0,False,1,,False,False
+farewell-change-fogo,Farewell-Change-Fogo,16.0,2025.0,False,1,,False,False
+farice-1,FARICE-1,1205.0,2004.0,False,1,,False,False
+farland-north,Farland North,150.0,1998.0,False,1,,False,False
+faster,FASTER,11629.0,2016.0,False,6,Google,True,False
+fastnet,Fastnet,,2028.0,True,1,Amazon,True,True
+fea,FEA,,1997.0,False,1,,False,False
+fehmarn-blt,Fehmarn Bält,20.0,2000.0,False,1,,False,False
+fiber-optic-gulf-fog,Fiber Optic Gulf (FOG),1300.0,1998.0,False,4,,False,False
+fibra-optica-al-pacfico,Fibra Optica al Pacífico,1180.0,2020.0,False,1,,False,False
+fibra-optica-austral,Fibra Optica Austral,2800.0,2020.0,False,1,,False,False
+fibralink,Fibralink,1102.0,2006.0,False,1,,False,False
+fibre-in-gulf-fig,Fibre in Gulf (FIG),1931.0,2028.0,True,1,,False,False
+finland-estonia-2-eesf-2,Finland-Estonia 2 (EESF-2),98.0,1992.0,False,4,,False,False
+finland-estonia-3-eesf-3,Finland-Estonia 3 (EESF-3),104.0,1994.0,False,4,,False,False
+finland-estonia-connection-1-fec-1,Finland Estonia Connection 1 (FEC-1),,2000.0,False,1,,False,False
+finland-estonia-connection-2-fec-2,Finland Estonia Connection 2 (FEC-2),,2000.0,False,1,,False,False
+firmina,Firmina,14517.0,2025.0,False,1,Google,True,True
+fish-north,FISH North,90.0,2011.0,False,1,,False,False
+fish-south,FISH South,900.0,2027.0,True,1,,False,False
+fish-west,FISH West,276.0,2027.0,True,1,,False,False
+flag-atlantic-1-fa-1,FLAG Atlantic-1 (FA-1),14500.0,2001.0,False,1,,False,False
+flag-north-asia-loopreach-north-asia-loop,FLAG North Asia Loop/REACH North Asia Loop,9504.0,2001.0,False,3,,False,False
+flores-corvo-cable-system,Flores-Corvo Cable System,685.0,2014.0,False,1,,False,False
+fly-lion3,FLY-LION3,400.0,2019.0,False,3,,False,False
+fnix,Fénix,378.0,2026.0,True,2,,False,False
+fos-quellon-chacabuco,FOS Quellon-Chacabuco,350.0,2015.0,False,1,,False,False
+gemini-bermuda,Gemini Bermuda,1501.0,2007.0,False,2,,False,False
+geo-eirgrid,Geo-Eirgrid,187.0,2012.0,False,1,,False,False
+georgia-russia,Georgia-Russia,433.0,2000.0,False,3,,False,False
+germany-denmark-3,Germany-Denmark 3,,2000.0,False,1,,False,False
+glo-1,Glo-1,9800.0,2010.0,False,1,,False,False
+global-caribbean-network-gcn,Global Caribbean Network (GCN),890.0,2006.0,False,1,,False,False
+globalconnect-2-gc2,GlobalConnect 2 (GC2),95.0,2001.0,False,1,,False,False
+globalconnect-3-gc3,GlobalConnect 3 (GC3),19.0,2006.0,False,1,,False,False
+globalconnect-6-gc6,GlobalConnect 6 (GC6),,2019.0,False,1,,False,False
+globalconnect-aurora,GlobalConnect Aurora,500.0,2024.0,False,1,,False,False
+globalconnect-denmark-sweden,GlobalConnect Denmark-Sweden,,1994.0,False,1,,False,False
+globalconnect-kpn,GlobalConnect-KPN,43.0,2006.0,False,1,,False,False
+globenet,GlobeNet,23500.0,2000.0,False,1,,False,False
+go-1-mediterranean-cable-system,GO-1 Mediterranean Cable System,290.0,2008.0,False,1,,False,False
+gondwana-1,Gondwana-1,2151.0,2008.0,False,1,,False,False
+gondwana-2picot-2,Gondwana-2/Picot-2,1515.0,2022.0,False,1,,False,False
+grace-hopper,Grace Hopper,7191.0,2022.0,False,1,Google,True,True
+grand-bahama-bimini-submarine-cable,Grand Bahama Bimini Submarine Cable,117.0,2005.0,False,1,,False,False
+greenland-connect,Greenland Connect,4580.0,2009.0,False,1,,False,False
+greenland-connect-north,Greenland Connect North,680.0,2017.0,False,1,,False,False
+groix-4,Groix 4,7.0,2022.0,False,1,,False,False
+groote-eylandt,Groote Eylandt,95.0,2011.0,False,1,,False,False
+gtmo-1,GTMO-1,1528.0,2016.0,False,1,,False,False
+gtmo-pr,GTMO-PR,1400.0,2019.0,False,1,,False,False
+guadeloupe-cable-des-iles-du-sud-gcis,Guadeloupe Cable des Iles du Sud (GCIS),118.0,2020.0,False,1,,False,False
+guam-okinawa-kyushu-incheon-goki,Guam Okinawa Kyushu Incheon (GOKI),4244.0,2013.0,False,1,,False,False
+guernsey-jersey-4,Guernsey-Jersey-4,36.0,1994.0,False,1,,False,False
+gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena,Gulf Bridge International Cable System/Middle East North Africa Cable System (GBICS/MENA),5270.0,2012.0,False,1,,False,False
+gulf-of-california-cable,Gulf of California Cable,250.0,2019.0,False,1,,False,False
+gulf-of-mexico-fiber-optic-network,Gulf of Mexico Fiber Optic Network,1200.0,2008.0,False,1,,False,False
+gulf2africa-g2a,Gulf2Africa (G2A),1500.0,2017.0,False,3,,False,False
+hachijojima-mainland,Hachijojima-Mainland,,2008.0,False,1,,False,False
+haikou-beihai-cable,Haikou-Beihai Cable,198.0,1999.0,False,1,,False,False
+hainan-to-hong-kong-express-h2he,Hainan to Hong Kong Express (H2HE),675.0,2021.0,False,1,,False,False
+halaihai,Halaihai,17483.0,2028.0,True,1,Google,True,True
+hannibal-system,HANNIBAL System,178.0,2009.0,False,1,,False,False
+hantru1-cable-system,HANTRU1 Cable System,2917.0,2010.0,False,3,,False,False
+havfrueaec-2,Havfrue/AEC-2,7650.0,2020.0,False,4,Google;Meta,True,False
+havhingstenceltixconnect-2-cc-2,Havhingsten/CeltixConnect-2 (CC-2),301.0,2022.0,False,3,Meta,True,False
+havhingstennorth-sea-connect-nsc,Havhingsten/North Sea Connect (NSC),661.0,2022.0,False,3,Meta,True,False
+havsil,Havsil,120.0,2022.0,False,1,,False,False
+hawaii-inter-island-cable-system-hics,Hawaii Inter-Island Cable System (HICS),479.0,1994.0,False,1,,False,False
+hawaii-island-fibre-network-hifn,Hawaii Island Fibre Network (HIFN),529.0,1997.0,False,2,,False,False
+hawaiian-islands-fiber-link-hifl,Hawaiian Islands Fiber Link (HIFL),740.0,2027.0,True,1,,False,False
+hawaiki,Hawaiki,14000.0,2018.0,False,1,,False,False
+hawaiki-nui-1,Hawaiki Nui 1,10000.0,2029.0,True,1,,False,False
+hawk,Hawk,3400.0,2011.0,False,1,,False,False
+high-capacity-undersea-guernsey-optical-fibre-hugo,High-capacity Undersea Guernsey Optical-fibre (HUGO),425.0,2007.0,False,2,,False,False
+hokkaido-akita-cable,Hokkaido-Akita Cable,770.0,2023.0,False,4,,False,False
+hokkaido-rebun-rishiri,Hokkaido-Rebun-Rishiri,64.0,2011.0,False,1,,False,False
+hokkaido-sakhalin-cable-system-hscs,Hokkaido-Sakhalin Cable System (HSCS),570.0,2008.0,False,2,,False,False
+honomoana,Honomoana,15215.0,2027.0,True,1,Google,True,True
+honotua,Honotua,4805.0,2010.0,False,1,,False,False
+hronn,Hronn,270.0,2022.0,False,1,,False,False
+i-2sea,I-2SEA,3600.0,2029.0,True,4,Microsoft,True,False
+i-am-cable,I-AM Cable,8100.0,2029.0,True,2,,False,False
+i2i-cable-network-i2icn,i2i Cable Network (i2icn),3200.0,2002.0,False,1,,False,False
+iceni,Iceni,,2024.0,False,1,,False,False
+imewe,IMEWE,12091.0,2010.0,False,9,,False,False
+india-asia-xpress-iax,India Asia Xpress (IAX),5791.0,2024.0,False,2,,False,False
+india-europe-xpress-iex,India Europe Xpress (IEX),9775.0,2027.0,True,2,,False,False
+indigo-central,INDIGO-Central,4850.0,2019.0,False,5,Google,True,False
+indigo-west,INDIGO-West,4600.0,2019.0,False,6,Google,True,False
+indonesia-global-gateway-igg-system,Indonesia Global Gateway (IGG) System,5300.0,2018.0,False,2,,False,False
+indonesia-tengah-cable-systems,Indonesia Tengah Cable Systems,2641.0,2027.0,True,2,,False,False
+ingrid,INGRID,64.0,2004.0,False,1,,False,False
+insica,INSICA,100.0,2027.0,True,2,,False,False
+interchange-cable-network-1-icn1,Interchange Cable Network 1 (ICN1),1259.0,2014.0,False,1,,False,False
+ioema-1,IOEMA-1,1667.0,2029.0,True,1,,False,False
+iokwe,IOKWE,,2029.0,True,1,,False,False
+ion-cable-system-1-ics1,ION Cable System-1 (ICS1),1041.0,2027.0,True,1,,False,False
+ionian,Ionian,320.0,2023.0,False,1,,False,False
+iris,IRIS,1770.0,2023.0,False,1,,False,False
+isle-au-haut-cable,Isle Au Haut Cable,10.0,2024.0,False,1,,False,False
+isles-of-scilly-cable,Isles of Scilly Cable,,2014.0,False,1,,False,False
+israel-coasting-1-ic-1,Israel Coasting 1 (IC-1),340.0,2000.0,False,1,,False,False
+italy-albania,Italy-Albania,240.0,1997.0,False,2,,False,False
+italy-croatia,Italy-Croatia,230.0,1994.0,False,2,,False,False
+italy-greece-1-ig-1,Italy-Greece 1 (IG-1),169.0,1995.0,False,1,,False,False
+italy-libya,Italy-Libya,570.0,1998.0,False,2,,False,False
+italy-malta,Italy-Malta,238.0,1994.0,False,2,,False,False
+italy-monaco,Italy-Monaco,162.0,1995.0,False,2,,False,False
+ithaafushi-maafushi-hulhumale,Ithaafushi-Maafushi-Hulhumale,,2025.0,False,1,,False,False
+ixchel,Ixchel,20.0,2007.0,False,1,,False,False
+izu-islands-cable-system,Izu Islands Cable System,,1996.0,False,1,,False,False
+jaka2ladema,JaKa2LaDeMa,1700.0,2010.0,False,1,,False,False
+jakabare,JAKABARE,1330.0,2009.0,False,1,,False,False
+jakarta-bangka-batam-singapore-b2js,Jakarta-Bangka-Batam-Singapore (B2JS),759.0,2013.0,False,1,,False,False
+jakarta-bangka-bintan-batam-singapore-b3js,Jakarta-Bangka-Bintan-Batam-Singapore (B3JS),1031.0,2012.0,False,1,,False,False
+jakarta-surabaya-cable-system-jayabaya,Jakarta Surabaya Cable System (JAYABAYA),888.0,2018.0,False,1,,False,False
+jako,JAKO,260.0,2027.0,True,4,Amazon;Microsoft,True,False
+jalapati,Jalapati,45.0,2023.0,False,1,,False,False
+jamaica-submarine-cable-festoon-system-jscfs,Jamaica Submarine Cable Festoon System (JSCFS),342.0,1997.0,False,1,,False,False
+jambi-batam-cable-system-jiba,Jambi-Batam Cable System (JIBA),267.0,2014.0,False,3,,False,False
+janna,Janna,634.0,2005.0,False,4,,False,False
+japan-guam-australia-north-jga-n,Japan-Guam-Australia North (JGA-N),2600.0,2020.0,False,1,,False,False
+japan-guam-australia-south-jga-s,Japan-Guam-Australia South (JGA-S),7081.0,2020.0,False,3,Google,True,False
+japan-information-highway-jih,Japan Information Highway (JIH),5150.0,1999.0,False,1,,False,False
+jasuka,JaSuKa,,2006.0,False,1,,False,False
+java-bali-cable-system-jbcs,Java Bali Cable System (JBCS),,2013.0,False,1,,False,False
+java-kalimantan-sulawesi-jakasusi,Java-Kalimantan-Sulawesi (JAKASUSI),1100.0,2006.0,False,1,,False,False
+javali,JAVALI,,2011.0,False,1,,False,False
+jeju-mainland-2,Jeju-Mainland 2,191.0,1996.0,False,1,,False,False
+jeju-mainland-3,Jeju-Mainland 3,236.0,2000.0,False,1,,False,False
+jeju-udo,Jeju-Udo,3.0,2023.0,False,4,,False,False
+jerry-newton,Jerry Newton,88.0,2007.0,False,1,,False,False
+jonah,Jonah,2297.0,2012.0,False,1,,False,False
+junior,Junior,390.0,2018.0,False,1,Google,True,True
+juno,JUNO,11710.0,2025.0,False,1,,False,False
+jupiter,JUPITER,14557.0,2020.0,False,6,Amazon;Meta,True,False
+kafos,KAFOS,538.0,1997.0,False,1,,False,False
+kanawa,Kanawa,1746.0,2019.0,False,1,,False,False
+kangaroo-island-2,Kangaroo Island 2,,2024.0,False,1,,False,False
+kardesa,Kardesa,1385.0,2027.0,True,2,,False,False
+kattegat-2,Kattegat 2,75.0,2001.0,False,1,,False,False
+kattegat-cable,Kattegat Cable,92.0,2027.0,True,1,,False,False
+kerch-strait-cable,Kerch Strait Cable,46.0,2014.0,False,1,,False,False
+ketchcan1-submarine-fiber-cable-system,KetchCan1 Submarine Fiber Cable System,167.0,2020.0,False,1,,False,False
+kingisepp-kaliningrad-system-baltika,Kingisepp-Kaliningrad System (Baltika),1115.0,2021.0,False,1,,False,False
+kitadaito-island,Kitadaito Island,410.0,2022.0,False,1,,False,False
+kochi-lakshadweep-islands-kli-sofc,Kochi-Lakshadweep Islands (KLI-SOFC),1989.0,2024.0,False,1,,False,False
+kodiak-kenai-fiber-link-kkfl,Kodiak Kenai Fiber Link (KKFL),966.0,2007.0,False,1,,False,False
+konstanz-friedrichshafen,Konstanz-Friedrichshafen,26.0,2007.0,False,1,,False,False
+konstanz-meersburg,Konstanz-Meersburg,5.0,2010.0,False,1,,False,False
+korea-japan-cable-network-kjcn,Korea-Japan Cable Network (KJCN),500.0,2002.0,False,4,,False,False
+kumul-domestic-submarine-cable-system,Kumul Domestic Submarine Cable System,5457.0,2019.0,False,1,,False,False
+kunoa-north,Kunoa North,,2028.0,True,1,,False,False
+kupang-alor-cable-systems,Kupang-Alor Cable Systems,273.0,2019.0,False,1,,False,False
+kuwait-iran,Kuwait-Iran,380.0,2005.0,False,2,,False,False
+la-gomera-el-hierro,La Gomera-El Hierro,,2007.0,False,1,,False,False
+labuan-brunei-submarine-cable,Labuan-Brunei Submarine Cable,52.0,2017.0,False,1,,False,False
+lake-albert-1,Lake Albert 1,51.0,2019.0,False,1,,False,False
+lake-albert-2,Lake Albert 2,44.0,2020.0,False,1,,False,False
+lake-michigan-chicago-crossing,Lake Michigan Chicago Crossing,,2028.0,True,2,,False,False
+lake-michigan-crossing-peninsula-and-island-connection,Lake Michigan Crossing Peninsula and Island Connection,,2028.0,True,2,,False,False
+lake-tanganyika,Lake Tanganyika,370.0,2025.0,False,1,,False,False
+lanis-1,Lanis-1,113.0,1992.0,False,1,,False,False
+lanis-2,Lanis-2,67.0,1992.0,False,1,,False,False
+lanis-3,Lanis-3,122.0,1992.0,False,1,,False,False
+latvia-sweden-1-lv-se-1,Latvia-Sweden 1 (LV-SE 1),304.0,1994.0,False,2,,False,False
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Lazaro Cardenas-Manzanillo Santiago Submarine Cable System (LCMSSCS),322.0,2013.0,False,1,,False,False
+le-vasa,Le Vasa,,2027.0,True,1,,False,False
+les-dhyres-cable,Îles d'Hyères Cable,45.0,1996.0,False,1,,False,False
+lfon-libyan-fiber-optic-network,LFON (Libyan Fiber Optic Network),1639.0,1999.0,False,2,,False,False
+libreville-port-gentil-cable,Libreville-Port Gentil Cable,198.0,2012.0,False,1,,False,False
+lic-lin-lamp,Lic-Lin-Lamp,240.0,2000.0,False,1,,False,False
+link-1-phase-1,Link 1 Phase-1,368.0,2003.0,False,1,,False,False
+link-1-phase-2,Link 1 Phase-2,94.0,2005.0,False,1,,False,False
+link-2-phase-1,Link 2 Phase-1,281.0,2004.0,False,1,,False,False
+link-2-phase-2,Link 2 Phase-2,221.0,2005.0,False,1,,False,False
+link-3-phase-1,Link 3 Phase-1,275.0,2003.0,False,1,,False,False
+link-3-phase-2,Link 3 Phase-2,342.0,2005.0,False,1,,False,False
+link-4-phase-2,Link 4 Phase-2,300.0,2005.0,False,1,,False,False
+link-5-phase-2,Link 5 Phase-2,365.0,2005.0,False,1,,False,False
+longyearbyen-ny-lesund,Longyearbyen-Ny-Ålesund,540.0,2015.0,False,1,,False,False
+lower-indian-ocean-network-2-lion2,Lower Indian Ocean Network 2 (LION2),2700.0,2012.0,False,6,,False,False
+lower-indian-ocean-network-lion,Lower Indian Ocean Network (LION),1060.0,2009.0,False,3,,False,False
+lumut-pangkor-island,Lumut-Pangkor Island,4.0,2018.0,False,1,,False,False
+luwuk-tutuyan-cable-system-ltcs,Luwuk Tutuyan Cable System (LTCS),446.0,2015.0,False,1,,False,False
+lynn-canal-fiber,Lynn Canal Fiber,138.0,2016.0,False,1,,False,False
+mainone,MainOne,7000.0,2010.0,False,1,,False,False
+malaysia-cambodia-thailand-mct-cable,Malaysia-Cambodia-Thailand (MCT) Cable,1300.0,2017.0,False,3,,False,False
+malbec,Malbec,2880.0,2021.0,False,2,Meta,True,False
+maldives-sri-lanka-cable-msc,Maldives Sri Lanka Cable (MSC),863.0,2021.0,False,3,,False,False
+malta-gozo-cable,Malta-Gozo Cable,13.0,2020.0,False,1,,False,False
+malta-italy-interconnector,Malta-Italy Interconnector,95.0,2015.0,False,1,,False,False
+manatua,Manatua,3634.0,2020.0,False,4,,False,False
+manta,MANTA,5600.0,2028.0,True,3,,False,False
+manx-northern-ireland,Manx-Northern Ireland,59.0,2000.0,False,1,,False,False
+marea,MAREA,6605.0,2018.0,False,3,Meta;Microsoft,True,False
+mariana-guam-cable,Mariana-Guam Cable,268.0,1997.0,False,1,,False,False
+maroc-telecom-west-africa,Maroc Telecom West Africa,8600.0,2021.0,False,1,,False,False
+mataram-kupang-cable-system-mkcs,Mataram Kupang Cable System (MKCS),1318.0,2011.0,False,1,,False,False
+matrix-cable-system,Matrix Cable System,1055.0,2008.0,False,2,,False,False
+mauritius-and-rodrigues-submarine-cable-system-mars,Mauritius and Rodrigues Submarine Cable System (MARS),677.0,2019.0,False,1,,False,False
+maya-1-2,Maya-1.2,2386.0,2026.0,False,3,,False,False
+med-cable-network,Med Cable Network,1300.0,2005.0,False,1,,False,False
+medloop,Medloop,1360.0,2023.0,False,1,,False,False
+mednautilus-submarine-system,MedNautilus Submarine System,7000.0,2001.0,False,1,,False,False
+medusa-submarine-cable-system,Medusa Submarine Cable System,8760.0,2026.0,False,1,,False,False
+melita-1,Melita 1,97.0,2009.0,False,1,,False,False
+meltingpot-indianoceanic-submarine-system-metiss,Meltingpot Indianoceanic Submarine System (METISS),3200.0,2021.0,False,6,,False,False
+mercator,Mercator,,2023.0,False,1,,False,False
+mid-atlantic-crossing-mac,Mid-Atlantic Crossing (MAC),7500.0,2000.0,False,1,,False,False
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Middle East North Africa (MENA) Cable System/Gulf Bridge International,8000.0,2014.0,False,2,,False,False
+minamidaito-island,Minamidaito Island,410.0,2011.0,False,1,,False,False
+minoas-east-and-west,Minoas East and West,270.0,2021.0,False,1,,False,False
+mishima-village,Mishima Village,192.0,2010.0,False,1,,False,False
+mist,MIST,8100.0,2024.0,False,1,,False,False
+miyazaki-okinawa-cable-moc,Miyazaki-Okinawa Cable (MOC),,1997.0,False,1,,False,False
+mjolner-east,Mjolner East,450.0,2027.0,True,1,,False,False
+mjolner-west,Mjolner West,250.0,2027.0,True,1,,False,False
+mobily-red-sea-cable-mrsc,Mobily Red Sea Cable (MRSC),,2027.0,True,1,,False,False
+monet,Monet,10556.0,2017.0,False,4,Google,True,False
+moratelindo-international-cable-system-1-mic-1,Moratelindo International Cable System-1 (MIC-1),70.0,2008.0,False,1,,False,False
+muroran-hachinohe,Muroran-Hachinohe,280.0,2002.0,False,1,,False,False
+mvista,MViSTA,2569.0,2029.0,True,1,,False,False
+n0r5ke-viking,N0r5ke Viking,810.0,2022.0,False,1,,False,False
+national-digital-transmission-network-ndtn,National Digital Transmission Network (NDTN),1400.0,1999.0,False,1,,False,False
+nationwide-submarine-cable-ooredoo-maldives-nascom,Nationwide Submarine Cable Ooredoo Maldives (NaSCOM),1136.0,2016.0,False,1,,False,False
+natitua,Natitua,2680.0,2018.0,False,1,,False,False
+natitua-sud,Natitua Sud,820.0,2023.0,False,1,,False,False
+nelson-levin,Nelson-Levin,212.0,2001.0,False,1,,False,False
+new-cam-ring,New CAM Ring,3812.0,2027.0,True,1,,False,False
+new-cross-pacific-ncp-cable-system,New Cross Pacific (NCP) Cable System,13618.0,2018.0,False,7,Microsoft,True,False
+nigeria-cameroon-submarine-cable-system-ncscs,Nigeria Cameroon Submarine Cable System (NCSCS),1100.0,2015.0,False,1,,False,False
+ningbo-zhoushan-cable,Ningbo-Zhoushan Cable,35.0,1999.0,False,1,,False,False
+no-uk,NO-UK,713.0,2021.0,False,1,,False,False
+nome-to-homer-express-nthe,Nome to Homer Express (NTHE),1545.0,2027.0,True,1,,False,False
+nongsa-changi,Nongsa-Changi,50.0,2026.0,True,3,,False,False
+nordbalt,NordBalt,400.0,2016.0,False,2,,False,False
+norfest,Norfest,749.0,2023.0,False,1,,False,False
+norte-conectado-infovia-00,Norte Conectado (Infovia 00),770.0,2022.0,False,6,,False,False
+norte-conectado-infovia-01,Norte Conectado (Infovia 01),1100.0,2023.0,False,12,,False,False
+norte-conectado-infovia-02,Norte Conectado (Infovia 02),1796.0,2026.0,False,1,,False,False
+norte-conectado-infovia-03,Norte Conectado (Infovia 03),600.0,2025.0,False,1,,False,False
+norte-conectado-infovia-04,Norte Conectado (Infovia 04),515.0,2026.0,False,1,,False,False
+norte-conectado-infovia-05,Norte Conectado (Infovia 05),1116.0,2028.0,True,1,,False,False
+norte-conectado-infovia-06,Norte Conectado (Infovia 06),2847.0,2028.0,True,1,,False,False
+norte-conectado-infovia-08,Norte Conectado (Infovia 08),2766.0,2028.0,True,1,,False,False
+north-west-cable-system,North-West Cable System,2100.0,2016.0,False,1,,False,False
+northern-lights,Northern Lights,67.0,2008.0,False,1,,False,False
+northstar,NorthStar,3229.0,1999.0,False,1,,False,False
+nuvem,Nuvem,7194.0,2027.0,True,1,Google,True,True
+oceanic-tatitlek-telecommunications-enhancement-route-otter,Oceanic Tatitlek Telecommunications Enhancement Route (OTTER),50.0,2027.0,True,1,,False,False
+ogasawara-cable-network,Ogasawara Cable Network,1038.0,2011.0,False,1,,False,False
+okinawa-cellular-cable,Okinawa Cellular Cable,780.0,2020.0,False,1,,False,False
+okinawa-miyakojima-ishigaki,Okinawa-Miyakojima-Ishigaki,467.0,2004.0,False,1,,False,False
+okinawa-remote-islands,Okinawa Remote Islands,915.0,2017.0,False,1,,False,False
+olaluz,OlaLuz,,,True,1,Google,True,True
+olisipo,Olisipo,110.0,2029.0,True,1,,False,False
+oman-australia-cable-oac,Oman Australia Cable (OAC),11000.0,2022.0,False,1,,False,False
+omranepeg,OMRAN/EPEG,600.0,2013.0,False,2,,False,False
+oran-valencia-orval,Oran-Valencia (ORVAL),770.0,2020.0,False,1,,False,False
+orca,ORCA,12482.0,2027.0,True,1,Meta,True,True
+orient-island-ring,Orient Island Ring,553.0,2028.0,True,1,,False,False
+oskarshamn-visby,Oskarshamn-Visby,,2008.0,False,1,,False,False
+oteglobe-kokkini-bari,OTEGLOBE Kokkini-Bari,700.0,2004.0,False,1,,False,False
+pacific-caribbean-cable-system-pccs,Pacific Caribbean Cable System (PCCS),6163.0,2015.0,False,5,,False,False
+pacific-crossing-1-pc-1,Pacific Crossing-1 (PC-1),21000.0,1999.0,False,1,,False,False
+pacific-light-cable-network-plcn,Pacific Light Cable Network (PLCN),11806.0,2022.0,False,2,Google;Meta,True,True
+padang-tua-pejat,Padang-Tua Pejat,160.0,2019.0,False,1,,False,False
+palapa-ring-east,Palapa Ring East,,2019.0,False,3,,False,False
+palapa-ring-middle,Palapa Ring Middle,2100.0,2018.0,False,1,,False,False
+palapa-ring-west,Palapa Ring West,1980.0,2018.0,False,1,,False,False
+palawan-iloilo-cable-system,Palawan-Iloilo Cable System,300.0,2014.0,False,1,,False,False
+pan-american-crossing-pac,Pan-American Crossing (PAC),10000.0,2000.0,False,1,,False,False
+pan-european-crossing-uk-belgium,Pan European Crossing (UK-Belgium),117.0,1999.0,False,1,,False,False
+pan-european-crossing-uk-ireland,Pan European Crossing (UK-Ireland),495.0,2000.0,False,1,,False,False
+panam-south,PanAm South,1340.0,1999.0,False,2,,False,False
+paniolo-cable-network,Paniolo Cable Network,576.0,2009.0,False,1,,False,False
+pasela,PASELA,1100.0,2027.0,True,1,,False,False
+pasuli,PASULI,40.0,2019.0,False,2,,False,False
+patara-2,Patara-2,1200.0,2023.0,False,1,,False,False
+peace-cable,PEACE Cable,25000.0,2022.0,False,1,,False,False
+penbal-4,Penbal-4,317.0,1991.0,False,1,,False,False
+penbal-5,Penbal-5,315.0,1994.0,False,1,,False,False
+pencan-8,Pencan-8,1400.0,2011.0,False,1,,False,False
+pencan-9,Pencan-9,1398.0,2016.0,False,1,,False,False
+persona,Persona,800.0,2008.0,False,1,,False,False
+petal,Petal,7000.0,2029.0,True,1,Meta,True,True
+petropavlovsk-kamchatsky---anadyr,Petropavlovsk-Kamchatsky - Anadyr,2173.0,2022.0,False,1,,False,False
+pgascom,PGASCOM,264.0,2010.0,False,1,,False,False
+philippine-domestic-submarine-cable-network-pdscn,Philippine Domestic Submarine Cable Network (PDSCN),2500.0,2023.0,False,3,,False,False
+piano-isole-minori,Piano Isole Minori,830.0,2024.0,False,1,,False,False
+picot-1,Picot-1,,2008.0,False,1,,False,False
+pipe-pacific-cable-1-ppc-1,PIPE Pacific Cable-1 (PPC-1),6900.0,2009.0,False,1,,False,False
+pishgaman-oman-iran-poi-network,Pishgaman Oman Iran (POI) Network,400.0,2012.0,False,1,,False,False
+pldt-domestic-fiber-optic-network-dfon,PLDT Domestic Fiber Optic Network (DFON),11100.0,1997.0,False,1,,False,False
+png-lng,PNG LNG,200.0,2014.0,False,1,,False,False
+polar-circle-cable,Polar Circle Cable,1004.0,2007.0,False,1,,False,False
+polar-express,Polar Express,12650.0,2022.0,False,1,,False,False
+portsmouth-ryde-10,Portsmouth-Ryde 10,,2015.0,False,1,,False,False
+portsmouth-ryde-11,Portsmouth-Ryde 11,,2015.0,False,1,,False,False
+poseidon,POSEIDON,800.0,2014.0,False,2,,False,False
+prat,Prat,3500.0,2020.0,False,1,,False,False
+proa,Proa,2891.0,2027.0,True,1,Google,True,True
+project-waterworth,Project Waterworth,50000.0,,True,1,Meta,True,True
+projeto-amaznia-conectada-pac-01,Projeto Amazônia Conectada (PAC 01),800.0,2017.0,False,1,,False,False
+projeto-amaznia-conectada-pac-02,Projeto Amazônia Conectada (PAC 02),1001.0,2021.0,False,1,,False,False
+pukpuk-1-cable-system,Pukpuk-1 Cable System,134.0,2026.0,False,1,,False,False
+qatar-u-a-e-submarine-cable-system,Qatar-U.A.E. Submarine Cable System,100.0,2004.0,False,2,,False,False
+qe-north,Q&E North,112.0,2025.0,False,1,,False,False
+qe-south,Q&E South,141.0,2026.0,False,1,,False,False
+quintillion-subsea-cable-network,Quintillion Subsea Cable Network,1900.0,2017.0,False,1,,False,False
+r100-north,R100 North,224.0,2023.0,False,1,,False,False
+raman,Raman,7376.0,2027.0,True,3,Google,True,False
+red-hook-little-saint-james,Red Hook-Little Saint James,5.0,2005.0,False,1,,False,False
+red2med,Red2Med,420.0,2023.0,False,1,,False,False
+reunion,ReuNION,,2028.0,True,4,,False,False
+rising-8,RISING 8,1104.0,2026.0,False,2,,False,False
+rnne-rdvig,Rønne-Rødvig,153.0,1989.0,False,1,,False,False
+rockabill,Rockabill,221.0,2019.0,False,1,,False,False
+rompin-tioman-island,Rompin-Tioman Island,75.0,2018.0,False,1,,False,False
+romsar-2,ROMSAR 2,,1996.0,False,1,,False,False
+romulo,Romulo,237.0,2011.0,False,1,,False,False
+roquetas-melilla-cam,Roquetas-Melilla (CAM),181.0,2014.0,False,1,,False,False
+ruppione-isolella,Ruppione-Isolella,62.0,2007.0,False,1,,False,False
+russia-japan-cable-network-rjcn,Russia-Japan Cable Network (RJCN),1800.0,2008.0,False,2,,False,False
+s-u-b-cable-system,S-U-B Cable System,2009.0,2008.0,False,1,,False,False
+saba-statia-cable-system-sscs,"Saba, Statia Cable System (SSCS)",198.0,2013.0,False,1,,False,False
+safe,SAFE,13500.0,2002.0,False,28,,False,False
+sagres,Sagres,302.0,1998.0,False,1,,False,False
+sakhalin-kuril-islands-cable,Sakhalin-Kuril Islands Cable,940.0,2019.0,False,1,,False,False
+samoa-american-samoa-sas,Samoa-American Samoa (SAS),250.0,2009.0,False,2,,False,False
+san-andres-isla-tolu-submarine-cable-sait,San Andres Isla Tolu Submarine Cable (SAIT),826.0,2010.0,False,1,,False,False
+sape-labuan-bajo-ende-kupang,Sape-Labuan Bajo-Ende-Kupang,474.0,2021.0,False,1,,False,False
+sarco,SARCO,,2006.0,False,1,,False,False
+sat-3wasc,SAT-3/WASC,14350.0,2002.0,False,33,,False,False
+saudi-arabia-sudan-1-sas-1,Saudi Arabia-Sudan-1 (SAS-1),333.0,2003.0,False,3,,False,False
+saudi-arabia-sudan-2-sas-2,Saudi Arabia-Sudan-2 (SAS-2),330.0,2011.0,False,2,,False,False
+saudi-vision,Saudi Vision,1071.0,2023.0,False,1,,False,False
+scandinavian-ring-north,Scandinavian Ring North,5.0,2000.0,False,1,,False,False
+scandinavian-ring-south,Scandinavian Ring South,21.0,2000.0,False,1,,False,False
+scotland-northern-ireland-3,Scotland-Northern Ireland 3,42.0,2022.0,False,1,,False,False
+scotland-northern-ireland-4,Scotland-Northern Ireland 4,85.0,2022.0,False,1,,False,False
+scylla,Scylla,204.0,2021.0,False,1,,False,False
+sea-h2x,SEA-H2X,5746.0,2026.0,False,3,,False,False
+sea-us,SEA-US,14500.0,2017.0,False,5,,False,False
+sea2shore,sea2shore,32.0,2016.0,False,1,,False,False
+seabras-1,Seabras-1,10800.0,2017.0,False,2,,False,False
+seacomtata-tgn-eurasia,SEACOM/Tata TGN-Eurasia,15000.0,2009.0,False,2,,False,False
+sealink,SEALink,345.0,2023.0,False,1,,False,False
+sealink-south,SEALink South,159.0,2024.0,False,1,,False,False
+seamewe-4,SeaMeWe-4,20000.0,2005.0,False,16,,False,False
+seamewe-5,SeaMeWe-5,20000.0,2016.0,False,18,,False,False
+seamewe-6,SeaMeWe-6,21700.0,2027.0,True,16,Microsoft,True,False
+seax-1,SEAX-1,250.0,2018.0,False,1,,False,False
+segunda-fos-canal-de-chacao,Segunda FOS Canal de Chacao,40.0,2015.0,False,1,,False,False
+senegal-horn-of-africa-regional-express-share-cable,Senegal Horn of Africa Regional Express (SHARE) Cable,720.0,2023.0,False,1,,False,False
+seychelles-to-east-africa-system-seas,Seychelles to East Africa System (SEAS),1930.0,2012.0,False,1,,False,False
+sharm-el-sheikhtaba,Sharm El Sheikh–Taba,200.0,2027.0,True,1,,False,False
+shefa-2,SHEFA-2,1000.0,2008.0,False,1,,False,False
+sihanoukville-hong-kong-shv-hk,Sihanoukville-Hong Kong (SHV-HK),2938.0,2026.0,True,1,,False,False
+silphium,Silphium,425.0,2013.0,False,1,,False,False
+sint-maarten-puerto-rico-network-one-smpr-1,Sint Maarten Puerto Rico Network One (SMPR-1),375.0,2004.0,False,2,,False,False
+sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,84.0,2018.0,False,1,,False,False
+sirius-north,Sirius North,147.0,1999.0,False,1,,False,False
+sirius-south,Sirius South,219.0,1999.0,False,1,,False,False
+sistem-kabel-rakyat-1malaysia-skr1m,Sistem Kabel Rakyat 1Malaysia (SKR1M),3800.0,2017.0,False,2,,False,False
+sjjk,SJJK,543.0,2008.0,False,1,,False,False
+skagenfiber-west,Skagenfiber West,170.0,2020.0,False,1,,False,False
+skagerrak-4,Skagerrak 4,137.0,2014.0,False,1,,False,False
+smpcs-packet-1,SMPCS Packet-1,3156.0,2015.0,False,1,,False,False
+smpcs-packet-2,SMPCS Packet-2,3498.0,2015.0,False,1,,False,False
+sol,Sol,8153.0,2029.0,True,1,Google,True,True
+solas,Solas,232.0,1999.0,False,2,,False,False
+sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,Sorsogon-Samar Submarine Fiber Optical Interconnection Project (SSSFOIP),21.0,2019.0,False,1,,False,False
+south-america-1-sam-1,South America-1 (SAm-1),25000.0,2001.0,False,1,,False,False
+south-american-crossing-sac,South American Crossing (SAC),20000.0,2000.0,False,2,,False,False
+south-atlantic-cable-system-sacs,South Atlantic Cable System (SACS),6165.0,2018.0,False,1,,False,False
+south-atlantic-inter-link-sail,South Atlantic Inter Link (SAIL),5800.0,2020.0,False,2,,False,False
+south-pacific-cable-system-spcsmistral,South Pacific Cable System (SPCS)/Mistral,7300.0,2021.0,False,2,,False,False
+southeast-asia-japan-cable-2-sjc2,Southeast Asia-Japan Cable 2 (SJC2),10500.0,2025.0,False,10,Meta,True,False
+southeast-asia-japan-cable-sjc,Southeast Asia-Japan Cable (SJC),8900.0,2013.0,False,10,Google,True,False
+southern-caribbean-fiber,Southern Caribbean Fiber,3000.0,2006.0,False,1,,False,False
+southern-cross-cable-network-sccn,Southern Cross Cable Network (SCCN),30500.0,2000.0,False,1,,False,False
+southern-cross-next,Southern Cross NEXT,13700.0,2022.0,False,1,,False,False
+sovetskaya-gavan-ilyinskoye,Sovetskaya Gavan-Ilyinskoye,214.0,2007.0,False,1,,False,False
+sovetskaya-gavan-uglegorsk,Sovetskaya Gavan-Uglegorsk,127.0,2019.0,False,1,,False,False
+st-pierre-and-miquelon-cable,St. Pierre and Miquelon Cable,200.0,2018.0,False,1,,False,False
+st-thomas-st-croix-system,St. Thomas-St. Croix System,183.0,1997.0,False,2,,False,False
+staonuk,Sta’O’Nuk,,2029.0,True,1,Amazon,True,True
+sto-hel-one,STO-HEL-One,560.0,2008.0,False,1,,False,False
+strategic-evolution-underwater-link-seul,Strategic Evolution Underwater Link (SEUL),24.0,2017.0,False,1,,False,False
+subcan-link-1,Subcan Link 1,143.0,2002.0,False,1,,False,False
+subcan-link-2,Subcan Link 2,136.0,2002.0,False,1,,False,False
+submarine-cable-in-the-philippines-scip,Submarine Cable in the Philippines (SCiP),1638.0,2022.0,False,1,,False,False
+sumatera-bangka-cable-system-sbcs,Sumatera Bangka Cable System (SBCS),57.0,2014.0,False,1,,False,False
+sunoque-i,Sunoque I,,1999.0,False,2,,False,False
+sunoque-ii,Sunoque II,,1999.0,False,2,,False,False
+sunoque-iii,Sunoque III,125.0,2027.0,True,2,,False,False
+suriname-guyana-submarine-cable-system-sg-scs,Suriname-Guyana Submarine Cable System (SG-SCS),1249.0,2010.0,False,2,,False,False
+svalbard-undersea-cable-system,Svalbard Undersea Cable System,2714.0,2004.0,False,1,,False,False
+sweden-estonia-ee-s-1,Sweden-Estonia (EE-S 1),240.0,1995.0,False,5,,False,False
+sweden-latvia,Sweden-Latvia,391.0,2005.0,False,1,,False,False
+sx-tasman-express-sx-tx,SX Tasman Express (SX-TX),2276.0,2028.0,True,1,,False,False
+sydney-melbourne-adelaide-perth-smap,Sydney-Melbourne-Adelaide-Perth (SMAP),5000.0,2026.0,False,1,,False,False
+t3,T3,3200.0,2023.0,False,2,,False,False
+taba-aqaba,Taba-Aqaba,13.0,1998.0,False,1,,False,False
+tabua,Tabua,14751.0,2027.0,True,1,Google,True,True
+taihei,Taihei,7000.0,2028.0,True,1,Google,True,True
+taino-carib,Taino-Carib,187.0,1992.0,False,8,,False,False
+taiwan-matsu-no-4,Taiwan-Matsu No.4,300.0,2026.0,False,1,,False,False
+taiwan-penghu-kinmen-matsu-no-2-tpkm2,Taiwan Penghu Kinmen Matsu No.2 (TPKM2),467.0,2000.0,False,1,,False,False
+taiwan-penghu-kinmen-matsu-no-3-tpkm3,Taiwan Penghu Kinmen Matsu No.3 (TPKM3),510.0,2013.0,False,1,,False,False
+taiwan-strait-express-1-tse-1,Taiwan Strait Express-1 (TSE-1),260.0,2013.0,False,6,,False,False
+talaylink,TalayLink,,2027.0,True,1,Google,True,True
+tam-1,TAM-1,7200.0,2026.0,True,1,,False,False
+tampnet-north,Tampnet North,1751.0,1999.0,False,1,,False,False
+tampnet-south,Tampnet South,1751.0,1999.0,False,1,,False,False
+tamtam,Tamtam,1000.0,2027.0,True,1,,False,False
+tangerine,Tangerine,112.0,2000.0,False,1,,False,False
+tanjung-pandan-sungai-kakap,Tanjung Pandan-Sungai Kakap,348.0,2019.0,False,1,,False,False
+tannat,Tannat,2000.0,2018.0,False,2,Google,True,False
+tarakan-selor-cable-system-tscs,Tarakan Selor Cable System (TSCS),83.0,2014.0,False,1,,False,False
+tasman-global-access-tga-cable,Tasman Global Access (TGA) Cable,2288.0,2017.0,False,3,,False,False
+tasman-ring-network-phase-1,Tasman Ring Network-Phase 1,2300.0,2029.0,True,1,,False,False
+tata-tgn-atlantic-south,Tata TGN-Atlantic South,,2001.0,False,1,,False,False
+tata-tgn-gulf,Tata TGN-Gulf,4031.0,2012.0,False,1,,False,False
+tata-tgn-intra-asia-tgn-ia,Tata TGN-Intra Asia (TGN-IA),6700.0,2009.0,False,1,,False,False
+tata-tgn-pacific,Tata TGN-Pacific,22300.0,2002.0,False,1,,False,False
+tata-tgn-tata-indicom,Tata TGN-Tata Indicom,3175.0,2004.0,False,1,,False,False
+tata-tgn-western-europe,Tata TGN-Western Europe,3578.0,2002.0,False,1,,False,False
+tautira-teahupoo,Tautira-Teahupo'o,38.0,2023.0,False,1,,False,False
+te-northtgn-eurasiaseacomalexandrosmedex,TE North/TGN-Eurasia/SEACOM/Alexandros/Medex,3634.0,2011.0,False,6,,False,False
+tegopa,TEGOPA,222.0,1994.0,False,1,,False,False
+teide,Teide,225.0,2027.0,True,1,,False,False
+telstra-endeavour,Telstra Endeavour,9125.0,2008.0,False,1,,False,False
+tenerife-gran-canaria,Tenerife-Gran Canaria,110.0,1999.0,False,1,,False,False
+tenerife-la-palma,Tenerife-La Palma,,2011.0,False,1,,False,False
+terra-sw,TERRA SW,,2012.0,False,1,,False,False
+thailand-domestic-submarine-cable-network-tdscn,Thailand Domestic Submarine Cable Network (TDSCN),884.0,2001.0,False,1,,False,False
+thailand-indonesia-singapore-tis,Thailand-Indonesia-Singapore (TIS),968.0,2003.0,False,3,,False,False
+the-east-african-marine-system-teams,The East African Marine System (TEAMS),5054.0,2009.0,False,2,,False,False
+thetis,Thetis,660.0,2022.0,False,1,,False,False
+thetis-express,Thetis Express,340.0,2027.0,True,1,,False,False
+tikal-amx3,TIKAL-AMX3,1935.0,2027.0,True,2,,False,False
+timor-leste-south-submarine-cable-tlssc,Timor-Leste South Submarine Cable (TLSSC),607.0,2026.0,False,1,,False,False
+tko-connect,TKO Connect,6.0,2023.0,False,2,,False,False
+tmx5,TMX5,383.0,2025.0,False,1,,False,False
+tobrok-emasaed-cable-system,Tobrok-Emasaed Cable System,178.0,2010.0,False,1,,False,False
+tokelau-submarine-cable,Tokelau Submarine Cable,250.0,2023.0,False,1,,False,False
+tonga-cable,Tonga Cable,827.0,2013.0,False,3,,False,False
+tonga-domestic-cable-extension-tdce,Tonga Domestic Cable Extension (TDCE),410.0,2018.0,False,1,,False,False
+topaz,Topaz,,2023.0,False,1,Google,True,True
+tpu,TPU,13470.0,2026.0,False,1,Google,True,True
+trans-adriatic-express-tae,Trans Adriatic Express (TAE),106.0,2023.0,False,2,,False,False
+trans-caspian-fiber-optic-cable,Trans-Caspian Fiber Optic Cable,380.0,2026.0,False,1,,False,False
+trans-global-cable-system-tgcs,Trans Global Cable System (TGCS),1200.0,2027.0,True,1,,False,False
+trans-pacific-express-tpe-cable-system,Trans-Pacific Express (TPE) Cable System,17968.0,2008.0,False,7,,False,False
+transcan-2,TRANSCAN-2,238.0,1990.0,False,1,,False,False
+transcan-3,TRANSCAN-3,210.0,2000.0,False,1,,False,False
+transworld-tw1,Transworld (TW1),1300.0,2006.0,False,1,,False,False
+tt1,TT1,44.0,2015.0,False,3,,False,False
+tui-samoa,Tui-Samoa,1693.0,2018.0,False,1,,False,False
+turcyos-1,Turcyos-1,110.0,1993.0,False,1,,False,False
+turcyos-2,Turcyos-2,213.0,2011.0,False,1,,False,False
+tverrlinken,Tverrlinken,,2010.0,False,1,,False,False
+uae-iran,UAE-Iran,170.0,1992.0,False,2,,False,False
+ugarit,UGARIT,239.0,1995.0,False,13,,False,False
+uk-channel-islands-7,UK-Channel Islands-7,124.0,1994.0,False,2,,False,False
+uk-channel-islands-8,UK-Channel Islands-8,237.0,1994.0,False,1,,False,False
+ulleung-mainland-2,Ulleung-Mainland 2,164.0,2016.0,False,1,,False,False
+ultramar-ge,Ultramar GE,263.0,2023.0,False,1,,False,False
+ulysses-2,Ulysses 2,199.0,1997.0,False,1,,False,False
+umo,UMO,2227.0,2023.0,False,1,,False,False
+umoja,Umoja,,2028.0,True,1,Google,True,True
+unisur,Unisur,265.0,1995.0,False,2,,False,False
+unitel-north-submarine-cable-unsc,Unitel North Submarine Cable (UNSC),1145.0,2023.0,False,1,,False,False
+unitirreno,Unitirreno,1156.0,2025.0,False,2,,False,False
+unity,Unity,9620.0,2010.0,False,6,Google,True,False
+vaka,VAKA,668.0,2027.0,True,1,,False,False
+vancouver-bowen-island-vancouver-island,Vancouver-Bowen Island-Vancouver Island,75.0,2019.0,False,1,,False,False
+venezuelan-festoon,Venezuelan Festoon,1200.0,1998.0,False,1,,False,False
+verena,Verena,630.0,2028.0,True,1,,False,False
+vietnam-singapore-cable-system-vts,Vietnam-Singapore Cable System (VTS),,2030.0,True,3,,False,False
+vodafone-greece-domestic,Vodafone Greece Domestic,92.0,2008.0,False,1,,False,False
+vstervik-visby,Västervik-Visby,,2008.0,False,1,,False,False
+west-africa-cable-system-wacs,West Africa Cable System (WACS),14530.0,2012.0,False,18,,False,False
+whidbey-island-camano-island,Whidbey Island-Camano Island,4.0,1999.0,False,1,,False,False
+whidbey-island-everett,Whidbey Island-Everett,9.0,1999.0,False,1,,False,False
+whidbey-island-hat-island,Whidbey Island-Hat Island,4.0,1999.0,False,1,,False,False
+whidbey-island-seattle,Whidbey Island-Seattle,44.0,1999.0,False,1,,False,False
+x-link-submarine-cable,X-Link Submarine Cable,775.0,2019.0,False,1,,False,False
+yellow,Yellow,7001.0,2000.0,False,1,,False,False
+yui,YUI,720.0,2023.0,False,1,,False,False
+yuza-tobishima,Yuza-Tobishima,31.0,2022.0,False,1,,False,False
+zayo-festoon,Zayo Festoon,,2015.0,False,1,,False,False
+zeus,Zeus,,2022.0,False,1,,False,False

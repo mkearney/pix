@@ -1,9 +1,10 @@
 # pix archive
 
-7 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
+8 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
 
 | Date | | Analysis |
 |---|---|---|
+| 2026-11-15 | <a href="2026-11-15-big-tech-long-cables/post.md"><img src="2026-11-15-big-tech-long-cables/chart.png" width="180"></a> | **[By length, most new undersea cable has a Big Tech owner](2026-11-15-big-tech-long-cables/post.md)**<br><sub>Infrastructure</sub><br>Google, Meta, Amazon or Microsoft co-own 23% of the undersea cables due in service from 2025 to 2029, but 54% of the kilometres. Their cables are the long ones. |
 | 2026-11-14 | <a href="2026-11-14-cocoa-needs-new-land/post.md"><img src="2026-11-14-cocoa-needs-new-land/chart.png" width="180"></a> | **[Cocoa doubled its harvest by doubling its land](2026-11-14-cocoa-needs-new-land/post.md)**<br><sub>Food & land</sub><br>Since the late 1980s, 88% of the growth in world cocoa output came from new land. For coffee, the other big tropical tree crop, it was 18%. |
 | 2026-11-13 | <a href="2026-11-13-basements-vanish-in-place/post.md"><img src="2026-11-13-basements-vanish-in-place/chart.png" width="180"></a> | **[The move South explains only a third of lost basements](2026-11-13-basements-vanish-in-place/post.md)**<br><sub>Housing</sub><br>New US houses with a basement fell from 37% in 2000 to 16% in 2025. Building shifting South accounts for a third of that. Builders dropping basements in places that had them account for the rest. |
 | 2026-11-12 | <a href="2026-11-12-born-after-the-wall/post.md"><img src="2026-11-12-born-after-the-wall/chart.png" width="180"></a> | **[Most people alive were born after the Berlin Wall fell](2026-11-12-born-after-the-wall/post.md)**<br><sub>Demography</sub><br>57% of the 8.3 billion people alive today were born after 9 November 1989. In Germany it's 37%, and in 101 countries it's under half. |
