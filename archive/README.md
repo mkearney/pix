@@ -1,9 +1,10 @@
 # pix archive
 
-8 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
+9 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
 
 | Date | | Analysis |
 |---|---|---|
+| 2026-11-16 | <a href="2026-11-16-satellites-heavier-again/post.md"><img src="2026-11-16-satellites-heavier-again/chart.png" width="180"></a> | **[Satellites stopped shrinking in 2017](2026-11-16-satellites-heavier-again/post.md)**<br><sub>Space</sub><br>The median satellite fell from about 1,450 kg to 5 kg by 2017 as CubeSats took over. It has since climbed back to 575 kg, and to 267 kg even without Starlink. |
 | 2026-11-15 | <a href="2026-11-15-big-tech-long-cables/post.md"><img src="2026-11-15-big-tech-long-cables/chart.png" width="180"></a> | **[By length, most new undersea cable has a Big Tech owner](2026-11-15-big-tech-long-cables/post.md)**<br><sub>Infrastructure</sub><br>Google, Meta, Amazon or Microsoft co-own 23% of the undersea cables due in service from 2025 to 2029, but 54% of the kilometres. Their cables are the long ones. |
 | 2026-11-14 | <a href="2026-11-14-cocoa-needs-new-land/post.md"><img src="2026-11-14-cocoa-needs-new-land/chart.png" width="180"></a> | **[Cocoa doubled its harvest by doubling its land](2026-11-14-cocoa-needs-new-land/post.md)**<br><sub>Food & land</sub><br>Since the late 1980s, 88% of the growth in world cocoa output came from new land. For coffee, the other big tropical tree crop, it was 18%. |
 | 2026-11-13 | <a href="2026-11-13-basements-vanish-in-place/post.md"><img src="2026-11-13-basements-vanish-in-place/chart.png" width="180"></a> | **[The move South explains only a third of lost basements](2026-11-13-basements-vanish-in-place/post.md)**<br><sub>Housing</sub><br>New US houses with a basement fell from 37% in 2000 to 16% in 2025. Building shifting South accounts for a third of that. Builders dropping basements in places that had them account for the rest. |
