@@ -1,9 +1,10 @@
 # pix archive
 
-9 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
+10 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
 
 | Date | | Analysis |
 |---|---|---|
+| 2026-11-17 | <a href="2026-11-17-israel-outgrows-immigrants/post.md"><img src="2026-11-17-israel-outgrows-immigrants/chart.png" width="180"></a> | **[Israel is outgrowing its immigrants](2026-11-17-israel-outgrows-immigrants/post.md)**<br><sub>Migration</sub><br>The foreign-born share rose in 43 of 51 rich countries since 1990. Israel's fell the most, from 36% to 22%, even though 29% more immigrants live there now. |
 | 2026-11-16 | <a href="2026-11-16-satellites-heavier-again/post.md"><img src="2026-11-16-satellites-heavier-again/chart.png" width="180"></a> | **[Satellites stopped shrinking in 2017](2026-11-16-satellites-heavier-again/post.md)**<br><sub>Space</sub><br>The median satellite fell from about 1,450 kg to 5 kg by 2017 as CubeSats took over. It has since climbed back to 575 kg, and to 267 kg even without Starlink. |
 | 2026-11-15 | <a href="2026-11-15-big-tech-long-cables/post.md"><img src="2026-11-15-big-tech-long-cables/chart.png" width="180"></a> | **[By length, most new undersea cable has a Big Tech owner](2026-11-15-big-tech-long-cables/post.md)**<br><sub>Infrastructure</sub><br>Google, Meta, Amazon or Microsoft co-own 23% of the undersea cables due in service from 2025 to 2029, but 54% of the kilometres. Their cables are the long ones. |
 | 2026-11-14 | <a href="2026-11-14-cocoa-needs-new-land/post.md"><img src="2026-11-14-cocoa-needs-new-land/chart.png" width="180"></a> | **[Cocoa doubled its harvest by doubling its land](2026-11-14-cocoa-needs-new-land/post.md)**<br><sub>Food & land</sub><br>Since the late 1980s, 88% of the growth in world cocoa output came from new land. For coffee, the other big tropical tree crop, it was 18%. |
