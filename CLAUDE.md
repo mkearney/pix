@@ -14,7 +14,9 @@ field. So the evidence bar is strict, every number has to be traceable, and
 finding.
 
 This file is the standing brief for whoever (human or Claude) makes the day's entry. Follow
-it every time.
+it every time. It replaced the original brief on 2026-11-18: if a scheduled-task prompt or an
+earlier run mentions uniqueness tests, first-idea tests, `prior_art.md` or first-person
+write-ups, those belong to the old brief and no longer apply.
 
 ## What makes an entry
 
