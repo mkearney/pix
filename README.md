@@ -1,25 +1,18 @@
-<sub>**pix** · one visual analysis of the world, every day · No. 10 · 2026-11-17 · Migration · [archive →](archive/)</sub>
+<sub>**pix** · one settled finding, drawn clearly, every day · No. 11 · 2026-11-18 · Genetics · [archive →](archive/)</sub>
 
-# Israel is outgrowing its immigrants
+# Older fathers pass on more new mutations
 
-![Foreign-born share of the population in 1990 and 2024 for 51 high-income countries, and Israel's and Latvia's populations split into native-born and foreign-born](archive/2026-11-17-israel-outgrows-immigrants/chart.png)
+![Scatter plot of new mutations a child inherits from each parent against that parent's age, for 225 Icelandic families, with lines rising 1.51 a year for fathers and 0.37 for mothers. Below, stacked bars of expected new mutations for children of parents aged 20, 30 and 40: 47, 66 and 85.](archive/2026-11-18-older-fathers-new-mutations/chart.png)
 
-Almost every rich country has a bigger foreign-born share than it did in 1990. I wanted to see the exceptions, and why.
+Standard sequencing finds about 70 DNA changes in each child that neither parent carries. In 1,548 Icelandic families, each extra year of the father's age at conception added 1.51 of them, and each year of the mother's added 0.37. Where a mutation could be traced to a parent, 80% came from the father. A child of two 40-year-olds can expect about 85; a child of two 20-year-olds, about 47.
 
-I took the UN's migrant stock estimates for the 51 high-income countries with at least a million people, and split each population into foreign-born and native-born.
+The usual explanation for the father's share: sperm-making cells keep dividing throughout adult life, while a woman's eggs are formed before she is born.
 
-- The foreign-born share rose in 43 of the 51. The median change was +6.0 points, and Qatar's was +27.7.
-- Israel's fell the most: from 35.7% in 1990 to 22.3% in 2024, a little lower in every five-year step.
-- Yet Israel has more immigrants than ever: 2.09 million, up 29% from 1.62 million. The native-born population grew 2.5 times, from 2.92 million to 7.30 million.
-- Latvia, Estonia and Lithuania fell too, the opposite way. Their foreign-born populations shrank by 66%, 47% and 50%.
-- Only Saudi Arabia and Costa Rica joined Israel in having more immigrants but a smaller share, and both by less than 2 points.
+**Source:** Jónsson H, Sulem P, Kehr B, et al. Parental influence on human germline de novo mutations in 1,548 trios from Iceland. *Nature* 549, 519–522 (2017). [doi:10.1038/nature24018](https://doi.org/10.1038/nature24018)<br>
+**Evidence:** Whole-genome sequencing of parents and child, 108,778 new mutations. The father's-age effect also appears in 78 Icelandic trios (Kong et al., 2012) and 816 trios outside Iceland (Goldmann et al., 2016). The slopes above are refit from the study's released data and match the paper.
 
-In Israel the native-born population, which includes immigrants' children and grandchildren, simply grew much faster than new arrivals. No other rich country's share fell this way by more than 2 points. In the Baltics the usual explanation is that people who came in Soviet times have left or died, and few have replaced them. That fits the counts, but this data can't show it directly.
-
-**How I did it.** UN DESA's International Migrant Stock 2024, via Our World in Data, with the World Bank's 2025 income groups. I took total population as the UN migrant count divided by the UN migrant share, so both parts come from one release, and did the rest in pandas. "Foreign-born" falls back to foreign citizenship where a country doesn't record birthplace.
-
-[Code](archive/2026-11-17-israel-outgrows-immigrants/analysis.py) · [Data](archive/2026-11-17-israel-outgrows-immigrants/data/) · [SVG](archive/2026-11-17-israel-outgrows-immigrants/chart.svg)
+[Data](archive/2026-11-18-older-fathers-new-mutations/data/) · [Code](archive/2026-11-18-older-fathers-new-mutations/analysis.py) · [Evidence notes](archive/2026-11-18-older-fathers-new-mutations/evidence.md) · [SVG](archive/2026-11-18-older-fathers-new-mutations/chart.svg)
 
 ---
 
-<sub>Previously: [Satellites stopped shrinking in 2017](archive/2026-11-16-satellites-heavier-again/post.md) · [By length, most new undersea cable has a Big Tech owner](archive/2026-11-15-big-tech-long-cables/post.md) · [Cocoa doubled its harvest by doubling its land](archive/2026-11-14-cocoa-needs-new-land/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>[full archive](archive/) · [how this works](CLAUDE.md)</sub>

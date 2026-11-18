@@ -1,6 +1,14 @@
 # pix archive
 
-10 visual analyses, newest first. Each folder holds the post, the chart, the code and the data.
+1 settled finding, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
+
+| Date | | Finding |
+|---|---|---|
+| 2026-11-18 | <a href="2026-11-18-older-fathers-new-mutations/post.md"><img src="2026-11-18-older-fathers-new-mutations/chart.png" width="180"></a> | **[Older fathers pass on more new mutations](2026-11-18-older-fathers-new-mutations/post.md)**<br><sub>Genetics · Jónsson et al., Nature, 2017</sub><br>Each year of a father's age at conception adds 1.51 new mutations to his child's genome. Each year of the mother's adds 0.37. |
+
+## Earlier series
+
+The first ten entries looked for new patterns in public data rather than charting settled findings. They are kept for the record.
 
 | Date | | Analysis |
 |---|---|---|
