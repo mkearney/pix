@@ -21,9 +21,13 @@ The code lives in `pix/style.py` (`from pix import style as px`). Fonts are bund
    per headline, or not at all.
 5. **Deck**: one or two plain sentences in Inter, saying how to read the chart.
    `px.headline(...)` returns the y just below the deck, so lay out the panels from there.
-6. **Numbered panels**: a vermilion mono `01`, a short sans title and a muted subtitle.
+6. **Evidence strip**: a ruled row of four labelled fields right under the deck: `STUDY`
+   (the design), `SAMPLE` (the scale), `SOURCE` (authors, journal, year) and `CONSISTENT WITH`
+   (the corroborating studies). Vermilion mono labels, plain sans values, two lines at most.
+   `px.evidence(fig, y, fields, widths=...)` returns the y below it. Every plate has one.
+7. **Numbered panels**: a vermilion mono `01`, a short sans title and a muted subtitle.
    `px.panel(ax, 1, title, subtitle)`.
-7. **Footer**: a thin rule, then mono notes (`DATA ...`, `NOTE ...`) on the left and `PIX · 007`
+8. **Footer**: a thin rule, then mono notes (`DATA ...`, `NOTE ...`) on the left and `PIX · 007`
    on the right. `px.footer(fig, text, no)`.
 
 ## Colour
@@ -63,6 +67,19 @@ The code lives in `pix/style.py` (`from pix import style as px`). Fonts are bund
 - Never use dual axes, 3D, drop shadows, gradients as decoration, or pie charts with more than 3
   slices.
 
+## Showing evidence
+
+- The relationship is the picture. Good forms for settled findings: a dose-response curve
+  with its confidence band, a forest plot of effects with whiskers, small multiples split by
+  the moderator, a before-and-after slope, a scatter of the real units (people, families,
+  countries) with the fitted line, survival or cumulative-incidence curves.
+- Show the uncertainty the source reports: a `PAPER_2` or translucent band around a line,
+  hairline whiskers on dots, or a mono `95% CI 1.45–1.57` label next to the estimate.
+- Use real units on the axes (mutations, deaths per 100,000, mmHg, years), not indexes,
+  unless the source only reports relative effects; then mark the no-effect line (1.0 or 0)
+  with a solid ink hairline.
+- Put the reproduced or derived nature of a number in the footer `NOTE`, not on the chart.
+
 ## Size
 
 - The default plate is 12 in wide, saved at dpi 150 (1800 px). Height varies with the content,
@@ -72,7 +89,7 @@ The code lives in `pix/style.py` (`from pix import style as px`). Fonts are bund
 
 ## The rule
 
-The style should be recognisable in a thumbnail: paper colour, serif headline, one vermilion
-note, crop marks. Within that, every day's chart form can and should change.
+The style should be recognisable in a thumbnail: paper colour, serif headline, the ruled
+evidence strip, one vermilion note, crop marks. Within that, every day's chart form can and should change.
 
 Regenerate the specimen with `python scripts/specimen.py`.

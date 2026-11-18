@@ -1,226 +1,270 @@
 # pix: editorial brief
 
-**pix publishes one visual analysis of the world every day.** Each entry makes one clear,
-non-obvious point about something that matters, and backs it with real data and a graphic
-good enough to screenshot and share.
+**pix publishes one settled finding a day: something science already knows, with strong
+evidence behind it, drawn as a chart good enough to screenshot and share.**
 
-This file is the standing brief for whoever (human or Claude) makes the day's entry.
-Follow it every time.
+pix doesn't try to discover anything. The job is to find well-established results, ideally
+from recent, large studies, that a smart reader may never have seen measured, and to make the
+relationship visible at a glance: what causes what, how big the effect is, what shape it
+takes, and whom it applies to.
 
-## The bar
+No human reviews an entry before it goes out, and nobody running pix is an expert in every
+field. So the evidence bar is strict, every number has to be traceable, and
+`scripts/publish.py` refuses entries that skip the checks. When in doubt, pick a different
+finding.
 
-**The test: the reader shouldn't be able to easily find another take like it.** Occasionally
-someone will have done something similar. Usually nobody should have. Uniqueness matters more
-than scale: a modest, specific question answered freshly beats a grand theme everyone has
-already charted.
+This file is the standing brief for whoever (human or Claude) makes the day's entry. Follow
+it every time.
 
-1. **One claim.** The headline is a sentence with a verb that states the finding
-   ("Humanity's clocks run fast"), not a topic label ("Time zones of the world").
-   If you can't write that sentence, you don't have a post yet.
-2. **An original angle.** Get there by one of these routes:
-   - *A question nobody asks.* Pick something ordinary that's rarely measured (when the sun
-     peaks on the clock, how far apart a country's capitals have moved, what share of a
-     river's length is dammed).
-   - *Your own computation.* Combine or derive data rather than replotting a chart that already
-     exists. If an Our World in Data, Statista or FT chart already shows your exact point, stop.
-   - *A re-weighting.* Count people, not countries; hours, not dollars; per km², not per nation.
-   - *An unexpected join.* Two datasets that are rarely put together.
-3. **Doesn't have to be grand.** Small and specific is fine, even good. It does have to be
-   *true, interesting and about the real world*. No trivia for its own sake, no novelty
-   rankings.
-4. **The first-idea test.** Before committing, ask: "Is this the first topic a newsroom or an AI
-   would pick?" If yes, discard it or push the angle two steps further. Big, well-worn themes
-   (fertility decline and ageing, warming curves, the rise of China, AI growth, inequality
-   headline stats, GDP rankings, election maps, streaming or tech-company data) are allowed
-   only with an angle you've verified isn't already out there.
-5. **Readable in 10 seconds, rewarding in 2 minutes.** A headline reader gets the point at a
-   glance; a curious reader finds texture (annotations, outliers, a second panel).
-6. **Decisive.** Take a position on what the data says. Where data runs out, speculate openly
-   and label it as speculation ("our estimate", "if the trend holds"). Never invent data and
-   present it as measured.
+## What makes an entry
 
-## Topic selection
+1. **Settled.** It clears the evidence bar below. This comes first.
+2. **Interesting.** Apply the friend test: a smart non-specialist would say "I didn't know it
+   was that big", "I didn't know it had that shape" or "I didn't know it depended on that".
+   Prefer findings that touch decisions people make (health, children, money, time, safety,
+   food, energy) or explain how the world works. Skip what everyone already knows unless the
+   size or shape is the news: everyone knows smoking kills, fewer know that quitting by 40
+   wins back most of the lost decade.
+3. **Visual.** The relationship itself is the picture: a dose-response curve, an effect split
+   by a moderator, before and after, a column of comparable effects, a scatter of the real
+   units. If the chart would be one bar or a table, pick a different finding.
 
-- Read `archive/README.md` first. **Don't repeat a topic family two days running**, and don't
-  repeat a specific subject within 60 days. Rotate widely across: energy & climate ·
-  demography & health · economics & work · cities, housing & transport · geopolitics, borders
-  & migration · science & technology · food, water & land · culture, language & time ·
-  oceans, space & the natural world · institutions & law · infrastructure & logistics ·
-  sport & play (only with a real-world point).
-- Timeliness is a bonus, not a requirement. Use the date when it helps (season, anniversary,
-  an event this week), but never at the expense of originality.
-- Vary the form. Rotate chart types (dot plot, small multiples, map, slope, sawtooth, hero
-  number, timeline, flow) so the archive doesn't settle into one look.
-- Write five candidate headlines, apply the first-idea test and the originality checks below,
-  pick the most original one that the available data can support, and move on.
+## Evidence bar
 
-## Originality checks
+**A finding qualifies only with at least one of these behind it:**
 
-Asking for originality isn't enough; these checks make it a step you can't skip. Every
-entry records them in `prior_art.md`, and `scripts/publish.py` refuses entries without it.
+- A systematic review or meta-analysis (Cochrane, or in a major journal) of randomised
+  trials or many cohorts.
+- A large pooled analysis by a consortium (for example NCD-RisC, the Cholesterol Treatment
+  Trialists, the Emerging Risk Factors Collaboration).
+- A large randomised trial in a major journal, with a consistent result from at least one
+  other trial.
+- A natural experiment or registry study whose result has been repeated in another country
+  or dataset.
+- A consensus assessment (IPCC, National Academies, WHO, IARC, USPSTF), for the claim it
+  actually makes.
+- A long-agreed physical or biological law or measurement, cited to a current source.
 
-1. **Search before you build.** For the chosen candidate, run at least five web searches
-   before writing any analysis code: the claim in plain words, the key number, the dataset
-   name plus "chart" or "map", and checks of the usual suspects (Our World in Data, FT, The
-   Economist, Visual Capitalist, Reddit r/dataisbeautiful and r/MapPorn, Wikipedia). Log the
-   queries.
-2. **Name the closest take.** Link the one or two existing pieces nearest to yours and say in
-   one sentence what yours adds. If one of them makes the same point with the same kind of
-   data, the candidate is dead. Pick another or push the angle further. "Nobody has done
-   this" is only allowed after the searches came back empty, and it should be rare.
-3. **Write the naive prediction first.** Before looking at results, write one sentence on what
-   a smart reader would guess. If the data just confirms that guess, it isn't a post unless
-   the size of the effect is the surprise, and then the headline has to lead with the size.
-4. **Your own number has to carry it.** The headline figure must come from your own
-   computation (a join, a re-weighting, a derived measure), not be read off a single
-   published table. If the key number already appears in a source's summary, you're
-   re-reporting, not analysing.
-5. **Rotate the kind of claim, not just the chart.** Give every entry a `claim:` field in its
-   front matter, one of:
-   - `share`: what fraction of some population is in a group ("57% were born after...")
-   - `concentration`: a few cases account for most of the total
-   - `equivalence`: one quantity restated as a familiar one ("a South Korea of solar")
-   - `gap`: two things that should match don't (clock noon vs solar noon)
-   - `reversal`: a ranking or trend flips under a different measure or weighting
-   - `turning-point`: when something changed direction, and by how much
-   - `mechanism`: the data shows why something happens, not just that it does
-   - `outlier`: one case breaks a pattern everything else follows
-   - `crossover`: when two lines met or will meet (forecasts labelled as estimates)
+**And corroboration:** at least two other independent sources reaching the same conclusion
+(studies, reviews or guidelines), each with a DOI or link in `evidence.md`.
 
-   Don't use the same claim type as either of the previous two entries, and don't use any
-   type more than twice in the last seven. Headlines shaped "X% of people..." are the house
-   habit to watch.
-6. **Avoid known viral formats** unless the angle is clearly new: "share of people born after
-   [event]", "more people live inside this circle than outside it", solar time vs clock time
-   maps, true-size or Mercator overlays, "if the world were 100 people", population by
-   latitude, and "[country] compared with every other country" equivalences. Don't reuse a
-   format the archive itself used in the last 30 days.
-7. **Distrust the calendar.** Anniversaries and this week's news are where every other outlet
-   is looking. A date-hooked topic needs a closest-take search aimed at that date (e.g. the
-   event name plus "chart" plus this year) and must still pass check 2.
+**Disqualified:**
 
-`prior_art.md` is short and plain, in this shape:
+- Single unreplicated studies, preprints, press releases, conference abstracts.
+- Anything credible experts still actively dispute. Search "<finding> criticism",
+  "<finding> replication" and "<finding> controversy" before committing.
+- Small-sample social psychology, single-cohort nutrition epidemiology, animal results
+  presented as human ones, country-level correlations presented as individual effects.
+- Retracted papers or papers with an expression of concern (check PubMed and Retraction
+  Watch).
+- Politically contested empirical questions where serious researchers disagree, unless the
+  claim is only the uncontested part.
 
-```
-# Prior art
-Claim type: gap
-Naive prediction: one sentence.
-Candidates considered: the five headlines, one line each on why the losers lost.
-Searches: the queries run.
-Closest takes: link, one line each.
-What this adds: one or two sentences.
-```
+**Recency.** Prefer a source from the last five years, or the latest major update of an
+older result. An old classic is fine when newer work confirms it; cite the newer work too.
 
-## Voice
+**Words match the design.**
 
-Write like the maintainer: a senior, Python-first data scientist who has been sharing analyses in
-public for a long time. Clear, direct, confident, a little dry. It should read like a person
-wrote it, and like that person reviewed it before posting.
-
-**Tone (keep):**
-- First person, talking to a smart reader as a peer. Say what you looked at, what you found, and
-  move on.
-- The point first, in plain words. Then the numbers that back it up.
-- Dry wit is welcome, at most one light line per post, and never at the expense of the finding.
-  Understatement over exclamation.
-- Generous: credit the dataset, the method or the person whose work made it possible.
-- Practical: the code and data are always there, and the post makes it easy to check the work.
-
-**Maturity and depth:**
-- Write for people who already know what a median, a log scale or a regression is. Don't explain
-  basics. Do explain the one methodological choice that matters (weighting, a threshold, a
-  definition) and why it was made.
-- Show rigour without showing off: a sensitivity check, an honest caveat, the size of the
-  uncertainty when it matters. One sentence each, not a methods section.
-- The toolkit is Python (pandas, numpy, matplotlib, statsmodels, scikit-learn and friends). If a
-  tool is worth naming, name the Python one.
-- Be decisive. Take a position the data supports and label speculation as speculation.
-
-**Polish (required):**
-- Every post gets an edit pass before publishing. Cut filler, hedges and repeated ideas until
-  every sentence earns its place.
-- Check each number against `analysis.py` output: same rounding, units and spelling everywhere
-  (post, chart, summary).
-- No typos, no slang ("nah", "obvi", "y'all"), no emoji, no exclamation marks, no
-  ALL CAPS for emphasis, no square-bracket asides.
-- **No em dashes** (—) anywhere: not in posts, chart text or commit messages. Use a period,
-  comma, colon or parentheses.
-- Not formal either. No section headers like "Why it matters" or "Key takeaways", and no bolded
-  lead-ins on every bullet.
-- Don't hype. Avoid: striking, stark, notably, crucially, underscores, highlights, delve,
-  landscape, tapestry, game-changer, "it's not X, it's Y", "the story here is", "in a world
-  where", rhetorical questions as openers, triplets for rhythm, and ending on a big moral.
-- Headlines are short and plain ("The world's clocks run fast"), not two-clause slogans.
-- Chart text follows the same rules: a short title, a one or two line deck, and plain labels.
-- Last step: read the post once as a skeptical expert and once as a busy reader. Fix whatever
-  either one would trip on.
+- "Causes", "raises", "cuts", "adds": only with randomised trials, natural experiments, or
+  an accepted mechanism plus a replicated dose-response.
+- Observational evidence only: "is linked to", "goes with", "people who X have Y". Never
+  imply cause.
+- Show the effect's uncertainty (a confidence interval or band) on the chart when the
+  source reports it.
+- Give a relative risk together with the absolute baseline whenever the baseline matters.
 
 ## Data
 
-- Prefer primary or well-curated open sources: Our World in Data grapher CSVs
-  (`https://ourworldindata.org/grapher/<slug>.csv?v=1&csvType=full&useColumnShortNames=true`,
-  metadata at `.metadata.json`), World Bank API, UN, IEA/Ember, FRED, Eurostat, NOAA/NASA,
-  USGS, Wikipedia tables (cross-checked), and official statistics offices.
-  A `FRED_API_KEY` environment variable is available in the cloud environment.
-- Save every input used under `data/` in the entry folder so the analysis reruns offline.
-  Save derived tables too (e.g. `data/<name>.csv`).
-- If live data is unavailable, a carefully sourced hand-built dataset is acceptable. Cite every
-  number's origin in a `data/SOURCES.md`.
+In order of preference:
 
-## Design system
+1. **The study's own released data** (supplementary files, Dryad, OSF, Zenodo, GitHub, a
+   data portal). Refit the paper's headline estimate in `analysis.py` and `assert` that it
+   matches the published value to the reported precision. If it doesn't reproduce, stop and
+   pick another finding. This is the best guarantee of accuracy when nobody reviews by hand.
+2. **Numbers transcribed from the paper's text or tables** (never from news coverage). Save
+   them as `data/*.csv` with columns for the value, its interval and its exact location
+   (table, page). Read them from the full text (PubMed Central or the publisher).
+3. **Public statistics that display an established relationship** (Our World in Data,
+   World Bank, CDC, ONS, Eurostat, NOAA, NASA), alongside a citation that establishes the
+   relationship itself. OWID grapher CSVs:
+   `https://ourworldindata.org/grapher/<slug>.csv?v=1&csvType=full&useColumnShortNames=true`.
+   A `FRED_API_KEY` environment variable is available.
 
-Every graphic uses the **Plate** house style. Read `STYLE.md` before drawing anything and use
-`pix/style.py` (`from pix import style as px`). In short:
+Reading values off a figure image is a last resort. Label every such value "read from
+Figure X" in `data/SOURCES.md` and in the chart footer.
 
-- `px.plate()` → `px.masthead()` → `px.headline()` → numbered `px.panel()`s → `px.footer()` →
-  `px.save()`. Look at the latest entry's `analysis.py` for a working example.
-- Warm paper, black ink, serif headline with one optional `*vermilion italic*` phrase, mono
-  numbers, crop marks.
-- Vermilion (`SIGNAL`) carries the point and taupe carries the context. Add indigo only for a
-  real contrast. Most plates use one or two colours.
-- Annotate directly. No legends where labels fit. No dual axes, 3D, rainbow scales or pie charts
-  with more than 3 slices.
-- The chart *form* should change from day to day. The plate stays the same.
-- Render, then **open chart.png and look at it**. Fix overlaps, clipping and dead space before
-  publishing.
-- For an interactive piece, add a self-contained `index.html` in the same style. The README
-  still shows the PNG.
+Save every input under `data/` so the analysis reruns offline (gzip anything large; keep an
+entry under about 10 MB). `data/SOURCES.md` says where each file came from.
+PubMed's E-utilities (`eutils.ncbi.nlm.nih.gov`) return abstracts and metadata as plain text,
+and `https://doi.org/<doi>` confirms a DOI resolves.
+
+## Finding types
+
+Every entry has a `finding:` field, one of:
+
+- `effect`: X changes Y by this much.
+- `dose-response`: more X, more (or less) Y, and the shape of the curve.
+- `moderator`: the effect of X on Y depends on Z.
+- `association`: X and Y go together (observational, and worded that way).
+- `comparison`: several causes or interventions on one scale.
+- `mechanism`: the steps by which X leads to Y, each shown in data.
+
+Don't repeat the previous entry's type.
+
+## Topics
+
+Rotate widely: health & medicine · genetics & biology · mind & learning (robust findings
+only) · climate & energy · environment & nature · economics & work · cities & transport ·
+food & farming · demography & family · technology & engineering · earth & physical science ·
+safety & risk · children & education · the body & sport.
+
+Read `archive/README.md` first. Don't repeat the previous entry's topic, and don't repeat a
+subject within 90 days. `LEADS.md` holds pre-vetted candidates: use one or bring your own,
+and run the full evidence check either way. Delete a lead once it's used, and add any strong
+candidates you come across.
+
+## Writing
+
+The post is a caption, not an essay. A reader should finish it in 30 seconds.
+
+**Shape of `post.md`:**
+
+```
+---
+date: YYYY-MM-DD
+title: Older fathers pass on more new mutations
+slug: older-fathers-new-mutations
+topic: Genetics
+finding: moderator
+source: Jónsson et al., Nature, 2017
+doi: 10.1038/nature24018
+chart: chart.png
+summary: One or two plain sentences with the key numbers (180 characters at most).
+---
+
+# Older fathers pass on more new mutations
+
+![Alt text that describes what the chart shows, with its key numbers.](chart.png)
+
+One paragraph of two to four sentences: the finding, its size, and the moderator or shape.
+Optionally one more sentence: the accepted explanation, or the main limit.
+
+**Source:** Authors. Title. *Journal* volume, pages (year). [doi:...](https://doi.org/...)<br>
+**Evidence:** Design and scale. The corroborating studies. Whether the numbers were reproduced.
+
+[Data](data/) · [Code](analysis.py) · [Evidence notes](evidence.md) · [SVG](chart.svg)
+```
+
+**Rules** (`publish.py` enforces the starred ones):
+
+- \*At most 100 words of prose, not counting the headline, alt text, Source, Evidence and
+  links. Most posts should land between 50 and 90.
+- \*Headline: the finding as a plain sentence of at most 9 words. Not a topic label, not a
+  question, no colon, no pun.
+- \*Third person. No "I", "we", "our" or "us". Avoid "you".
+- Start with the finding. No setup, no scene-setting, no "Scientists have long known".
+- Same numbers, same rounding, same units everywhere: post, chart, summary, and the output
+  of `analysis.py`.
+- Plain words. No jokes, metaphors, wordplay, rhetorical questions, or a moral at the end.
+- \*No em dashes, exclamation marks or hype words (striking, stark, notably, remarkable,
+  fascinating, surprisingly, crucially, underscores, delve, landscape, "turns out",
+  "here's", and the rest of the list in `publish.py`). No emoji, ALL CAPS emphasis or
+  square-bracket asides.
+- Chart text follows the same rules.
+
+This is the register to match (from 2026-11-18):
+
+> Standard sequencing finds about 70 DNA changes in each child that neither parent carries.
+> In 1,548 Icelandic families, each extra year of the father's age at conception added 1.51
+> of them, and each year of the mother's added 0.37. Where a mutation could be traced to a
+> parent, 80% came from the father.
+
+Not this: "I wanted to know whether...", "It turns out that...", "Here's the thing:",
+"This matters because...", or any closing line about what it all means.
+
+## Design
+
+Every graphic uses the **Plate** house style. Read `STYLE.md` before drawing and use
+`pix/style.py` (`from pix import style as px`):
+
+- `px.plate()` → `px.masthead()` → `px.headline()` → `px.evidence()` → numbered
+  `px.panel()`s → `px.footer()` → `px.save()`. The latest entry's `analysis.py` is a working
+  example.
+- The **evidence strip** is required: Study, Sample, Source, Consistent with. It tells a
+  reader in two seconds what the chart rests on.
+- Show uncertainty when the source reports it (bands, whiskers, interval labels).
+- Real units over indexes. Annotate directly; no legends where labels fit.
+- Vary the form from day to day: dose-response curve with a band, forest plot, small
+  multiples split by a moderator, before and after, scatter of real units, survival or
+  cumulative curves, a timeline of an intervention and its outcome.
+- Render, then **open chart.png and look at it**. Fix overlaps, clipping and dead space.
+
+## Checks before publishing
+
+Nobody else will check, so these aren't optional.
+
+1. `analysis.py` runs from the repo root, prints every number the post and chart use, and
+   asserts the reproduction when raw data exist.
+2. `evidence.md` is complete (template below).
+3. **Independent fact-check.** Start a fresh subagent (the Agent tool, general-purpose) and
+   give it only the paper's link, `post.md`, `evidence.md`, `analysis.py` output and the path
+   to `chart.png`. Ask it to confirm each number against the paper or the output, confirm
+   that each corroborating source exists and says what's claimed, flag causal wording the
+   design doesn't support, and search for credible disputes or retractions. Fix every issue
+   or drop the finding. Record the verdict under `Fact-check:`.
+4. Read the post once as a sceptical expert in the field and once as someone scrolling
+   past. Fix whatever either would trip on.
+5. `python scripts/publish.py` passes.
+
+`evidence.md` is short and plain, in this shape:
+
+```
+# Evidence
+Finding: one sentence.
+Type: one of the finding types.
+Source: full citation, DOI, link to the full text, link to released data if any.
+Design: study design and scale (n, events, years, countries).
+Key numbers: each number in the post and chart, where it appears in the paper, and whether it was reproduced or derived here.
+Corroboration: two or more independent sources with the same finding, each with a DOI and one line.
+Wording check: causal or associational, and why the post's verbs fit the design.
+Limits: the main caveats, one to three sentences.
+Fact-check: the independent checker's verdict and what changed as a result.
+```
 
 ## Daily procedure
 
 A Claude Code scheduled task runs this every day at 8:05am US Eastern.
 
-0. Setup: `pip install -r requirements.txt` (Inter font optional; style falls back gracefully).
-1. `TZ=America/Detroit date +%F` gives the entry date. Read `archive/README.md` to see what's been covered.
-2. Choose the topic (see above). Decide the one claim. Run the originality checks before
-   writing analysis code.
-3. Create `archive/YYYY-MM-DD-<short-slug>/` containing:
-   - `prior_art.md`: the originality log (see Originality checks)
-   - `data/`: raw inputs + derived tables
-   - `analysis.py`: loads `data/`, computes every number quoted, prints the key stats, and
-     renders `chart.png` + `chart.svg`. It must run from the repo root with
-     `python archive/<dir>/analysis.py`.
-   - `post.md`: front matter (`date`, `title`, `slug`, `topic`, `claim`, `chart`, `summary`), then:
-     H1 headline · the image · one or two short paragraphs saying what I looked at and what I
-     found · 3–6 plain bullets with the key numbers · one or two sentences on what it means ·
-     a short **How I did it.** paragraph (sources, method, main caveat) · links to code, data
-     and SVG. Aim for 200–350 words. Every number must come from `analysis.py` output.
-4. Run `python scripts/publish.py`. It regenerates `README.md` (today's post) and
-   `archive/README.md` (index).
-5. Commit as `pix YYYY-MM-DD: <title>` and push to `main`.
+0. Setup: `pip install -r requirements.txt`.
+1. `TZ=America/Detroit date +%F` gives the entry date. If an entry for that date already
+   exists, stop and report it.
+2. Read `archive/README.md` (recent topics and finding types) and `LEADS.md`.
+3. Shortlist three findings. Apply the evidence bar and the friend test, check data
+   availability, and pick the strongest. Run at least five searches to confirm its standing:
+   the meta-analyses, the replications, and any criticism.
+4. Create `archive/YYYY-MM-DD-<short-slug>/` with `post.md`, `evidence.md`, `analysis.py`,
+   `chart.png`, `chart.svg` and `data/` (including `SOURCES.md`). `analysis.py` must run with
+   `python archive/<dir>/analysis.py` from the repo root.
+5. Run the checks above, including the independent fact-check.
+6. `python scripts/publish.py` regenerates `README.md` and `archive/README.md`.
+7. Commit as `pix YYYY-MM-DD: <title>` and push to `main`. No em dashes in commit messages.
 
-**Never rename, re-date, move or edit a published entry** unless the maintainer asks. If an
-entry already exists for today's date, stop and report it.
+**Never rename, re-date, move or edit a published entry** unless the maintainer asks.
 
 ## Repo layout
 
 ```
 README.md               today's post (generated, don't edit by hand)
 CLAUDE.md               this brief
-pix/style.py            house visual style (see STYLE.md)
-pix/fonts/              bundled fonts (OFL)
+LEADS.md                pre-vetted candidate findings
 STYLE.md                the Plate style guide
-scripts/publish.py      rebuilds README.md + archive/README.md
+pix/style.py            house visual style
+pix/fonts/              bundled fonts (OFL)
+scripts/publish.py      checks entries, rebuilds README.md + archive/README.md
 archive/README.md       index of every entry (generated)
-archive/YYYY-MM-DD-slug/{post.md, prior_art.md, chart.png, chart.svg, analysis.py, data/}
+archive/YYYY-MM-DD-slug/{post.md, evidence.md, analysis.py, chart.png, chart.svg, data/}
 ```
+
+Entries before 2026-11-18 belong to an earlier series that looked for new patterns in public
+data. They keep their old files (`prior_art.md` instead of `evidence.md`) and are exempt from
+the new checks.

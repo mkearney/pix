@@ -6,10 +6,12 @@ See STYLE.md for the rules.
 
     from pix import style as px
     fig = px.plate()
-    px.masthead(fig, date="2026-11-12", no=px.issue_number(__file__))
-    y = px.headline(fig, "Time", "The world's clocks *run fast*", "Deck text...")
+    px.masthead(fig, date="2026-11-18", no=px.issue_number(__file__))
+    y = px.headline(fig, "Genetics", "Older fathers pass on more *new mutations*", "Deck text...")
+    y = px.evidence(fig, y - 0.02, [("Study", "..."), ("Sample", "..."), ("Source", "..."),
+                                    ("Consistent with", "...")])
     ax = fig.add_axes([px.LEFT, 0.42, px.WIDTH, 0.36]); px.panel(ax, 1, "Title", "Subtitle")
-    px.footer(fig, "Source: ...", no=...)
+    px.footer(fig, "DATA ...", no=...)
 """
 from __future__ import annotations
 
@@ -169,6 +171,32 @@ def headline(fig, kicker: str, title: str, deck: str, *, top: float = 0.925,
     t = fig.text(TEXT_X, y, deck, fontsize=deck_size, color=INK_2, va="top", linespacing=1.5)
     n = deck.count("\n") + 1
     return y - n * deck_size * 1.5 / 72 / fig_h
+
+
+def evidence(fig, y: float, fields, *, widths=None, size: float = 10.5) -> float:
+    """Evidence strip: a ruled row of labelled fields saying what the finding rests on.
+
+    fields = [("Study", "..."), ("Sample", "..."), ("Source", "..."), ("Consistent with", "...")].
+    Values may use \\n for a second line. widths are column fractions (default equal).
+    Every pix plate carries one, right under the deck. Returns the y just below it.
+    """
+    fig_h = fig.get_figheight()
+    x0, x1 = TEXT_X, 1 - TEXT_X
+    widths = widths or [1 / len(fields)] * len(fields)
+    kw = dict(transform=fig.transFigure)
+    fig.add_artist(plt.Line2D([x0, x1], [y, y], color=INK, lw=0.7, **kw))
+    label_y = y - 0.17 / fig_h
+    value_y = label_y - 0.22 / fig_h
+    x = x0
+    for (label, value), w in zip(fields, widths):
+        fig.text(x, label_y, label.upper(), fontfamily=MONO, fontsize=8.5, color=SIGNAL, weight="medium",
+                 va="top")
+        fig.text(x, value_y, value, fontsize=size, color=INK, va="top", linespacing=1.4)
+        x += w * (x1 - x0)
+    lines = max(v.count("\n") + 1 for _, v in fields)
+    bottom = value_y - lines * size * 1.4 / 72 / fig_h - 0.14 / fig_h
+    fig.add_artist(plt.Line2D([x0, x1], [bottom, bottom], color=INK, lw=0.7, **kw))
+    return bottom
 
 
 def panel(ax, index: int, title: str, subtitle: str | None = None, *, pad: float = 0.30) -> None:
