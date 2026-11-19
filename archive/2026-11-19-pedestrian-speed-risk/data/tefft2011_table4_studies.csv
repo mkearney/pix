@@ -1,0 +1,5 @@
+study,country,years,confounders_adjusted,or_per_5mph,or_lo,or_hi,mph_at_10,mph_at_25,mph_at_50,mph_at_75,mph_at_90,location
+Davis 2001,United Kingdom,1966-1969 and 1973-1979,None,2.78,2.09,3.69,33,38,43,49,54,"Tefft 2011 (AAA Foundation report), Table 4, p. 13"
+Rosén & Sander 2009,Germany,1999-2007,None,2.06,1.60,2.66,32,40,48,55,63,"Tefft 2011, Table 4, p. 13"
+Richards 2010,United Kingdom,2000-2009,None,2.41,1.79,3.24,33,38,45,51,62,"Tefft 2011, Table 4, p. 13 (SE estimated by Tefft)"
+Tefft 2011,United States,1994-1998,None (cars only),1.99,1.60,2.49,28,36,44,52,60,"Tefft 2011, Table 4, p. 13"

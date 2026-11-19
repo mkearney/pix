@@ -1,0 +1,94 @@
+1. Accid Anal Prev. 2013 Jan;50:871-8. doi: 10.1016/j.aap.2012.07.022. Epub 2012 
+Aug 27.
+
+Impact speed and a pedestrian's risk of severe injury or death.
+
+Tefft BC(1).
+
+Author information:
+(1)AAA Foundation for Traffic Safety, 607 14th Street NW, Suite 201, Washington, 
+DC 20005-2000, United States. btefft@aaafoundation.org
+
+This study estimates the risk of severe injury or death for pedestrians struck 
+by vehicles using data from a study of crashes that occurred in the United 
+States in years 1994-1998 and involved a pedestrian struck by a forward-moving 
+car, light truck, van, or sport utility vehicle. The data were weighted to 
+correct for oversampling of pedestrians who were severely injured or killed. 
+Logistic regression was used to adjust for potential confounding related to 
+pedestrian and vehicle characteristics. Risks were standardized to represent the 
+average risk for a pedestrian struck by a car or light truck in the United 
+States in years 2007-2009. Results show that the average risk of a struck 
+pedestrian sustaining an injury of Abbreviated Injury Scale 4 or greater 
+severity reaches 10% at an impact speed of 17.1miles per hour (mph), 25% at 
+24.9mph, 50% at 33.0mph, 75% at 40.8mph, and 90% at 48.1mph. The average risk of 
+death reaches 10% at an impact speed of 24.1mph, 25% at 32.5mph, 50% at 40.6mph, 
+75% at 48.0mph, and 90% at 54.6mph. Risks varied by age. For example, the 
+average risk of death for a 70-year-old pedestrian struck at any given speed was 
+similar to the average risk of death for a 30-year-old pedestrian struck at a 
+speed 11.8mph faster.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.aap.2012.07.022
+PMID: 22935347 [Indexed for MEDLINE]
+
+
+2. Accid Anal Prev. 2009 May;41(3):536-42. doi: 10.1016/j.aap.2009.02.002. Epub 
+2009 Feb 24.
+
+Pedestrian fatality risk as a function of car impact speed.
+
+Rosén E(1), Sander U.
+
+Author information:
+(1)Autoliv Research, Wallentinsvägen 22, 447 83, Vårgårda, Sweden. 
+erik.rosen@autoliv.com
+
+Knowledge of the amount of violence tolerated by the human body is essential 
+when developing and implementing pedestrian safety strategies. When estimating 
+the potential benefits of new countermeasures, the pedestrian fatality risk as a 
+function of impact speed is of particular importance. Although this function has 
+been analysed previously, we state that a proper understanding does not exist. 
+Based on the largest in-depth, pedestrian accident study undertaken to date, we 
+derive an improved risk function for adult pedestrians hit by the front of 
+passenger cars. Our results show far lower fatality risks than generally 
+reported in the traffic safety literature. This discrepancy is primarily 
+explained by sample bias towards severe injury accidents in earlier studies. 
+Nevertheless, a strong dependence on impact speed is found, with the fatality 
+risk at 50 km/h being more than twice as high as the risk at 40 km/h and more 
+than five times higher than the risk at 30 km/h. Our findings should have 
+important implications for the development of pedestrian accident 
+countermeasures worldwide. In particular, the scope of future pedestrian safety 
+policies and research should be broadened to include accidents with impact 
+speeds exceeding 50 km/h.
+
+DOI: 10.1016/j.aap.2009.02.002
+PMID: 19393804 [Indexed for MEDLINE]
+
+
+3. Accid Anal Prev. 2011 Jan;43(1):25-33. doi: 10.1016/j.aap.2010.04.003. Epub
+2010  Sep 15.
+
+Literature review of pedestrian fatality risk as a function of car impact speed.
+
+Rosén E(1), Stigson H, Sander U.
+
+Author information:
+(1)Autoliv Research, Vårgårda, Sweden. erik.rosen@autoliv.com
+
+The aim of this review was to evaluate all studies of pedestrian fatality risk 
+as a function of car impact speed. Relevant papers were primarily investigated 
+with respect to data sampling procedures and methods for statistical analysis. 
+It was uniformly reported that fatality risk increased monotonically with car 
+impact speed. However, the absolute risk estimates varied considerably. Without 
+exceptions, papers written before 2000 were based on direct analyses of data 
+that had a large bias towards severe and fatal injuries. The consequence was to 
+overestimate the fatality risks. We also found more recent research based on 
+less biased data or adjusted for bias. While still showing a steep increase of 
+risk with impact speed, these later papers provided substantially lower risk 
+estimates than had been previously reported.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.aap.2010.04.003
+PMID: 21094293 [Indexed for MEDLINE]

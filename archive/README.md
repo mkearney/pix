@@ -1,9 +1,10 @@
 # pix archive
 
-1 settled finding, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
+2 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
 
 | Date | | Finding |
 |---|---|---|
+| 2026-11-19 | <a href="2026-11-19-pedestrian-speed-risk/post.md"><img src="2026-11-19-pedestrian-speed-risk/chart.png" width="180"></a> | **[A pedestrian's risk of death climbs steeply with speed](2026-11-19-pedestrian-speed-risk/post.md)**<br><sub>Safety · Tefft, Accident Analysis & Prevention, 2013</sub><br>A struck pedestrian's risk of death reaches 10% at 24.1 mph, 50% at 40.6 mph and 90% at 54.6 mph. Each extra 5 mph multiplies the odds by about 2 to 2.8. |
 | 2026-11-18 | <a href="2026-11-18-older-fathers-new-mutations/post.md"><img src="2026-11-18-older-fathers-new-mutations/chart.png" width="180"></a> | **[Older fathers pass on more new mutations](2026-11-18-older-fathers-new-mutations/post.md)**<br><sub>Genetics · Jónsson et al., Nature, 2017</sub><br>Each year of a father's age at conception adds 1.51 new mutations to his child's genome. Each year of the mother's adds 0.37. |
 
 ## Earlier series

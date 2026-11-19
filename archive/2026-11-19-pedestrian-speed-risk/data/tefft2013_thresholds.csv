@@ -1,0 +1,11 @@
+outcome,risk,impact_speed_mph,location
+death,0.10,24.1,"Tefft 2013, Accid Anal Prev 50:871, abstract"
+death,0.25,32.5,"Tefft 2013, abstract"
+death,0.50,40.6,"Tefft 2013, abstract"
+death,0.75,48.0,"Tefft 2013, abstract"
+death,0.90,54.6,"Tefft 2013, abstract"
+severe_injury,0.10,17.1,"Tefft 2013, abstract (AIS 4 or greater, including death)"
+severe_injury,0.25,24.9,"Tefft 2013, abstract"
+severe_injury,0.50,33.0,"Tefft 2013, abstract"
+severe_injury,0.75,40.8,"Tefft 2013, abstract"
+severe_injury,0.90,48.1,"Tefft 2013, abstract"

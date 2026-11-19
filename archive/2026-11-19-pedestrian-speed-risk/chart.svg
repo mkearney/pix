@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="1260pt" viewBox="0 0 864 1260" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-19T13:14:05.613064</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1260 
+L 864 1260 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f3eee4"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 15.12 1240.992 
+L 34.56 1240.992 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 19.008 1244.88 
+L 19.008 1225.44 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 15.12 19.008 
+L 34.56 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 19.008 15.12 
+L 19.008 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 848.88 1240.992 
+L 829.44 1240.992 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 844.992 1244.88 
+L 844.992 1225.44 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 848.88 19.008 
+L 829.44 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 844.992 15.12 
+L 844.992 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 73.44 838.02 
+L 738.72 838.02 
+L 738.72 447.42 
+L 73.44 447.42 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m51d8a1dbe5" d="M 0 0 
+L 0 3 
+" style="stroke: #8c877d; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="73.44" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="73.44" y="856.7575" transform="rotate(-0 73.44 856.7575)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="168.48" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="168.48" y="856.7575" transform="rotate(-0 168.48 856.7575)">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="263.52" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="263.52" y="856.7575" transform="rotate(-0 263.52 856.7575)">20</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="358.56" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="358.56" y="856.7575" transform="rotate(-0 358.56 856.7575)">30</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="453.6" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="453.6" y="856.7575" transform="rotate(-0 453.6 856.7575)">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="548.64" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="548.64" y="856.7575" transform="rotate(-0 548.64 856.7575)">50</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="643.68" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="643.68" y="856.7575" transform="rotate(-0 643.68 856.7575)">60</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="738.72" y="838.02" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="738.72" y="856.7575" transform="rotate(-0 738.72 856.7575)">70</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="406.08" y="872.573125" transform="rotate(-0 406.08 872.573125)">Impact speed (mph)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="67.44" y="842.88875" transform="rotate(-0 67.44 842.88875)">0%</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="67.44" y="745.23875" transform="rotate(-0 67.44 745.23875)">25%</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_19"/>
+     <g id="text_12">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="67.44" y="647.58875" transform="rotate(-0 67.44 647.58875)">50%</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_20"/>
+     <g id="text_13">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="67.44" y="549.93875" transform="rotate(-0 67.44 549.93875)">75%</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_21"/>
+     <g id="text_14">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="67.44" y="452.28875" transform="rotate(-0 67.44 452.28875)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 73.44 642.72 
+L 738.72 642.72 
+L 738.72 642.72 
+L 73.44 642.72 
+z
+" clip-path="url(#pe7aab3e8c9)" style="fill: #8c877d; stroke: #8c877d; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 73.44 838.02 
+L 738.72 838.02 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 73.44 834.21467 
+L 87.696 833.329268 
+L 101.952 832.240934 
+L 116.208 830.904742 
+L 130.464 829.266634 
+L 139.968 827.975391 
+L 149.472 826.499418 
+L 158.976 824.814089 
+L 168.48 822.892055 
+L 177.984 820.703117 
+L 187.488 818.214159 
+L 196.992 815.38915 
+L 206.496 812.189266 
+L 216 808.573143 
+L 220.752 806.595473 
+L 225.504 804.497311 
+L 230.256 802.273 
+L 235.008 799.91685 
+L 239.76 797.423168 
+L 244.512 794.786303 
+L 249.264 792.000686 
+L 254.016 789.060883 
+L 258.768 785.961653 
+L 263.52 782.698003 
+L 268.272 779.265258 
+L 273.024 775.659128 
+L 277.776 771.875784 
+L 282.528 767.911935 
+L 287.28 763.764907 
+L 292.032 759.432725 
+L 296.784 754.914194 
+L 301.536 750.208978 
+L 306.288 745.317678 
+L 311.04 740.241904 
+L 315.792 734.984338 
+L 320.544 729.548793 
+L 330.048 718.164924 
+L 339.552 706.144783 
+L 349.056 693.56235 
+L 358.56 680.510268 
+L 368.064 667.097801 
+L 387.072 639.69146 
+L 401.328 619.155785 
+L 410.832 605.725482 
+L 420.336 592.648545 
+L 429.84 580.035142 
+L 439.344 567.978985 
+L 448.848 556.555209 
+L 453.6 551.098618 
+L 458.352 545.81947 
+L 463.104 540.721717 
+L 467.856 535.808175 
+L 472.608 531.080578 
+L 477.36 526.539645 
+L 482.112 522.185148 
+L 486.864 518.015991 
+L 491.616 514.030289 
+L 496.368 510.225446 
+L 501.12 506.598243 
+L 505.872 503.144909 
+L 510.624 499.861208 
+L 515.376 496.742505 
+L 520.128 493.783844 
+L 524.88 490.980009 
+L 529.632 488.325585 
+L 534.384 485.815018 
+L 539.136 483.442665 
+L 543.888 481.202834 
+L 553.392 477.098001 
+L 562.896 473.455539 
+L 572.4 470.231871 
+L 581.904 467.385491 
+L 591.408 464.877414 
+L 600.912 462.671439 
+L 610.416 460.734271 
+L 619.92 459.035539 
+L 629.424 457.547726 
+L 638.928 456.246046 
+L 648.432 455.108285 
+L 662.688 453.666236 
+L 676.944 452.491082 
+L 691.2 451.534652 
+L 710.208 450.531721 
+L 729.216 449.771762 
+L 738.72 449.464129 
+L 738.72 449.464129 
+" clip-path="url(#pe7aab3e8c9)" style="fill: none; stroke: #bdb4a4; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="311.9904" y="822.3685" transform="rotate(-0 311.9904 822.3685)">24.1 mph</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="391.824" y="763.7785" transform="rotate(-0 391.824 763.7785)">32.5 mph</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="468.8064" y="666.1285" transform="rotate(-0 468.8064 666.1285)">40.6 mph</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="539.136" y="568.4785" transform="rotate(-0 539.136 568.4785)">48.0 mph</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="601.8624" y="509.8885" transform="rotate(-0 601.8624 509.8885)">54.6 mph</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(307.9785 580.610695)">Severe injury</text>
+    <text style="font-size: 10.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(331.41975 593.315285)">or death</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 600; font-size: 12px; font-family: 'Inter'; text-anchor: start; fill: #e4572e" x="492.5664" y="693.405" transform="rotate(-0 492.5664 693.405)">Death</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="73.44" y="435.3175" transform="rotate(-0 73.44 435.3175)">0</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="168.48" y="435.3175" transform="rotate(-0 168.48 435.3175)">16</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="263.52" y="435.3175" transform="rotate(-0 263.52 435.3175)">32</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="358.56" y="435.3175" transform="rotate(-0 358.56 435.3175)">48</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="453.6" y="435.3175" transform="rotate(-0 453.6 435.3175)">64</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="548.64" y="435.3175" transform="rotate(-0 548.64 435.3175)">80</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="643.68" y="435.3175" transform="rotate(-0 643.68 435.3175)">97</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="738.72" y="435.3175" transform="rotate(-0 738.72 435.3175)">113</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #8c877d" x="752.976" y="435.3175" transform="rotate(-0 752.976 435.3175)">km/h</text>
+   </g>
+   <g id="line2d_23">
+    <path d="M 73.44 836.750057 
+L 97.2 836.205569 
+L 120.96 835.429187 
+L 139.968 834.577036 
+L 154.224 833.760546 
+L 168.48 832.753061 
+L 182.736 831.511292 
+L 196.992 829.982861 
+L 206.496 828.774028 
+L 216 827.388432 
+L 225.504 825.801844 
+L 235.008 823.987228 
+L 244.512 821.91458 
+L 254.016 819.550815 
+L 263.52 816.859728 
+L 273.024 813.802048 
+L 282.528 810.33564 
+L 292.032 806.415872 
+L 296.784 804.271486 
+L 301.536 801.996201 
+L 306.288 799.584041 
+L 311.04 797.029035 
+L 315.792 794.325259 
+L 320.544 791.46689 
+L 325.296 788.448254 
+L 330.048 785.263896 
+L 334.8 781.90864 
+L 339.552 778.377664 
+L 344.304 774.666575 
+L 349.056 770.771493 
+L 353.808 766.689135 
+L 358.56 762.416898 
+L 363.312 757.952952 
+L 368.064 753.296327 
+L 372.816 748.446996 
+L 377.568 743.40596 
+L 382.32 738.17532 
+L 387.072 732.758347 
+L 391.824 727.159538 
+L 401.328 715.440778 
+L 410.832 703.080804 
+L 420.336 690.162078 
+L 429.84 676.786542 
+L 444.096 656.130472 
+L 472.608 614.379315 
+L 482.112 600.846512 
+L 491.616 587.72246 
+L 501.12 575.116601 
+L 510.624 563.119803 
+L 515.376 557.372655 
+L 520.128 551.802586 
+L 524.88 546.415157 
+L 529.632 541.214665 
+L 534.384 536.204189 
+L 539.136 531.385652 
+L 543.888 526.759883 
+L 548.64 522.326699 
+L 553.392 518.084987 
+L 558.144 514.032786 
+L 562.896 510.167381 
+L 567.648 506.485385 
+L 572.4 502.982831 
+L 577.152 499.655253 
+L 581.904 496.497766 
+L 586.656 493.505147 
+L 591.408 490.671898 
+L 596.16 487.99232 
+L 600.912 485.460569 
+L 605.664 483.070711 
+L 610.416 480.816771 
+L 615.168 478.692776 
+L 624.672 474.810969 
+L 634.176 471.378872 
+L 643.68 468.352034 
+L 653.184 465.688538 
+L 662.688 463.349353 
+L 672.192 461.298524 
+L 681.696 459.503214 
+L 691.2 457.933662 
+L 700.704 456.563063 
+L 710.208 455.367404 
+L 724.464 453.855751 
+L 738.72 452.627712 
+L 738.72 452.627712 
+" clip-path="url(#pe7aab3e8c9)" style="fill: none; stroke: #e4572e; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m13430b4e53" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#pe7aab3e8c9)">
+     <use xlink:href="#m13430b4e53" x="235.9584" y="798.96" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#m13430b4e53" x="310.0896" y="740.37" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#m13430b4e53" x="387.072" y="642.72" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#m13430b4e53" x="461.2032" y="545.07" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.8"/>
+     <use xlink:href="#m13430b4e53" x="530.5824" y="486.48" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m80bec83d1a" d="M 0 3.391165 
+C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
+C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
+C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
+C 1.761981 -3.03385 0.899347 -3.391165 0 -3.391165 
+C -0.899347 -3.391165 -1.761981 -3.03385 -2.397916 -2.397916 
+C -3.03385 -1.761981 -3.391165 -0.899347 -3.391165 0 
+C -3.391165 0.899347 -3.03385 1.761981 -2.397916 2.397916 
+C -1.761981 3.03385 -0.899347 3.391165 0 3.391165 
+z
+" style="stroke: #f3eee4; stroke-width: 0.9"/>
+    </defs>
+    <g clip-path="url(#pe7aab3e8c9)">
+     <use xlink:href="#m80bec83d1a" x="302.4864" y="798.96" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.9"/>
+     <use xlink:href="#m80bec83d1a" x="382.32" y="740.37" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.9"/>
+     <use xlink:href="#m80bec83d1a" x="459.3024" y="642.72" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.9"/>
+     <use xlink:href="#m80bec83d1a" x="529.632" y="545.07" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.9"/>
+     <use xlink:href="#m80bec83d1a" x="592.3584" y="486.48" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.9"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 332.64 1140.42 
+L 721.44 1140.42 
+L 721.44 989.22 
+L 332.64 989.22 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_9">
+     <g id="line2d_24">
+      <path d="M 353.103158 1140.42 
+L 353.103158 989.22 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="353.103158" y="1140.42" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="353.103158" y="1159.1575" transform="rotate(-0 353.103158 1159.1575)">1x</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_26">
+      <path d="M 455.418947 1140.42 
+L 455.418947 989.22 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="455.418947" y="1140.42" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="455.418947" y="1159.1575" transform="rotate(-0 455.418947 1159.1575)">2x</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_28">
+      <path d="M 557.734737 1140.42 
+L 557.734737 989.22 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="557.734737" y="1140.42" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="557.734737" y="1159.1575" transform="rotate(-0 557.734737 1159.1575)">3x</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_30">
+      <path d="M 660.050526 1140.42 
+L 660.050526 989.22 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m51d8a1dbe5" x="660.050526" y="1140.42" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="660.050526" y="1159.1575" transform="rotate(-0 660.050526 1159.1575)">4x</text>
+     </g>
+    </g>
+    <g id="text_35">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="527.04" y="1174.973125" transform="rotate(-0 527.04 1174.973125)">Odds of death for each extra 5 mph (95% CI)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_32">
+    <path d="M 353.103158 1140.42 
+L 353.103158 989.22 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke: #17171a; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 332.64 1140.42 
+L 721.44 1140.42 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 414.492632 1118.82 
+L 505.553684 1118.82 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke: #e4572e; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="511.692632" y="1122.3825" transform="rotate(-0 511.692632 1122.3825)">1.99  (1.60–2.49)</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 600; font-size: 10.5px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="320.976" y="1122.63958" transform="rotate(-0 320.976 1122.63958)">United States, 1994-1998</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="320.976" y="1133.432041" transform="rotate(-0 320.976 1133.432041)">Tefft 2011</text>
+   </g>
+   <g id="line2d_34">
+    <path d="M 433.932632 1082.82 
+L 582.290526 1082.82 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke: #4a4741; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="588.429474" y="1086.3825" transform="rotate(-0 588.429474 1086.3825)">2.41  (1.79–3.24)</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="320.976" y="1086.63958" transform="rotate(-0 320.976 1086.63958)">United Kingdom, 2000-2009</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="320.976" y="1097.432041" transform="rotate(-0 320.976 1097.432041)">Richards 2010</text>
+   </g>
+   <g id="line2d_35">
+    <path d="M 414.492632 1046.82 
+L 522.947368 1046.82 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke: #4a4741; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="529.086316" y="1050.3825" transform="rotate(-0 529.086316 1050.3825)">2.06  (1.60–2.66)</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="320.976" y="1050.63958" transform="rotate(-0 320.976 1050.63958)">Germany, 1999-2007</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="320.976" y="1061.432041" transform="rotate(-0 320.976 1061.432041)">Rosén &amp; Sander 2009</text>
+   </g>
+   <g id="line2d_36">
+    <path d="M 464.627368 1010.82 
+L 628.332632 1010.82 
+" clip-path="url(#p8a87c9d492)" style="fill: none; stroke: #4a4741; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="634.471579" y="1014.3825" transform="rotate(-0 634.471579 1014.3825)">2.78  (2.09–3.69)</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="320.976" y="1014.63958" transform="rotate(-0 320.976 1014.63958)">United Kingdom, 1966-1969, 1973-1979</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="320.976" y="1025.432041" transform="rotate(-0 320.976 1025.432041)">Davis 2001</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="m40280c4fdd" d="M -3.872983 3.872983 
+L 3.872983 3.872983 
+L 3.872983 -3.872983 
+L -3.872983 -3.872983 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p8a87c9d492)">
+     <use xlink:href="#m40280c4fdd" x="454.395789" y="1118.82" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="ma386800a39" d="M -3.316625 3.316625 
+L 3.316625 3.316625 
+L 3.316625 -3.316625 
+L -3.316625 -3.316625 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p8a87c9d492)">
+     <use xlink:href="#ma386800a39" x="497.368421" y="1082.82" style="fill: #4a4741; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p8a87c9d492)">
+     <use xlink:href="#ma386800a39" x="461.557895" y="1046.82" style="fill: #4a4741; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p8a87c9d492)">
+     <use xlink:href="#ma386800a39" x="535.225263" y="1010.82" style="fill: #4a4741; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3"/>
+  <g id="line2d_37">
+   <path d="M 56.16 59.22 
+L 807.84 59.22 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_38">
+   <path d="M 56.16 285.36 
+L 807.84 285.36 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_39">
+   <path d="M 56.16 352.92 
+L 807.84 352.92 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_40">
+   <path d="M 56.16 1179.36 
+L 807.84 1179.36 
+" style="fill: none; stroke: #17171a; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="text_48">
+   <text style="font-weight: 500; font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="56.16" y="47.88" transform="rotate(-0 56.16 47.88)">PIX</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #8c877d" x="90.72" y="47.88" transform="rotate(-0 90.72 47.88)">No. 012</text>
+  </g>
+  <g id="text_50">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="807.84" y="47.88" transform="rotate(-0 807.84 47.88)">THU 19 NOV 2026</text>
+  </g>
+  <g id="text_51">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="105.2625" transform="rotate(-0 56.16 105.2625)">SAFETY · SPEED AND PEDESTRIANS</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 46px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="157.32" transform="rotate(-0 53.568 157.32)">A pedestrian's risk of death</text>
+  </g>
+  <g id="text_53">
+   <text style="font-style: italic; font-size: 46px; font-family: 'Instrument Serif'; text-anchor: start; fill: #e4572e" x="53.568" y="204.24" transform="rotate(-0 53.568 204.24)">climbs steeply</text>
+  </g>
+  <g id="text_54">
+   <text style="font-size: 46px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="278.9055" y="204.24" transform="rotate(-0 278.9055 204.24)"> with speed</text>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 233.075933)">For a pedestrian struck by a car or light truck in the US, the risk of death reaches 10% at 24.1 mph</text>
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 258.035376)">(39 km/h), 50% at 40.6 mph (65 km/h) and 90% at 54.6 mph (88 km/h).</text>
+  </g>
+  <g id="text_56">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="306.3125" transform="rotate(-0 56.16 306.3125)">STUDY</text>
+  </g>
+  <g id="text_57">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 325.145244)">In-depth crash investigations,</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 342.93167)">weighted to national injury data</text>
+  </g>
+  <g id="text_58">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="259.1136" y="306.3125" transform="rotate(-0 259.1136 306.3125)">SAMPLE</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(259.1136 325.145244)">Pedestrians aged 15+ struck by</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(259.1136 342.93167)">cars and light trucks, US, 1994–98</text>
+  </g>
+  <g id="text_60">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="477.1008" y="306.3125" transform="rotate(-0 477.1008 306.3125)">SOURCE</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(477.1008 326.270713)">Tefft</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(477.1008 343.144131)">Accid Anal Prev, 2013</text>
+  </g>
+  <g id="text_62">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="597.3696" y="306.3125" transform="rotate(-0 597.3696 306.3125)">CONSISTENT WITH</text>
+  </g>
+  <g id="text_63">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(597.3696 325.534893)">Rosén &amp; Sander 2009 (Germany)</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(597.3696 343.492764)">Richards 2010, Davis 2001 (UK)</text>
+  </g>
+  <g id="text_64">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="391.98" transform="rotate(-0 73.44 391.98)">01</text>
+  </g>
+  <g id="text_65">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="391.98" transform="rotate(-0 101.088 391.98)">Average risk for a struck pedestrian, by the car's speed at impact</text>
+  </g>
+  <g id="text_66">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="407.82" transform="rotate(-0 101.088 407.82)">Dots: the published speeds at 10%, 25%, 50%, 75% and 90% risk. Lines: approximate logistic fits through them.</text>
+  </g>
+  <g id="text_67">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="933.78" transform="rotate(-0 73.44 933.78)">02</text>
+  </g>
+  <g id="text_68">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="933.78" transform="rotate(-0 101.088 933.78)">The curve is about as steep in four studies' data</text>
+  </g>
+  <g id="text_69">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="949.62" transform="rotate(-0 101.088 949.62)">Each extra 5 mph multiplies the odds of death by about 2 to 2.8. No evidence the studies differ (p = 0.29).</text>
+  </g>
+  <g id="text_70">
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1200)">DATA  Thresholds: Tefft, Accid Anal Prev 50:871 (2013), abstract. Odds ratios: Tefft, AAA Foundation report</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1216.591875)">      (2011), Table 4, unadjusted models. All values transcribed from text and tables; no figure was read.</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1233.231875)">NOTE  Impact speed, not travel speed. US vehicles of model years 1989-99. Source reports no interval for the thresholds.</text>
+  </g>
+  <g id="text_71">
+   <text style="font-weight: 500; font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #17171a" x="807.84" y="1198.665" transform="rotate(-0 807.84 1198.665)">PIX · 012</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe7aab3e8c9">
+   <rect x="73.44" y="447.42" width="665.28" height="390.6"/>
+  </clipPath>
+  <clipPath id="p8a87c9d492">
+   <rect x="332.64" y="989.22" width="388.8" height="151.2"/>
+  </clipPath>
+ </defs>
+</svg>

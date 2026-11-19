@@ -1,0 +1,9 @@
+# Sources
+
+No study in this entry released individual-level data, so every value is transcribed from text or tables (never from news coverage or figures).
+
+- `tefft2013_thresholds.csv`: impact speeds at which the average risk of death, and of severe injury (AIS 4 or greater, including death), reaches 10%, 25%, 50%, 75% and 90%. Transcribed from the abstract of Tefft BC, Impact speed and a pedestrian's risk of severe injury or death, *Accident Analysis & Prevention* 50:871-878 (2013), doi:10.1016/j.aap.2012.07.022, as returned by PubMed E-utilities (PMID 22935347) on 2026-11-19. The age comparison (a 70-year-old's risk equals a 30-year-old's at 11.8 mph faster) is from the same abstract.
+- `tefft2011_table4_studies.csv`: odds ratio of death per 5 mph of impact speed (95% CI) and the speeds at 10% to 90% risk of death in four studies that weighted their samples to national injury statistics: Davis (2001, UK), Rosén & Sander (2009, Germany), Richards (2010, UK) and Tefft (US, unadjusted, cars only). Transcribed from Table 4 (p. 13) of Tefft BC, *Impact Speed and a Pedestrian's Risk of Severe Injury or Death*, AAA Foundation for Traffic Safety technical report (September 2011), the report version of the 2013 paper. Copy downloaded from https://rules.cityofnewyork.us/wp-content/uploads/2025/06/2011PedestrianRiskVsSpeedReport.pdf on 2026-11-19. The unadjusted rows are used so the four studies are compared on the same footing.
+- `pubmed_abstracts.txt`: PubMed abstracts for Tefft 2013 (PMID 22935347), Rosén, Stigson & Sander 2011 (PMID 21094293) and Rosén & Sander 2009 (PMID 19393804), fetched 2026-11-19, kept as the record of the transcribed text.
+
+Derived (written by `analysis.py`): `fitted_curves.csv`, logistic curves fitted through each set of five thresholds. These are smooth interpolations of the published points, not the authors' own models.

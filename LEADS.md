@@ -99,9 +99,6 @@ Each line: the finding · finding type · where to start · what the chart could
   Stevenson and Wolfers, AER Papers & Proceedings 2013; Deaton, J Econ Perspect 2008;
   Killingsworth, Kahneman and Mellers, PNAS 2023 · country averages against GDP per person
   on a log axis.
-- **A pedestrian's risk of death climbs steeply with impact speed.** dose-response · Tefft,
-  Accident Analysis & Prevention 2013; Rosén and Sander, Accident Analysis & Prevention 2009
-  · risk of death against impact speed.
 - **Road deaths rise with roughly the fourth power of average speed.** dose-response · Elvik,
   Accident Analysis & Prevention 2013 (Power Model); Nilsson 2004 · change in fatal crashes
   against change in mean speed.
