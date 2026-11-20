@@ -1,0 +1,4 @@
+trial,city,arm,years,incidence_outdoor_pct,incidence_control_pct,cases_outdoor,n_outdoor,cases_control,n_control,effect,effect_lo,effect_hi,effect_type,location
+He 2015,Guangzhou,+40 min outdoor class a day,3,30.4,39.5,259,853,287,726,-9.1,-14.1,-4.1,risk difference (points),"He M et al., JAMA 314:1142 (2015), abstract (Results)"
+He 2022,Shanghai,+40 min outdoors a day,2,20.6,24.9,,,,,0.84,0.72,0.99,adjusted incidence risk ratio,"He X et al., Ophthalmology 129:1245 (2022), abstract (Results)"
+He 2022,Shanghai,+80 min outdoors a day,2,23.8,24.9,,,,,0.89,0.79,0.99,adjusted incidence risk ratio,"He X et al., Ophthalmology 129:1245 (2022), abstract (Results)"

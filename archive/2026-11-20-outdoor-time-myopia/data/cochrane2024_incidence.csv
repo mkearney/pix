@@ -1,0 +1,4 @@
+years,incidence_outdoor_pct,incidence_control_pct,rr,rr_lo,rr_hi,studies,participants,certainty,location
+1,7.1,9.5,0.82,0.56,1.19,3,1265,low,"Kido et al. 2024, Cochrane CD013549.pub2, abstract (Main results)"
+2,22.5,26.7,0.84,0.72,0.98,3,2104,moderate,"Kido et al. 2024, abstract (Main results)"
+3,30.5,39.8,0.77,0.59,1.01,1,394,moderate,"Kido et al. 2024, abstract (Main results)"

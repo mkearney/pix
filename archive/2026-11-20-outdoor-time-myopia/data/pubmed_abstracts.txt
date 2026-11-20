@@ -1,0 +1,389 @@
+1. Cochrane Database Syst Rev. 2024 Jun 12;6(6):CD013549. doi: 
+10.1002/14651858.CD013549.pub2.
+
+Interventions to increase time spent outdoors for preventing incidence and 
+progression of myopia in children.
+
+Kido A(1), Miyake M(1), Watanabe N(2).
+
+Author information:
+(1)Department of Ophthalmology and Visual Sciences, Graduate School of Medicine, 
+Kyoto University, Kyoto, Japan.
+(2)Department of Health Promotion and Human Behavior, Kyoto University School of 
+Public Health, Kyoto, Japan.
+
+Update of
+    doi: 10.1002/14651858.CD013549.
+
+BACKGROUND: Myopia or nearsightedness is a type of refractive error. It causes 
+people to see near objects clearly but distant objects as blurred. Good vision 
+can be obtained if the refractive error is corrected properly but, where this is 
+not possible, impaired vision will remain. The remaining myopia imposes a 
+considerable personal and societal burden. In addition, the progression of 
+myopia is more likely to be accompanied by other ocular diseases such as 
+cataract, glaucoma and retinal detachment. Myopia has emerged as a significant 
+global public health problem in recent years. The World Health Organization 
+(WHO) reported uncorrected or undercorrected myopia to be a major cause of 
+visual impairment worldwide. From both an individual and social perspective, it 
+is important to prevent the onset of myopia and slow down its progression. 
+Observational studies have shown that children who spend more time outdoors have 
+a lower incidence of myopia. Several other non-Cochrane systematic reviews have 
+focused on the association between increasing children's outdoor activity time 
+and the prevention of myopia. However, none of these systematic reviews were 
+limited to randomised controlled trials (RCTs), as they included all types of 
+study designs, including observational studies and non-RCTs, in addition to 
+RCTs.
+OBJECTIVES: To assess the effects of interventions to increase outdoor time on 
+the incidence and progression of myopia in children.
+SEARCH METHODS: We searched CENTRAL, MEDLINE Ovid, Embase Ovid, ISRCTN registry, 
+ClinicalTrials.gov, and the WHO ICTRP with no language restrictions. The 
+databases were last searched on 24 June 2022.
+SELECTION CRITERIA: We included RCTs and cluster-RCTs in which interventions 
+were performed to increase the outdoor time for children with the aim of 
+preventing the incidence and progression of myopia.
+DATA COLLECTION AND ANALYSIS: We employed the standard methods recommended by 
+Cochrane and assessed the certainty of the evidence using GRADE. We considered 
+the following outcome measures: mean change in refractive error from baseline, 
+incidence of myopia, mean change in the axial length from baseline, mean change 
+in unaided distance visual acuity from baseline, quality of life and adverse 
+event.
+MAIN RESULTS: We included five RCTs in this review, four of which were 
+cluster-RCTs. The total number of participants was 10,733. The included 
+participants were primary school children, most of whom were in first or second 
+grade (aged six to nine years). Four cluster-RCTs involved school-based 
+interventions to encourage children to spend more time outdoors. The 
+interventions included classroom time outdoors, routine for spending recess 
+outdoors, motivational tools for spending time outdoors, and encouragement 
+through electronic information tools. The intervention groups had less change in 
+refractive errors in the direction of myopia; however, 95% confidence intervals 
+(CIs) included no benefit or both benefit and harm at years one and three, and 
+differences at year two included both clinically important and unimportant 
+benefits (at 1 year: mean difference (MD) 0.08 dioptres (D), 95% CI -0.01 to 
+0.17; 4 studies, 1656 participants; low-certainty evidence; at 2 years: MD 0.13 
+D, 95% CI 0.06 to 0.19; 4 studies, 2454 participants; moderate-certainty 
+evidence; at 3 years: MD 0.17 D, 95% CI -0.17 to 0.51; 1 study, 729 
+participants; low-certainty evidence). Our protocol defined a difference of 0.1 
+D in the change in refractive error as clinically important. At one year, the 
+difference was less than 0.1 D, but at two and three years it was more than 0.1 
+D. The incidence of myopia was lower in the intervention groups compared to the 
+control groups, but 95% CIs included no change or clinically unimportant 
+benefits (at 1 year: 7.1% with intervention versus 9.5% with control; risk ratio 
+(RR), 0.82, 95% CI 0.56 to 1.19; 3 studies, 1265 participants; low-certainty 
+evidence; at 2 years: 22.5% with intervention versus 26.7% with control; RR 
+0.84, 95% CI 0.72 to 0.98; 3 studies, 2104 participants; moderate-certainty 
+evidence; at 3 years: 30.5% with intervention versus 39.8% with control; RR 
+0.77, 95% CI 0.59 to 1.01; 1 study, 394 participants; moderate-certainty 
+evidence). Our protocol defined a difference of 3% in the incidence of myopia as 
+clinically important. At one year, the difference was 2.4%, but there were 
+clinically important differences between the two groups at two (4.2%) and three 
+years (9.3%). The intervention groups had smaller changes in axial lengths in 
+the direction of myopia than the control groups; however, 95% CIs included no 
+benefit or both benefit and harm at years one and three (at 1 year: MD -0.04 mm, 
+95% CI -0.09 to 0; 3 studies, 1666 participants; low-certainty evidence; at 2 
+years: MD -0.04 mm, 95% CI -0.07 to -0.01; 3 studies, 2479 participants; 
+moderate-certainty evidence; at 3 years: MD -0.03 mm, 95% CI -0.13 to 0.07; 1 
+study, 763 participants; moderate-certainty evidence). No included studies 
+reported changes in unaided distance visual acuity and quality of life. No 
+adverse events were reported.
+AUTHORS' CONCLUSIONS: The intervention methods varied from adopting outdoor 
+activities as part of school lessons to providing information and motivation for 
+encouraging outdoor activities. The results of this review suggest that 
+long-term interventions to increase the time spent outdoors may potentially 
+reduce the development of myopia in children. However, although the 
+interventions may also suppress the progression of myopia, the low certainty of 
+evidence makes it difficult to draw conclusions. Further research needs to be 
+accumulated and reviewed.
+
+Copyright © 2024 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD013549.pub2
+PMCID: PMC11167692
+PMID: 38864362 [Indexed for MEDLINE]
+
+Conflict of interest statement: AK: none. MM: received a consulting fee for 
+reviewing a document on eye drops for preventing myopia progression from Nevakar 
+LLC (a private pharmaceutical company). MM received payment for lectures from 
+companies, not relating to myopia or myopia progression. MM's institution 
+received grant funding for MM's effort from a company, not relating to myopia or 
+myopia progression. NW: has research funds from the Japanese Ministry of Health 
+Labor and Welfare and the Japanese Ministry of Education, Science, and 
+Technology. He has also received royalties from Sogensha, Medical Review and 
+Akatsuki for publications. The results in the review are completely independent 
+of the intention of these works.1. JAMA. 2015 Sep 15;314(11):1142-8. doi: 10.1001/jama.2015.10803.
+
+Effect of Time Spent Outdoors at School on the Development of Myopia Among 
+Children in China: A Randomized Clinical Trial.
+
+He M(1), Xiang F(2), Zeng Y(3), Mai J(4), Chen Q(3), Zhang J(3), Smith W(5), 
+Rose K(6), Morgan IG(7).
+
+Author information:
+(1)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangzhou, China2Centre for Eye Research Australia, 
+University of Melbourne, Royal Victorian Eye and Ear Hospital, East Melbourne.
+(2)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangzhou, China3National Centre for Epidemiology and 
+Population Health, Australian National University, Canberra.
+(3)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangzhou, China.
+(4)Guangzhou Student's Health Care Institute of the Guangdong City Department of 
+Education, Guangzhou, China.
+(5)Environmental Health Branch, NSW Department of Health, Sydney, Australia.
+(6)Discipline of Orthoptics, Faculty of Health Sciences, University of Sydney, 
+Sydney, Australia7Discipline of Orthoptics, Graduate School of Health, 
+University of Technology Sydney, Sydney, Australia.
+(7)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangzhou, China8Research School of Biology, Australian 
+National University, Canberra.
+
+Comment in
+    JAMA. 2015 Sep 15;314(11):1137-9. doi: 10.1001/jama.2015.10723.
+    Evid Based Med. 2016 Apr;21(2):76. doi: 10.1136/ebmed-2015-110321.
+    JAMA. 2016 Feb 23;315(8):819. doi: 10.1001/jama.2015.17133.
+    JAMA. 2016 Feb 23;315(8):819-20. doi: 10.1001/jama.2015.17139.
+    JAMA. 2016 Feb 23;315(8):820. doi: 10.1001/jama.2015.17150.
+    Eye Sci. 2015 Dec;30(4):137-9.
+    Eye Sci. 2015 Dec;30(4):143-6.
+
+IMPORTANCE: Myopia has reached epidemic levels in parts of East and Southeast 
+Asia. However, there is no effective intervention to prevent the development of 
+myopia.
+OBJECTIVE: To assess the efficacy of increasing time spent outdoors at school in 
+preventing incident myopia.
+DESIGN, SETTING, AND PARTICIPANTS: Cluster randomized trial of children in grade 
+1 from 12 primary schools in Guangzhou, China, conducted between October 2010 
+and October 2013.
+INTERVENTIONS: For 6 intervention schools (n = 952 students), 1 additional 
+40-minute class of outdoor activities was added to each school day, and parents 
+were encouraged to engage their children in outdoor activities after school 
+hours, especially during weekends and holidays. Children and parents in the 6 
+control schools (n = 951 students) continued their usual pattern of activity.
+MAIN OUTCOMES AND MEASURES: The primary outcome measure was the 3-year 
+cumulative incidence rate of myopia (defined using the Refractive Error Study in 
+Children spherical equivalent refractive error standard of ≤-0.5 diopters [D]) 
+among the students without established myopia at baseline. Secondary outcome 
+measures were changes in spherical equivalent refraction and axial length among 
+all students, analyzed using mixed linear models and intention-to-treat 
+principles. Data from the right eyes were used for the analysis.
+RESULTS: There were 952 children in the intervention group and 951 in the 
+control group with a mean (SD) age of 6.6 (0.34) years. The cumulative incidence 
+rate of myopia was 30.4% in the intervention group (259 incident cases among 853 
+eligible participants) and 39.5% (287 incident cases among 726 eligible 
+participants) in the control group (difference of -9.1% [95% CI, -14.1% to 
+-4.1%]; P < .001). There was also a significant difference in the 3-year change 
+in spherical equivalent refraction for the intervention group (-1.42 D) compared 
+with the control group (-1.59 D) (difference of 0.17 D [95% CI, 0.01 to 0.33 D]; 
+P = .04). Elongation of axial length was not significantly different between the 
+intervention group (0.95 mm) and the control group (0.98 mm) (difference of 
+-0.03 mm [95% CI, -0.07 to 0.003 mm]; P = .07).
+CONCLUSIONS AND RELEVANCE: Among 6-year-old children in Guangzhou, China, the 
+addition of 40 minutes of outdoor activity at school compared with usual 
+activity resulted in a reduced incidence rate of myopia over the next 3 years. 
+Further studies are needed to assess long-term follow-up of these children and 
+the generalizability of these findings.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00848900.
+
+DOI: 10.1001/jama.2015.10803
+PMID: 26372583 [Indexed for MEDLINE]1. Ophthalmology. 2022 Nov;129(11):1245-1254. doi: 10.1016/j.ophtha.2022.06.024. 
+Epub 2022 Jun 30.
+
+Time Outdoors in Reducing Myopia: A School-Based Cluster Randomized Trial with 
+Objective Monitoring of Outdoor Time and Light Intensity.
+
+He X(1), Sankaridurg P(2), Wang J(3), Chen J(3), Naduvilath T(2), He M(4), Zhu 
+Z(5), Li W(2), Morgan IG(6), Xiong S(7), Zhu J(3), Zou H(1), Rose KA(8), Zhang 
+B(3), Weng R(2), Resnikoff S(2), Xu X(9).
+
+Author information:
+(1)Shanghai Eye Disease Prevention and Treatment Center, Shanghai Eye Hospital, 
+Shanghai Vision Health Center &amp; Shanghai Children Myopia Institute, 
+Shanghai, China; Department of Ophthalmology, Shanghai General Hospital, 
+Shanghai Jiao Tong University, National Clinical Research Center for Eye 
+Diseases, Center of Eye Shanghai Key Laboratory of Ocular Fundus Diseases, 
+Shanghai Engineering Center for Visual Science and Photomedicine, Shanghai, 
+China.
+(2)Brien Holden Vision Institute, Sydney, Australia; School of Optometry and 
+Vision Science, University of New South Wales, Sydney, Australia.
+(3)Shanghai Eye Disease Prevention and Treatment Center, Shanghai Eye Hospital, 
+Shanghai Vision Health Center &amp; Shanghai Children Myopia Institute, 
+Shanghai, China.
+(4)Centre for Eye Research Australia; Ophthalmology, University of Melbourne, 
+Melbourne, Australia; State Key Laboratory of Ophthalmology, Zhongshan 
+Ophthalmic Center, Sun Yat-sen University, Guangzhou, China.
+(5)Centre for Eye Research Australia; Ophthalmology, University of Melbourne, 
+Melbourne, Australia.
+(6)Division of Biochemistry and Molecular Biology, Research School of Biology, 
+Australian National University, Canberra, ACT, Australia.
+(7)Department of Ophthalmology, Shanghai General Hospital, Shanghai Jiao Tong 
+University, National Clinical Research Center for Eye Diseases, Center of Eye 
+Shanghai Key Laboratory of Ocular Fundus Diseases, Shanghai Engineering Center 
+for Visual Science and Photomedicine, Shanghai, China.
+(8)Discipline of Orthoptics, Graduate School of Health, University of Technology 
+Sydney, Ultimo, NSW, Australia.
+(9)Shanghai Eye Disease Prevention and Treatment Center, Shanghai Eye Hospital, 
+Shanghai Vision Health Center &amp; Shanghai Children Myopia Institute, 
+Shanghai, China; Department of Ophthalmology, Shanghai General Hospital, 
+Shanghai Jiao Tong University, National Clinical Research Center for Eye 
+Diseases, Center of Eye Shanghai Key Laboratory of Ocular Fundus Diseases, 
+Shanghai Engineering Center for Visual Science and Photomedicine, Shanghai, 
+China. Electronic address: drxuxun@sjtu.edu.cn.
+
+PURPOSE: To evaluate the efficacy of time outdoors per school day over 2 years 
+on myopia onset and shift.
+DESIGN: A prospective, cluster-randomized, examiner-masked, 3-arm trial.
+PARTICIPANTS: A total of 6295 students aged 6 to 9 years from 24 primary schools 
+in Shanghai, China, stratified and randomized by school in a 1:1:1 ratio to 
+control (n = 2037), test I (n = 2329), or test II (n = 1929) group.
+METHODS: An additional 40 or 80 minutes of outdoor time was allocated to each 
+school day for test I and II groups. Children in the control group continued 
+their habitual outdoor time. Objective monitoring of outdoor and indoor time and 
+light intensity each day was measured with a wrist-worn wearable during the 
+second-year follow-up.
+MAIN OUTCOME MEASURES: The 2-year cumulative incidence of myopia (defined as 
+cycloplegic spherical equivalent [SE] of ≤-0.5 diopters [D] in the right eye) 
+among the students without myopia at baseline and changes in SE and axial length 
+(AL) after 2 years.
+RESULTS: The unadjusted 2-year cumulative incidence of myopia was 24.9%, 20.6%, 
+and 23.8% for control, test I, and II groups, respectively. The adjusted 
+incidence decreased by 16% (incidence risk ratio [IRR], 0.84; 95% confidence 
+interval [CI], 0.72-0.99; P = 0.035) in test I and 11% (IRR = 0.89; 95% CI, 
+0.79-0.99; P = 0.041) in test II when compared with the control group. The test 
+groups showed less myopic shift and axial elongation compared with the control 
+group (test I: -0.84 D and 0.55 mm, test II: -0.91 D and 0.57 mm, control: -1.04 
+D and 0.65 mm). There was no significant difference in the adjusted incidence of 
+myopia and myopic shift between the 2 test groups. The test groups had similar 
+outdoor time and light intensity (test I: 127 ± 30 minutes/day and 3557 ± 970 
+lux/minute; test II: 127 ± 26 minutes/day and 3662 ± 803 lux/minute) but 
+significantly more outdoor time and higher light intensity compared with the 
+control group (106 ± 27 minutes/day and 2984 ± 806 lux/minute). Daily outdoor 
+time of 120 to 150 minutes at 5000 lux/minutes or cumulative outdoor light 
+intensity of 600 000 to 750 000 lux significantly reduced the IRR by 15%～ 24%.
+CONCLUSIONS: Increasing outdoor time reduced the risk of myopia onset and myopic 
+shifts, especially in nonmyopic children. The protective effect of outdoor time 
+was related to the duration of exposure and light intensity. The dose-response 
+effect between test I and test II was not observed probably because of 
+insufficient outdoor time achieved in the test groups, which suggests that 
+proper monitoring on the compliance on outdoor intervention is critical if one 
+wants to see the protective effect.
+
+Copyright © 2022 American Academy of Ophthalmology. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.ophtha.2022.06.024
+PMID: 35779695 [Indexed for MEDLINE]1. Ophthalmic Res. 2020;63(2):97-105. doi: 10.1159/000501937. Epub 2019 Aug 20.
+
+Significance of Outdoor Time for Myopia Prevention: A Systematic Review and 
+Meta-Analysis Based on Randomized Controlled Trials.
+
+Cao K(1), Wan Y(2), Yusufu M(3), Wang N(3).
+
+Author information:
+(1)Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing 
+Tongren Hospital, Capital Medical University, Beijing, China, anzhen602@163.com.
+(2)Beijing Tongren Eye Center, Beijing Tongren Hospital, Capital Medical 
+University, Beijing Ophthalmology and Visual Sciences Key Laboratory, Beijing, 
+China.
+(3)Beijing Institute of Ophthalmology, Beijing Tongren Eye Center, Beijing 
+Tongren Hospital, Capital Medical University, Beijing, China.
+
+BACKGROUND: Myopia, especially high myopia, would cause damage in the choroid, 
+retina and sclera, thereby leading to vision loss. Although refractive error 
+correction can help improve visual acuity, the pathology of myopia, a global 
+issue, remains unclear and myopia progression, as well as concomitant fundus 
+progression, remains uncontrolled. Under such circumstances, prevention of 
+myopia is of great significance and thus should be prioritized.
+OBJECTIVE: To explore whether outdoor time has positive significance for myopia 
+prevention.
+SEARCH METHODS: Databases of Pubmed, Science Direct, the Cochrane Library, the 
+Chinese National Knowledge Infrastructure and the Wanfang Database were 
+searched. The following terms or their combinations were used: myopia, 
+prevention, control, random, randomized, randomization, intervention, outdoor. 
+The full search strategy was shown in the Appendix below. The databases were 
+last searched on -October 24, 2018.
+SELECTION CRITERIA: Randomized controlled trials (RCTs) that participants 
+accepted outdoor activity as an intervention measure for myopia prevention were 
+included.
+DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data 
+and assessed the risk of bias for included studies. A fixed-effects model was 
+applied, given that the heterogeneity among included studies was small.
+MAIN RESULTS: Five RCTs with 3,014 subjects were included. Subjects' age ranged 
+from 6 to 12 years, and the follow-up duration ranged from 9 to 36 months. 
+Spherical equivalent error (SER) of the outdoor group was larger than that of 
+the control group, and the pooled mean difference (MD) was 0.15 (95% CI 
+0.06-0.23) diopter (D). The change in SER of the outdoor group was smaller than 
+that of the control group, with a pooled MD of 0.17 (95% CI 0.16-0.18) D. New 
+myopia cases in the outdoor group were fewer than that of the control group, and 
+the pooled risk ratio was 0.76 (95% CI 0.67-0.87). The change in axial length of 
+the outdoor group was smaller than that of the control group, and the pooled MD 
+was -0.03 (95% CI -0.03 to -0.03) mm. For all analyzed outcomes, there was no 
+heterogeneity across included studies (I2 = 0%) and there was no publication 
+bias either.
+CONCLUSION: Outdoor time helps slow down the change of axial length and reduce 
+the risk of myopia.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000501937
+PMID: 31430758 [Indexed for MEDLINE]1. Acta Ophthalmol. 2017 Sep;95(6):551-566. doi: 10.1111/aos.13403. Epub 2017 Mar
+ 2.
+
+Time spent in outdoor activities in relation to myopia prevention and control: a 
+meta-analysis and systematic review.
+
+Xiong S(1)(2), Sankaridurg P(3)(4), Naduvilath T(3), Zang J(5), Zou H(1)(2), Zhu 
+J(1), Lv M(1), He X(1)(6), Xu X(1)(2).
+
+Author information:
+(1)Department of Preventative Ophthalmology, Shanghai Eye Disease Prevention and 
+Treatment Center, Shanghai Eye Hospital, Shanghai, China.
+(2)Department of Ophthalmology, Shanghai General Hospital, Shanghai Jiao Tong 
+University, Shanghai, China.
+(3)Brien Holden Vision Institute, Sydney, New South Wales, Australia.
+(4)School of Optometry and Vision Science, University of New South Wales, 
+Sydney, New South Wales, Australia.
+(5)Department of Nutrition, Shanghai Municipal Center for Disease Control and 
+Prevention, Shanghai, China.
+(6)Department of Maternal and Child Health, School of Public Health, Key 
+Laboratory of Public Health Safety, Ministry of Education, Fudan University, 
+Shanghai, China.
+
+Outdoor time is considered to reduce the risk of developing myopia. The purpose 
+is to evaluate the evidence for association between time outdoors and (1) risk 
+of onset of myopia (incident/prevalent myopia); (2) risk of a myopic shift in 
+refractive error and c) risk of progression in myopes only. A systematic review 
+followed by a meta-analysis and a dose-response analysis of relevant evidence 
+from literature was conducted. PubMed, EMBASE and the Cochrane Library were 
+searched for relevant papers. Of the 51 articles with relevant data, 25 were 
+included in the meta-analysis and dose-response analysis. Twenty-three of the 25 
+articles involved children. Risk ratio (RR) for binary variables and weighted 
+mean difference (WMD) for continuous variables were conducted. Mantel-Haenszel 
+random-effects model was used to pool the data for meta-analysis. Statistical 
+heterogeneity was assessed using the I2 test with I2  ≥ 50% considered to 
+indicate high heterogeneity. Additionally, subgroup analyses (based on 
+participant's age, prevalence of myopia and study type) and sensitivity analyses 
+were conducted. A significant protective effect of outdoor time was found for 
+incident myopia (clinical trials: risk ratio (RR) = 0.536, 95% confidence 
+interval (CI) = 0.338 to 0.850; longitudinal cohort studies: RR = 0.574, 95% 
+CI = 0.395 to 0.834) and prevalent myopia (cross-sectional studies: OR = 0.964, 
+95% CI = 0.945 to 0.982). With dose-response analysis, an inverse nonlinear 
+relationship was found with increased time outdoors reducing the risk of 
+incident myopia. Also, pooled results from clinical trials indicated that when 
+outdoor time was used as an intervention, there was a reduced myopic shift of 
+-0.30 D (in both myopes and nonmyopes) compared with the control group 
+(WMD = -0.30, 95% CI = -0.18 to -0.41) after 3 years of follow-up. However, when 
+only myopes were considered, dose-response analysis did not find a relationship 
+between time outdoors and myopic progression (R2  = 0.00064). Increased time 
+outdoors is effective in preventing the onset of myopia as well as in slowing 
+the myopic shift in refractive error. But paradoxically, outdoor time was not 
+effective in slowing progression in eyes that were already myopic. Further 
+studies evaluating effect of outdoor in various doses and objective measurements 
+of time outdoors may help improve our understanding of the role played by 
+outdoors in onset and management of myopia.
+
+© 2017 The Authors. Acta Ophthalmologica published by John Wiley & Sons Ltd on 
+behalf of Acta Ophthalmologica Scandinavica Foundation.
+
+DOI: 10.1111/aos.13403
+PMCID: PMC5599950
+PMID: 28251836 [Indexed for MEDLINE]

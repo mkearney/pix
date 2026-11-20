@@ -51,9 +51,6 @@ Each line: the finding · finding type · where to start · what the chart could
   experiment) · Layton et al., NEJM 2018; Morrow et al., CMAJ 2012; Whitely et al., J Child
   Psychol Psychiatry 2019 (systematic review) · diagnosis rate by birth month, jumping at
   the school-entry cutoff.
-- **Time outdoors protects children's eyesight.** effect · He et al., JAMA 2015 (trial,
-  Guangzhou); Wu et al., Ophthalmology 2018 (trial, Taiwan); Xiong et al., Acta
-  Ophthalmologica 2017 (meta-analysis) · myopia incidence, intervention against control.
 - **The best gap between study sessions grows with how long you need to remember.**
   moderator · Cepeda et al., Psychological Bulletin 2006 (meta-analysis); Cepeda et al.,
   Psychological Science 2008 · recall against gap, one curve per test delay.

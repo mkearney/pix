@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="1188pt" viewBox="0 0 864 1188" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-20T13:14:49.698074</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1188 
+L 864 1188 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f3eee4"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 15.12 1168.992 
+L 34.56 1168.992 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 19.008 1172.88 
+L 19.008 1153.44 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 15.12 19.008 
+L 34.56 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 19.008 15.12 
+L 19.008 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 848.88 1168.992 
+L 829.44 1168.992 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 844.992 1172.88 
+L 844.992 1153.44 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 848.88 19.008 
+L 829.44 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 844.992 15.12 
+L 844.992 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 177.12 688.596 
+L 635.04 688.596 
+L 635.04 439.116 
+L 177.12 439.116 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_9">
+      <path d="M 177.12 688.596 
+L 177.12 439.116 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_10">
+      <defs>
+       <path id="m96b7387138" d="M 0 0 
+L 0 3 
+" style="stroke: #8c877d; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m96b7387138" x="177.12" y="688.596" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="177.12" y="707.3335" transform="rotate(-0 177.12 707.3335)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_11">
+      <path d="M 278.88 688.596 
+L 278.88 439.116 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m96b7387138" x="278.88" y="688.596" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="278.88" y="707.3335" transform="rotate(-0 278.88 707.3335)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_13">
+      <path d="M 380.64 688.596 
+L 380.64 439.116 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m96b7387138" x="380.64" y="688.596" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="380.64" y="707.3335" transform="rotate(-0 380.64 707.3335)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_15">
+      <path d="M 482.4 688.596 
+L 482.4 439.116 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m96b7387138" x="482.4" y="688.596" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="482.4" y="707.3335" transform="rotate(-0 482.4 707.3335)">30%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_17">
+      <path d="M 584.16 688.596 
+L 584.16 439.116 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m96b7387138" x="584.16" y="688.596" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="584.16" y="707.3335" transform="rotate(-0 584.16 707.3335)">40%</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="406.08" y="723.149125" transform="rotate(-0 406.08 723.149125)">Children who became short-sighted</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_19">
+    <path d="M 249.3696 475.272522 
+L 273.792 475.272522 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke: #bdb4a4; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 406.08 547.585565 
+L 448.8192 547.585565 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke: #bdb4a4; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 487.488 619.898609 
+L 582.1248 619.898609 
+" clip-path="url(#pac4e72ba12)" style="fill: none; stroke: #bdb4a4; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 177.12 688.596 
+L 635.04 688.596 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="md75f330bd0" d="M 0 5.244044 
+C 1.390737 5.244044 2.7247 4.691499 3.708099 3.708099 
+C 4.691499 2.7247 5.244044 1.390737 5.244044 0 
+C 5.244044 -1.390737 4.691499 -2.7247 3.708099 -3.708099 
+C 2.7247 -4.691499 1.390737 -5.244044 0 -5.244044 
+C -1.390737 -5.244044 -2.7247 -4.691499 -3.708099 -3.708099 
+C -4.691499 -2.7247 -5.244044 -1.390737 -5.244044 0 
+C -5.244044 1.390737 -4.691499 2.7247 -3.708099 3.708099 
+C -2.7247 4.691499 -1.390737 5.244044 0 5.244044 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#pac4e72ba12)">
+     <use xlink:href="#md75f330bd0" x="273.792" y="475.272522" style="fill: #4a4741; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="283.968" y="459.506174" transform="rotate(-0 283.968 459.506174)">9.5%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="239.1936" y="459.506174" transform="rotate(-0 239.1936 459.506174)">7.1%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="167.9616" y="479.637756" transform="rotate(-0 167.9616 479.637756)">1 year</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="648.7776" y="463.982457" transform="rotate(-0 648.7776 463.982457)">RR 0.82 (0.56–1.19)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: start; fill: #8c877d" x="648.7776" y="489.776315" transform="rotate(-0 648.7776 489.776315)">3 trials · low certainty</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pac4e72ba12)">
+     <use xlink:href="#md75f330bd0" x="448.8192" y="547.585565" style="fill: #4a4741; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="458.9952" y="531.819217" transform="rotate(-0 458.9952 531.819217)">26.7%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="395.904" y="531.819217" transform="rotate(-0 395.904 531.819217)">22.5%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="167.9616" y="551.9508" transform="rotate(-0 167.9616 551.9508)">2 years</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="648.7776" y="536.2955" transform="rotate(-0 648.7776 536.2955)">RR 0.84 (0.72–0.98)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: start; fill: #8c877d" x="648.7776" y="562.089359" transform="rotate(-0 648.7776 562.089359)">3 trials · moderate certainty</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pac4e72ba12)">
+     <use xlink:href="#md75f330bd0" x="582.1248" y="619.898609" style="fill: #4a4741; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="592.3008" y="604.132261" transform="rotate(-0 592.3008 604.132261)">39.8%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="477.312" y="604.132261" transform="rotate(-0 477.312 604.132261)">30.5%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="167.9616" y="624.263843" transform="rotate(-0 167.9616 624.263843)">3 years</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="648.7776" y="608.608543" transform="rotate(-0 648.7776 608.608543)">RR 0.77 (0.59–1.01)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: start; fill: #8c877d" x="648.7776" y="634.402402" transform="rotate(-0 648.7776 634.402402)">1 trial · moderate certainty</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 600; font-size: 10px; font-family: 'Inter'; fill: #e4572e" transform="translate(467.672375 659.957587)">Outdoor</text>
+    <text style="font-weight: 600; font-size: 10px; font-family: 'Inter'; fill: #e4572e" transform="translate(459.549719 672.057196)">programme</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 600; font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #4a4741" x="582.1248" y="659.957587" transform="rotate(-0 582.1248 659.957587)">Without</text>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="m813191f102" d="M 0 5.700877 
+C 1.51189 5.700877 2.962061 5.100197 4.031129 4.031129 
+C 5.100197 2.962061 5.700877 1.51189 5.700877 0 
+C 5.700877 -1.51189 5.100197 -2.962061 4.031129 -4.031129 
+C 2.962061 -5.100197 1.51189 -5.700877 0 -5.700877 
+C -1.51189 -5.700877 -2.962061 -5.100197 -4.031129 -4.031129 
+C -5.100197 -2.962061 -5.700877 -1.51189 -5.700877 0 
+C -5.700877 1.51189 -5.100197 2.962061 -4.031129 4.031129 
+C -2.962061 5.100197 -1.51189 5.700877 0 5.700877 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#pac4e72ba12)">
+     <use xlink:href="#m813191f102" x="249.3696" y="475.272522" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pac4e72ba12)">
+     <use xlink:href="#m813191f102" x="406.08" y="547.585565" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pac4e72ba12)">
+     <use xlink:href="#m813191f102" x="487.488" y="619.898609" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 332.64 1021.236 
+L 635.04 1021.236 
+L 635.04 831.156 
+L 332.64 831.156 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_22">
+      <path d="M 332.64 1021.236 
+L 332.64 831.156 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m96b7387138" x="332.64" y="1021.236" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="332.64" y="1039.9735" transform="rotate(-0 332.64 1039.9735)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_24">
+      <path d="M 399.84 1021.236 
+L 399.84 831.156 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m96b7387138" x="399.84" y="1021.236" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="399.84" y="1039.9735" transform="rotate(-0 399.84 1039.9735)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_26">
+      <path d="M 467.04 1021.236 
+L 467.04 831.156 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m96b7387138" x="467.04" y="1021.236" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="467.04" y="1039.9735" transform="rotate(-0 467.04 1039.9735)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_28">
+      <path d="M 534.24 1021.236 
+L 534.24 831.156 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m96b7387138" x="534.24" y="1021.236" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="534.24" y="1039.9735" transform="rotate(-0 534.24 1039.9735)">30%</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_30">
+      <path d="M 601.44 1021.236 
+L 601.44 831.156 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m96b7387138" x="601.44" y="1021.236" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="601.44" y="1039.9735" transform="rotate(-0 601.44 1039.9735)">40%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_32">
+    <path d="M 536.928 866.796 
+L 598.08 866.796 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke: #bdb4a4; stroke-width: 4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 471.072 926.196 
+L 499.968 926.196 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke: #bdb4a4; stroke-width: 4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 492.576 985.596 
+L 499.968 985.596 
+" clip-path="url(#p36aa2c20d6)" style="fill: none; stroke: #bdb4a4; stroke-width: 4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 332.64 1021.236 
+L 635.04 1021.236 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_7">
+    <defs>
+     <path id="m17a249e0ec" d="M 0 4.472136 
+C 1.186024 4.472136 2.323632 4.000923 3.162278 3.162278 
+C 4.000923 2.323632 4.472136 1.186024 4.472136 0 
+C 4.472136 -1.186024 4.000923 -2.323632 3.162278 -3.162278 
+C 2.323632 -4.000923 1.186024 -4.472136 0 -4.472136 
+C -1.186024 -4.472136 -2.323632 -4.000923 -3.162278 -3.162278 
+C -4.000923 -2.323632 -4.472136 -1.186024 -4.472136 0 
+C -4.472136 1.186024 -4.000923 2.323632 -3.162278 3.162278 
+C -2.323632 4.000923 -1.186024 4.472136 0 4.472136 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#p36aa2c20d6)">
+     <use xlink:href="#m17a249e0ec" x="598.08" y="866.796" style="fill: #4a4741; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="323.568" y="857.01468" transform="rotate(-0 323.568 857.01468)">Guangzhou, 3 years</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="323.568" y="879.07875" transform="rotate(-0 323.568 879.07875)">+40 min outdoor class a day · He 2015</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; fill: #17171a" transform="translate(644.112 861.746859)">30.4% vs 39.5%</text>
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; fill: #17171a" transform="translate(644.112 877.506)">diff -9.1 pts (-14.1 to -4.1)</text>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p36aa2c20d6)">
+     <use xlink:href="#m17a249e0ec" x="499.968" y="926.196" style="fill: #4a4741; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="323.568" y="916.41468" transform="rotate(-0 323.568 916.41468)">Shanghai, 2 years</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="323.568" y="938.47875" transform="rotate(-0 323.568 938.47875)">+40 min outdoors a day · He 2022</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; fill: #17171a" transform="translate(644.112 921.146859)">20.6% vs 24.9%</text>
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; fill: #17171a" transform="translate(644.112 936.906)">adj. RR 0.84 (0.72–0.99)</text>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p36aa2c20d6)">
+     <use xlink:href="#m17a249e0ec" x="499.968" y="985.596" style="fill: #4a4741; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="323.568" y="975.81468" transform="rotate(-0 323.568 975.81468)">Shanghai, 2 years</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="323.568" y="997.87875" transform="rotate(-0 323.568 997.87875)">+80 min outdoors a day · He 2022</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; fill: #17171a" transform="translate(644.112 980.546859)">23.8% vs 24.9%</text>
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; fill: #17171a" transform="translate(644.112 996.306)">adj. RR 0.89 (0.79–0.99)</text>
+   </g>
+   <g id="PathCollection_10">
+    <defs>
+     <path id="mc437b534b6" d="M 0 4.873397 
+C 1.29244 4.873397 2.532119 4.359905 3.446012 3.446012 
+C 4.359905 2.532119 4.873397 1.29244 4.873397 0 
+C 4.873397 -1.29244 4.359905 -2.532119 3.446012 -3.446012 
+C 2.532119 -4.359905 1.29244 -4.873397 0 -4.873397 
+C -1.29244 -4.873397 -2.532119 -4.359905 -3.446012 -3.446012 
+C -4.359905 -2.532119 -4.873397 -1.29244 -4.873397 0 
+C -4.873397 1.29244 -4.359905 2.532119 -3.446012 3.446012 
+C -2.532119 4.359905 -1.29244 4.873397 0 4.873397 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#p36aa2c20d6)">
+     <use xlink:href="#mc437b534b6" x="536.928" y="866.796" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#p36aa2c20d6)">
+     <use xlink:href="#mc437b534b6" x="471.072" y="926.196" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#p36aa2c20d6)">
+     <use xlink:href="#mc437b534b6" x="492.576" y="985.596" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3"/>
+  <g id="line2d_35">
+   <path d="M 56.16 55.836 
+L 807.84 55.836 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_36">
+   <path d="M 56.16 282.456 
+L 807.84 282.456 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_37">
+   <path d="M 56.16 350.016 
+L 807.84 350.016 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_38">
+   <path d="M 56.16 1111.968 
+L 807.84 1111.968 
+" style="fill: none; stroke: #17171a; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="text_38">
+   <text style="font-weight: 500; font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="56.16" y="45.144" transform="rotate(-0 56.16 45.144)">PIX</text>
+  </g>
+  <g id="text_39">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #8c877d" x="90.72" y="45.144" transform="rotate(-0 90.72 45.144)">No. 013</text>
+  </g>
+  <g id="text_40">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="807.84" y="45.144" transform="rotate(-0 807.84 45.144)">FRI 20 NOV 2026</text>
+  </g>
+  <g id="text_41">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="99.8625" transform="rotate(-0 56.16 99.8625)">CHILDREN'S HEALTH · MYOPIA</text>
+  </g>
+  <g id="text_42">
+   <text style="font-size: 48px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="153.9" transform="rotate(-0 53.568 153.9)">Getting children outdoors</text>
+  </g>
+  <g id="text_43">
+   <text style="font-size: 48px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="202.86" transform="rotate(-0 53.568 202.86)">lowers their </text>
+  </g>
+  <g id="text_44">
+   <text style="font-style: italic; font-size: 48px; font-family: 'Instrument Serif'; text-anchor: start; fill: #e4572e" x="252.918" y="202.86" transform="rotate(-0 252.918 202.86)">risk of myopia</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 231.755933)">In randomised trials that ran two years, 22.5% of children in programmes to get them outdoors became</text>
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 256.636274)">short-sighted, against 26.7% of those without (risk ratio 0.84, 95% CI 0.72–0.98).</text>
+  </g>
+  <g id="text_46">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="303.4085" transform="rotate(-0 56.16 303.4085)">STUDY</text>
+  </g>
+  <g id="text_47">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 323.361791)">Cochrane review of</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 341.148217)">five randomised trials</text>
+  </g>
+  <g id="text_48">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="229.0464" y="303.4085" transform="rotate(-0 229.0464 303.4085)">SAMPLE</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(229.0464 322.453705)">10,733 schoolchildren,</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(229.0464 340.02767)">mostly aged 6 to 9, in Asia</text>
+  </g>
+  <g id="text_50">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="424.4832" y="303.4085" transform="rotate(-0 424.4832 303.4085)">SOURCE</text>
+  </g>
+  <g id="text_51">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(424.4832 323.30765)">Kido et al.</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(424.4832 340.166303)">Cochrane, 2024</text>
+  </g>
+  <g id="text_52">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="552.2688" y="303.4085" transform="rotate(-0 552.2688 303.4085)">CONSISTENT WITH</text>
+  </g>
+  <g id="text_53">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(552.2688 323.248588)">Cao et al. 2020: RR 0.76 (0.67–0.87)</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(552.2688 341.02517)">IMI 2025 consensus</text>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="177.12" y="383.676" transform="rotate(-0 177.12 383.676)">01</text>
+  </g>
+  <g id="text_55">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="204.768" y="383.676" transform="rotate(-0 204.768 383.676)">Share of children who became short-sighted, pooled trials, by follow-up</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="204.768" y="399.516" transform="rotate(-0 204.768 399.516)">Cochrane review. Risk ratios with 95% CIs. The three-year row is the Guangzhou trial alone, cluster-adjusted.</text>
+  </g>
+  <g id="text_57">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="775.716" transform="rotate(-0 73.44 775.716)">02</text>
+  </g>
+  <g id="text_58">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="775.716" transform="rotate(-0 101.088 775.716)">The two largest trials, school by school randomisation</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="791.556" transform="rotate(-0 101.088 791.556)">Red: schools given extra outdoor time. Grey: control schools. Children without myopia at the start.</text>
+  </g>
+  <g id="text_60">
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1131.983875)">DATA  Kido et al., Cochrane CD013549 (2024); He et al., JAMA 314:1142 (2015); He et al., Ophthalmology</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1148.623875)">      129:1245 (2022). Values transcribed from the abstracts; Guangzhou percentages reproduced from case counts.</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1165.21575)">NOTE  Myopia: spherical equivalent of -0.5 D or worse. Effects on myopia that has already begun are less certain.</text>
+  </g>
+  <g id="text_61">
+   <text style="font-weight: 500; font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #17171a" x="807.84" y="1130.697" transform="rotate(-0 807.84 1130.697)">PIX · 013</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pac4e72ba12">
+   <rect x="177.12" y="439.116" width="457.92" height="249.48"/>
+  </clipPath>
+  <clipPath id="p36aa2c20d6">
+   <rect x="332.64" y="831.156" width="302.4" height="190.08"/>
+  </clipPath>
+ </defs>
+</svg>
