@@ -1,0 +1,5 @@
+# Sources
+
+- `health_ineq_online_table_1.csv`: Health Inequality Project (Chetty et al., JAMA 2016), Online Data Table 1: national life expectancy at 40 for men and women by household income percentile, pooling 2001-14, race-adjusted and unadjusted, with standard errors and mean household income per percentile. Downloaded 2026-11-21 from https://opportunityinsights.org/wp-content/uploads/2018/04/health_ineq_online_table_1.csv. This is the study's own released data; `analysis.py` reproduces the paper's headline gaps from it.
+- `health_ineq_online_table_1_readme.pdf`: the codebook for that table, from https://opportunityinsights.org/wp-content/uploads/2018/04/health_ineq_online_table_1_readme.pdf, downloaded 2026-11-21.
+- `pubmed_abstracts.txt`: PubMed abstracts for Chetty R et al., JAMA 315:1750-1766 (2016), doi:10.1001/jama.2016.4226 (PMID 27063997), and Kinge JM et al., JAMA 321:1916-1925 (2019), doi:10.1001/jama.2019.4329 (PMID 31083722), fetched 2026-11-21 with PubMed E-utilities. The Norway gaps (13.8 and 8.4 years, with 95% CIs) are transcribed from the Kinge abstract, and the Chetty headline gaps are checked against its abstract.

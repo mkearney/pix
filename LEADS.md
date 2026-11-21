@@ -89,9 +89,6 @@ Each line: the finding · finding type · where to start · what the chart could
 
 ## Economics, society & safety
 
-- **Richer Americans live years longer, and the gap is growing.** association · Chetty et al.,
-  JAMA 2016 (data at Opportunity Insights); National Academies 2015 report · life expectancy
-  at 40 by income percentile, men and women.
 - **Life satisfaction rises with the log of income, without a plateau.** association ·
   Stevenson and Wolfers, AER Papers & Proceedings 2013; Deaton, J Econ Perspect 2008;
   Killingsworth, Kahneman and Mellers, PNAS 2023 · country averages against GDP per person
