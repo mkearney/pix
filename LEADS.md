@@ -62,9 +62,6 @@ Each line: the finding · finding type · where to start · what the chart could
 
 ## Climate, energy & environment
 
-- **Warming tracks cumulative carbon dioxide almost in a straight line.** dose-response · IPCC
-  AR6 WG1 Summary for Policymakers 2021; Matthews et al., Nature 2009 · temperature against
-  cumulative emissions (Global Carbon Budget and HadCRUT or Berkeley Earth via OWID).
 - **Solar module prices fall by a steady share with each doubling of installed capacity.**
   dose-response · Way et al., Joule 2022; IRENA cost reports · log-log price against
   cumulative capacity (OWID).

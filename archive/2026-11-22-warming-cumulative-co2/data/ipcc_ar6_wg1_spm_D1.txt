@@ -1,0 +1,47 @@
+
+
+                                                                                                                                      27
+      Summary for Policymakers
+
+
+       D.1.1	This Report reaffirms with high confidence the AR5 finding that there is a near-linear relationship between cumulative
+              anthropogenic CO2 emissions and the global warming they cause. Each 1000 GtCO2 of cumulative CO2 emissions is assessed
+              to likely cause a 0.27°C to 0.63°C increase in global surface temperature with a best estimate of 0.45°C.41 This is a narrower
+              range compared to AR5 and SR1.5. This quantity is referred to as the transient climate response to cumulative CO2 emissions
+              (TCRE). This relationship implies that reaching net zero anthropogenic CO2 emissions42 is a requirement to stabilize
+              human-induced global temperature increase at any level, but that limiting global temperature increase to a specific level
+SPM           would imply limiting cumulative CO2 emissions to within a carbon budget.43 {5.4, 5.5, TS.1.3, TS.3.3, Box TS.5} (Figure SPM.10)
+
+       Every tonne of CO₂ emissions adds to global warming
+       Global surface temperature increase since 1850–1900 (OC) as a function of cumulative CO₂ emissions (GtCO₂)
+            OC
+             3
+
+                                                                                                                               SSP5-8.5
+                                              The near-linear relationship
+
+
+      28
+                                                                                                                                                    Summary for Policymakers
+
+
+D.1.2	Over the period 1850–2019, a total of 2390 ± 240 (likely range) GtCO2 of anthropogenic CO2 was emitted. Remaining
+       carbon budgets have been estimated for several global temperature limits and various levels of probability, based on the
+       estimated value of TCRE and its uncertainty, estimates of historical warming, variations in projected warming from non-
+       CO2 emissions, climate system feedbacks such as emissions from thawing permafrost, and the global surface temperature
+       change after global anthropogenic CO2 emissions reach net zero.
+		     {5.1, 5.5, Box 5.2, TS.3.3} (Table SPM.2)
+                                                                                                                                                                                             SPM
+
+Table SPM.2 | Estimates of historical carbon dioxide (CO2) emissions and remaining carbon budgets. Estimated remaining carbon budgets are
+calculated from the beginning of 2020 and extend until global net zero CO2 emissions are reached. They refer to CO2 emissions, while accounting for the global
+warming effect of non-CO2 emissions. Global warming in this table refers to human-induced global surface temperature increase, which excludes the impact
+of natural variability on global temperatures in individual years.
+{Table 3.1, 5.5.1, 5.5.2, Box 5.2, Table 5.1, Table 5.7, Table 5.8, Table TS.3}
+
+            Global Warming Between
+                                                                               Historical Cumulative CO2 Emissions from 1850 to 2019 (GtCO2)
+          1850–1900 and 2010–2019 (°C)
+               1.07 (0.8–1.3; likely range)                                                                2390 (± 240; likely range)
+
+                                                           Estimated remaining carbon budgets

@@ -1,16 +1,16 @@
-<sub>**pix** · one settled finding, drawn clearly, every day · No. 14 · 2026-11-21 · Economics · [archive →](archive/)</sub>
+<sub>**pix** · one settled finding, drawn clearly, every day · No. 15 · 2026-11-22 · Climate · [archive →](archive/)</sub>
 
-# Life expectancy rises across the whole US income range
+# Global warming rises in step with total CO2 emitted
 
-![Dot plot of life expectancy at 40 for each US household income percentile, 2001 to 2014, rising from 72.7 to 87.3 years for men and from 78.8 to 88.9 for women. Below, the gap between the top and bottom 1%: 14.6 years for US men and 13.8 for Norwegian men, 10.1 for US women and 8.4 for Norwegian women.](archive/2026-11-21-income-life-expectancy/chart.png)
+![Scatter of global temperature, relative to 1850 to 1900, against cumulative CO2 emitted since 1850, rising from about 0°C to 1.3°C as the total reaches 2,780 billion tonnes, shown against the IPCC's band for CO2-caused warming of 0.27°C to 0.63°C per 1,000 billion tonnes. Below, yearly emissions rising to 43 billion tonnes in 2025.](archive/2026-11-22-warming-cumulative-co2/chart.png)
 
-Among US adults in 2001 to 2014, men in the top 1% of household income had a life expectancy at 40 that was 14.6 years longer than men in the bottom 1% (87.3 against 72.7 years). For women the gap was 10.1 years. Life expectancy rose across the whole income range, with no plateau among the richest. Norway's registry data show gaps of 13.8 years for men and 8.4 for women. Income tracks other traits that affect health, and poor health can lower income, so the pattern is an association, not proof that income adds years.
+Warming caused by carbon dioxide is close to proportional to the total amount humans have emitted. The IPCC assesses about 0.45°C of warming for every 1,000 billion tonnes of CO2, with a likely range of 0.27°C to 0.63°C. Emissions since 1850 reached 2,780 billion tonnes by 2025, and 2016 to 2025 averaged 1.28°C above 1850 to 1900. This near-linear link is why the IPCC expresses limits on warming as a remaining budget of CO2.
 
-**Source:** Chetty R, Stepner M, Abraham S, et al. The association between income and life expectancy in the United States, 2001–2014. *JAMA* 315, 1750–1766 (2016). [doi:10.1001/jama.2016.4226](https://doi.org/10.1001/jama.2016.4226)<br>
-**Evidence:** 1.4 billion person-years of tax records linked to Social Security death records, adults aged 40 to 76. Norway's national registries show a similar gradient (Kinge et al., *JAMA*, 2019), and the National Academies (2015) found the US gap widening. The US gaps are reproduced from the study's released table and match the paper.
+**Source:** IPCC. Summary for Policymakers. In: *Climate Change 2021: The Physical Science Basis*. Contribution of Working Group I to the Sixth Assessment Report, paragraph D.1.1 (2021). [doi:10.1017/9781009157896.001](https://doi.org/10.1017/9781009157896.001)<br>
+**Evidence:** An assessment, with high confidence, of observations, Earth system models and carbon-cycle theory, reaffirming the IPCC's 2013 finding. Formalised in 2009 by Matthews et al. and Allen et al. (*Nature*). Emissions from the Global Carbon Budget and temperatures from HadCRUT5; the 1850–2019 emissions total falls inside the IPCC's 2,390 ± 240 billion tonnes.
 
-[Data](archive/2026-11-21-income-life-expectancy/data/) · [Code](archive/2026-11-21-income-life-expectancy/analysis.py) · [Evidence notes](archive/2026-11-21-income-life-expectancy/evidence.md) · [SVG](archive/2026-11-21-income-life-expectancy/chart.svg)
+[Data](archive/2026-11-22-warming-cumulative-co2/data/) · [Code](archive/2026-11-22-warming-cumulative-co2/analysis.py) · [Evidence notes](archive/2026-11-22-warming-cumulative-co2/evidence.md) · [SVG](archive/2026-11-22-warming-cumulative-co2/chart.svg)
 
 ---
 
-<sub>Previously: [Getting children outdoors lowers their risk of myopia](archive/2026-11-20-outdoor-time-myopia/post.md) · [A pedestrian's risk of death climbs steeply with speed](archive/2026-11-19-pedestrian-speed-risk/post.md) · [Older fathers pass on more new mutations](archive/2026-11-18-older-fathers-new-mutations/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [Life expectancy rises across the whole US income range](archive/2026-11-21-income-life-expectancy/post.md) · [Getting children outdoors lowers their risk of myopia](archive/2026-11-20-outdoor-time-myopia/post.md) · [A pedestrian's risk of death climbs steeply with speed](archive/2026-11-19-pedestrian-speed-risk/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
