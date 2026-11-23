@@ -1,0 +1,12 @@
+study,group,age_at_quitting,measure,value,lo,hi,location
+Doll 2004,UK male doctors,30,years of life expectancy gained vs continuing smokers,10,,,"BMJ 328:1519, abstract (Results): 'about 3, 6, 9, or 10 years'"
+Doll 2004,UK male doctors,40,years of life expectancy gained vs continuing smokers,9,,,"BMJ 328:1519, abstract (Results)"
+Doll 2004,UK male doctors,50,years of life expectancy gained vs continuing smokers,6,,,"BMJ 328:1519, abstract (Results)"
+Doll 2004,UK male doctors,60,years of life expectancy gained vs continuing smokers,3,,,"BMJ 328:1519, abstract (Results)"
+Jha 2013,US adults,25-34,years of life gained vs continuing smokers,10,,,"NEJM 368:341, abstract (Results): 'about 10, 9, and 6 years'"
+Jha 2013,US adults,35-44,years of life gained vs continuing smokers,9,,,"NEJM 368:341, abstract (Results)"
+Jha 2013,US adults,45-54,years of life gained vs continuing smokers,6,,,"NEJM 368:341, abstract (Results)"
+Pirie 2013,UK women,25-34,all-cause mortality relative risk vs never-smokers,1.05,1.00,1.11,"Lancet 381:133, abstract (Findings) and Results"
+Pirie 2013,UK women,35-44,all-cause mortality relative risk vs never-smokers,1.20,1.14,1.26,"Lancet 381:133, abstract (Findings) and Results"
+Pirie 2013,UK women,45-54,all-cause mortality relative risk vs never-smokers,1.56,1.49,1.64,"Lancet 381:133, Results (full text, PMC3547248)"
+Pirie 2013,UK women,still smoking,all-cause mortality relative risk vs never-smokers,2.97,2.88,3.07,"Lancet 381:133, abstract (Findings): still smoking at the 3-year resurvey"

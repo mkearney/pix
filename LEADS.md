@@ -9,10 +9,6 @@ Each line: the finding · finding type · where to start · what the chart could
 
 ## Health & medicine
 
-- **Quitting smoking earlier wins back more life.** moderator · Jha et al., NEJM 2013 (US
-  National Health Interview Survey); Doll et al., BMJ 2004 (British doctors, 50 years);
-  Cho et al., NEJM Evidence 2024 (four countries) · years of life regained by age at
-  quitting, the cohorts side by side.
 - **HPV vaccination protects most when given young.** moderator · Falcaro et al., Lancet 2021
   (England); Lei et al., NEJM 2020 (Sweden); Palmer et al., JNCI 2024 (Scotland) ·
   reduction in cervical cancer by age at vaccination, with intervals.
