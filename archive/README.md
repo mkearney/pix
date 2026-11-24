@@ -1,9 +1,10 @@
 # pix archive
 
-6 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
+7 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
 
 | Date | | Finding |
 |---|---|---|
+| 2026-11-24 | <a href="2026-11-24-youngest-in-class-adhd/post.md"><img src="2026-11-24-youngest-in-class-adhd/chart.png" width="180"></a> | **[Youngest children in class get more ADHD diagnoses](2026-11-24-youngest-in-class-adhd/post.md)**<br><sub>Children · Layton et al., New England Journal of Medicine, 2018</sub><br>In US states with a September 1 school cutoff, August-born children were diagnosed with ADHD 34% more often than September-born children, 85.1 against 63.6 per 10,000. |
 | 2026-11-23 | <a href="2026-11-23-quit-smoking-age/post.md"><img src="2026-11-23-quit-smoking-age/chart.png" width="180"></a> | **[The earlier smokers quit, the more years they gain](2026-11-23-quit-smoking-age/post.md)**<br><sub>Health · Doll et al., BMJ, 2004</sub><br>British doctors who quit smoking at 30 gained about 10 years of life over those who kept smoking. Quitting at 60 gained about 3. |
 | 2026-11-22 | <a href="2026-11-22-warming-cumulative-co2/post.md"><img src="2026-11-22-warming-cumulative-co2/chart.png" width="180"></a> | **[Global warming rises in step with total CO2 emitted](2026-11-22-warming-cumulative-co2/post.md)**<br><sub>Climate · IPCC, AR6 Working Group I Summary for Policymakers, 2021</sub><br>The IPCC finds about 0.45°C of warming per 1,000 billion tonnes of CO2 emitted. The total since 1850 reached 2,780 billion tonnes by 2025. |
 | 2026-11-21 | <a href="2026-11-21-income-life-expectancy/post.md"><img src="2026-11-21-income-life-expectancy/chart.png" width="180"></a> | **[Life expectancy rises across the whole US income range](2026-11-21-income-life-expectancy/post.md)**<br><sub>Economics · Chetty et al., JAMA, 2016</sub><br>In 2001-14, US men in the top 1% of income had a life expectancy at 40 that was 14.6 years longer than the bottom 1%. For women the gap was 10.1 years. |

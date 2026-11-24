@@ -43,10 +43,6 @@ Each line: the finding · finding type · where to start · what the chart could
 
 ## Children, learning & the mind
 
-- **The youngest children in a class are diagnosed with ADHD more often.** effect (natural
-  experiment) · Layton et al., NEJM 2018; Morrow et al., CMAJ 2012; Whitely et al., J Child
-  Psychol Psychiatry 2019 (systematic review) · diagnosis rate by birth month, jumping at
-  the school-entry cutoff.
 - **The best gap between study sessions grows with how long you need to remember.**
   moderator · Cepeda et al., Psychological Bulletin 2006 (meta-analysis); Cepeda et al.,
   Psychological Science 2008 · recall against gap, one curve per test delay.

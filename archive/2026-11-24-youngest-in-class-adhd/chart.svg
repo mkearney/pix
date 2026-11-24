@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="1296pt" viewBox="0 0 864 1296" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-24T13:12:58.597682</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1296 
+L 864 1296 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f3eee4"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 15.12 1276.992 
+L 34.56 1276.992 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 19.008 1280.88 
+L 19.008 1261.44 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 15.12 19.008 
+L 34.56 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 19.008 15.12 
+L 19.008 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 848.88 1276.992 
+L 829.44 1276.992 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 844.992 1280.88 
+L 844.992 1261.44 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 848.88 19.008 
+L 829.44 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 844.992 15.12 
+L 844.992 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 246.24 649.692 
+L 669.6 649.692 
+L 669.6 455.292 
+L 246.24 455.292 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_9">
+      <path d="M 246.24 649.692 
+L 246.24 455.292 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_10">
+      <defs>
+       <path id="m2dfbdf636b" d="M 0 0 
+L 0 3 
+" style="stroke: #8c877d; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="246.24" y="649.692" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="246.24" y="668.4295" transform="rotate(-0 246.24 668.4295)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_11">
+      <path d="M 342.458182 649.692 
+L 342.458182 455.292 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="342.458182" y="649.692" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="342.458182" y="668.4295" transform="rotate(-0 342.458182 668.4295)">25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_13">
+      <path d="M 438.676364 649.692 
+L 438.676364 455.292 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="438.676364" y="649.692" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="438.676364" y="668.4295" transform="rotate(-0 438.676364 668.4295)">50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_15">
+      <path d="M 534.894545 649.692 
+L 534.894545 455.292 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="534.894545" y="649.692" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="534.894545" y="668.4295" transform="rotate(-0 534.894545 668.4295)">75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_17">
+      <path d="M 631.112727 649.692 
+L 631.112727 455.292 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="631.112727" y="649.692" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="631.112727" y="668.4295" transform="rotate(-0 631.112727 668.4295)">100</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="457.92" y="684.245125" transform="rotate(-0 457.92 684.245125)">Children with ADHD claims per 10,000 (95% CI)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 246.24 649.692 
+L 669.6 649.692 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 537.203782 490.079368 
+L 608.790109 490.079368 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="614.5632" y="493.641868" transform="rotate(-0 614.5632 493.641868)">85.1  (75.6–94.2)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #e4572e" x="237.7728" y="493.717064" transform="rotate(-0 237.7728 493.717064)">Born August (youngest)</text>
+   </g>
+   <g id="line2d_20">
+    <path d="M 459.459491 522.820421 
+L 522.963491 522.820421 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke: #bdb4a4; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="528.736582" y="526.382921" transform="rotate(-0 528.736582 526.382921)">63.6  (55.4–71.9)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #4a4741" x="237.7728" y="526.458116" transform="rotate(-0 237.7728 526.458116)">Born September (oldest)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 600; font-size: 11.5px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="237.7728" y="467.149034" transform="rotate(-0 237.7728 467.149034)">Diagnosed</text>
+   </g>
+   <g id="line2d_21">
+    <path d="M 420.972218 592.395158 
+L 478.318255 592.395158 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="484.091345" y="595.957658" transform="rotate(-0 484.091345 595.957658)">52.9  (45.4–60.3)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #e4572e" x="237.7728" y="596.032853" transform="rotate(-0 237.7728 596.032853)">Born August (youngest)</text>
+   </g>
+   <g id="line2d_22">
+    <path d="M 376.326982 625.136211 
+L 427.515055 625.136211 
+" clip-path="url(#pa9df36d028)" style="fill: none; stroke: #bdb4a4; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="433.288145" y="628.698711" transform="rotate(-0 433.288145 628.698711)">40.4  (33.8–47.1)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end; fill: #4a4741" x="237.7728" y="628.773906" transform="rotate(-0 237.7728 628.773906)">Born September (oldest)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 600; font-size: 11.5px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="237.7728" y="569.464823" transform="rotate(-0 237.7728 569.464823)">Treated</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="maf5bf0bf88" d="M 0 4.472136 
+C 1.186024 4.472136 2.323632 4.000923 3.162278 3.162278 
+C 4.000923 2.323632 4.472136 1.186024 4.472136 0 
+C 4.472136 -1.186024 4.000923 -2.323632 3.162278 -3.162278 
+C 2.323632 -4.000923 1.186024 -4.472136 0 -4.472136 
+C -1.186024 -4.472136 -2.323632 -4.000923 -3.162278 -3.162278 
+C -4.000923 -2.323632 -4.472136 -1.186024 -4.472136 0 
+C -4.472136 1.186024 -4.000923 2.323632 -3.162278 3.162278 
+C -2.323632 4.000923 -1.186024 4.472136 0 4.472136 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#pa9df36d028)">
+     <use xlink:href="#maf5bf0bf88" x="573.766691" y="490.079368" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m5726be12f6" d="M 0 4.472136 
+C 1.186024 4.472136 2.323632 4.000923 3.162278 3.162278 
+C 4.000923 2.323632 4.472136 1.186024 4.472136 0 
+C 4.472136 -1.186024 4.000923 -2.323632 3.162278 -3.162278 
+C 2.323632 -4.000923 1.186024 -4.472136 0 -4.472136 
+C -1.186024 -4.472136 -2.323632 -4.000923 -3.162278 -3.162278 
+C -4.000923 -2.323632 -4.472136 -1.186024 -4.472136 0 
+C -4.472136 1.186024 -4.000923 2.323632 -3.162278 3.162278 
+C -2.323632 4.000923 -1.186024 4.472136 0 4.472136 
+z
+" style="stroke: #f3eee4"/>
+    </defs>
+    <g clip-path="url(#pa9df36d028)">
+     <use xlink:href="#m5726be12f6" x="491.019055" y="522.820421" style="fill: #bdb4a4; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pa9df36d028)">
+     <use xlink:href="#maf5bf0bf88" x="449.837673" y="592.395158" style="fill: #e4572e; stroke: #f3eee4"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pa9df36d028)">
+     <use xlink:href="#m5726be12f6" x="401.728582" y="625.136211" style="fill: #bdb4a4; stroke: #f3eee4"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2"/>
+  <g id="axes_3">
+   <g id="patch_4">
+    <path d="M 358.56 1142.172 
+L 635.04 1142.172 
+L 635.04 779.292 
+L 358.56 779.292 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_23">
+      <path d="M 389.606593 1142.172 
+L 389.606593 779.292 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="389.606593" y="1142.172" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="389.606593" y="1160.9095" transform="rotate(-0 389.606593 1160.9095)">1</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_25">
+      <path d="M 455.360323 1142.172 
+L 455.360323 779.292 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="455.360323" y="1142.172" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="455.360323" y="1160.9095" transform="rotate(-0 455.360323 1160.9095)">1.25</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_27">
+      <path d="M 509.085033 1142.172 
+L 509.085033 779.292 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="509.085033" y="1142.172" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="509.085033" y="1160.9095" transform="rotate(-0 509.085033 1160.9095)">1.5</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_29">
+      <path d="M 593.856336 1142.172 
+L 593.856336 779.292 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m2dfbdf636b" x="593.856336" y="1142.172" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="593.856336" y="1160.9095" transform="rotate(-0 593.856336 1160.9095)">2</text>
+     </g>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="496.8" y="1176.725125" transform="rotate(-0 496.8 1176.725125)">Youngest vs oldest in the school year: ratio of ADHD diagnosis or medication (95% CI, log scale)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_31">
+    <path d="M 389.606593 1142.172 
+L 389.606593 779.292 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #17171a; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 358.56 1142.172 
+L 635.04 1142.172 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 450.607477 806.782909 
+L 482.371902 806.782909 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="810.345409" transform="rotate(-0 641.377235 810.345409)">boys  1.30 (1.23–1.37)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(236.445288 815.371284)">Canada (BC) · diagnosis</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(272.9906 832.269819)">Dec vs Jan born</text>
+   </g>
+   <g id="line2d_33">
+    <path d="M 514.920275 831.524727 
+L 575.623505 831.524727 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="835.087227" transform="rotate(-0 641.377235 835.087227)">girls  1.70 (1.53–1.88)</text>
+   </g>
+   <g id="line2d_34">
+    <path d="M 488.754897 878.259273 
+L 509.085033 878.259273 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="881.821773" transform="rotate(-0 641.377235 881.821773)">boys  1.4 (1.4–1.5)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(252.948413 886.554678)">Norway · medication</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(252.707788 903.795401)">Oct–Dec vs Jan–Mar</text>
+   </g>
+   <g id="line2d_35">
+    <path d="M 545.966868 903.001091 
+L 593.856336 903.001091 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="906.563591" transform="rotate(-0 641.377235 906.563591)">girls  1.8 (1.7–2.0)</text>
+   </g>
+   <g id="line2d_36">
+    <path d="M 438.378747 949.735636 
+L 478.03844 949.735636 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="953.298136" transform="rotate(-0 641.377235 953.298136)">boys  1.26 (1.18–1.35)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(262.281225 957.99198)">Finland · diagnosis</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(252.595288 974.314733)">Sep–Dec vs Jan–Apr</text>
+   </g>
+   <g id="line2d_37">
+    <path d="M 423.001167 974.477455 
+L 516.839957 974.477455 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="978.039955" transform="rotate(-0 641.377235 978.039955)">girls  1.31 (1.12–1.54)</text>
+   </g>
+   <g id="line2d_38">
+    <path d="M 466.917495 1021.212 
+L 562.809743 1021.212 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #e4572e; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="1024.7745" transform="rotate(-0 641.377235 1024.7745)">1.5 (1.3–1.8)</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(259.420288 1016.738514)">Iceland · stimulants</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(236.924975 1032.057361)">youngest vs oldest third</text>
+   </g>
+   <g id="line2d_39">
+    <path d="M 401.163764 1067.946545 
+L 423.001167 1067.946545 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #bdb4a4; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #4a4741" x="641.377235" y="1071.509045" transform="rotate(-0 641.377235 1071.509045)">1.08 (1.04–1.12)</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(246.860913 1063.473059)">Denmark · medication</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(252.707788 1079.737219)">Oct–Dec vs Jan–Mar</text>
+   </g>
+   <g id="line2d_40">
+    <path d="M 445.776712 1114.681091 
+L 480.213137 1114.681091 
+" clip-path="url(#p68ad140002)" style="fill: none; stroke: #17171a; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="641.377235" y="1118.243591" transform="rotate(-0 641.377235 1118.243591)">1.28 (1.21–1.36)</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(256.89685 1110.207605)">Pooled · medication</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #17171a" transform="translate(253.6531 1125.565515)">meta-analysis, 2025</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 462.920068 1067.053224 
+Q 443.962001 1067.477475 425.003934 1067.901727 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #4a4741" transform="translate(466.917495 1063.026556)">40% of the youngest Danish children</text>
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #4a4741" transform="translate(466.917495 1073.916205)">started school a year late</text>
+   </g>
+   <g id="PathCollection_5">
+    <defs>
+     <path id="mbdd311cc09" d="M -3.708099 3.708099 
+L 3.708099 3.708099 
+L 3.708099 -3.708099 
+L -3.708099 -3.708099 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="466.917495" y="806.782909" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="545.966868" y="831.524727" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="488.754897" y="878.259273" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="562.809743" y="903.001091" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="457.708305" y="949.735636" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="469.175514" y="974.477455" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#mbdd311cc09" x="509.085033" y="1021.212" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_12">
+    <defs>
+     <path id="m64f07403a3" d="M -3.708099 3.708099 
+L 3.708099 3.708099 
+L 3.708099 -3.708099 
+L -3.708099 -3.708099 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#m64f07403a3" x="412.28471" y="1067.946545" style="fill: #bdb4a4; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_13">
+    <defs>
+     <path id="m9c89bd5f8c" d="M -0 6.708204 
+L 6.708204 0 
+L 0 -6.708204 
+L -6.708204 -0 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p68ad140002)">
+     <use xlink:href="#m9c89bd5f8c" x="462.348874" y="1114.681091" style="fill: #17171a; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4"/>
+  <g id="line2d_41">
+   <path d="M 56.16 60.912 
+L 807.84 60.912 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_42">
+   <path d="M 56.16 297.012 
+L 807.84 297.012 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_43">
+   <path d="M 56.16 364.572 
+L 807.84 364.572 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_44">
+   <path d="M 56.16 1213.056 
+L 807.84 1213.056 
+" style="fill: none; stroke: #17171a; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="text_38">
+   <text style="font-weight: 500; font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="56.16" y="49.248" transform="rotate(-0 56.16 49.248)">PIX</text>
+  </g>
+  <g id="text_39">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #8c877d" x="90.72" y="49.248" transform="rotate(-0 90.72 49.248)">No. 017</text>
+  </g>
+  <g id="text_40">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="807.84" y="49.248" transform="rotate(-0 807.84 49.248)">TUE 24 NOV 2026</text>
+  </g>
+  <g id="text_41">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="107.9625" transform="rotate(-0 56.16 107.9625)">CHILDREN · SCHOOL AGE AND ADHD</text>
+  </g>
+  <g id="text_42">
+   <text style="font-size: 50px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="163.98" transform="rotate(-0 53.568 163.98)">Youngest children in class</text>
+  </g>
+  <g id="text_43">
+   <text style="font-size: 50px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="214.98" transform="rotate(-0 53.568 214.98)">get more </text>
+  </g>
+  <g id="text_44">
+   <text style="font-style: italic; font-size: 50px; font-family: 'Instrument Serif'; text-anchor: start; fill: #e4572e" x="210.5955" y="214.98" transform="rotate(-0 210.5955 214.98)">ADHD diagnoses</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 243.866323)">In US states where children must turn 5 by September 1 to start school, August-born children, the youngest in</text>
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 268.437642)">their year, were diagnosed with ADHD 34% more often than September-born children, the oldest.</text>
+  </g>
+  <g id="text_46">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="317.9645" transform="rotate(-0 56.16 317.9645)">STUDY</text>
+  </g>
+  <g id="text_47">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 336.83826)">Natural experiment: birthdays</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 355.704217)">either side of a school cutoff</text>
+  </g>
+  <g id="text_48">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="274.1472" y="317.9645" transform="rotate(-0 274.1472 317.9645)">SAMPLE</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(274.1472 337.009705)">407,846 US children,</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(274.1472 355.650076)">insurance claims 2007–15</text>
+  </g>
+  <g id="text_50">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="462.0672" y="317.9645" transform="rotate(-0 462.0672 317.9645)">SOURCE</text>
+  </g>
+  <g id="text_51">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(462.0672 336.712752)">Layton et al.</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(462.0672 354.722303)">NEJM, 2018</text>
+  </g>
+  <g id="text_52">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="582.336" y="317.9645" transform="rotate(-0 582.336 317.9645)">CONSISTENT WITH</text>
+  </g>
+  <g id="text_53">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(582.336 337.117986)">Frisira et al. 2025 (review, 32 studies)</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(582.336 354.973318)">Whitely et al. 2019 (19 studies)</text>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="399.852" transform="rotate(-0 73.44 399.852)">01</text>
+  </g>
+  <g id="text_55">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="399.852" transform="rotate(-0 101.088 399.852)">US children born 2007–09, followed to 2015, in states with a September 1 cutoff</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="415.692" transform="rotate(-0 101.088 415.692)">Without that cutoff, the August-September gap in diagnosis was 8.9 per 10,000 (95% CI −14.9 to 20.8), not significant.</text>
+  </g>
+  <g id="text_57">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="723.852" transform="rotate(-0 73.44 723.852)">02</text>
+  </g>
+  <g id="text_58">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="723.852" transform="rotate(-0 101.088 723.852)">A similar gap in other countries' health records</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="739.692" transform="rotate(-0 101.088 739.692)">Each country uses its own school cutoff. Ratios of risk, hazard, incidence or prevalence.</text>
+  </g>
+  <g id="text_60">
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1234.119625)">DATA  Layton et al., NEJM 379:2122 (2018); Morrow 2012; Karlstad 2017; Sayal 2017; Zoëga 2012; Pottegård 2014;</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1250.624)">      Frisira et al., Eur Child Adolesc Psychiatry 34:381 (2025). Values transcribed from the papers' text.</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1267.16775)">NOTE  US diagnosis = ADHD billing code or stimulant prescription in insurance claims. Shows who gets diagnosed</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1283.80775)">      and treated, not whether the diagnoses are right.</text>
+  </g>
+  <g id="text_61">
+   <text style="font-weight: 500; font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #17171a" x="807.84" y="1232.649" transform="rotate(-0 807.84 1232.649)">PIX · 017</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa9df36d028">
+   <rect x="246.24" y="455.292" width="423.36" height="194.4"/>
+  </clipPath>
+  <clipPath id="p68ad140002">
+   <rect x="358.56" y="779.292" width="276.48" height="362.88"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,460 @@
+PubMed abstracts via E-utilities efetch, downloaded 2026-11-24.
+
+1. N Engl J Med. 2018 Nov 29;379(22):2122-2130. doi: 10.1056/NEJMoa1806828.
+
+Attention Deficit-Hyperactivity Disorder and Month of School Enrollment.
+
+Layton TJ(1), Barnett ML(1), Hicks TR(1), Jena AB(1).
+
+Author information:
+(1)From the Department of Health Care Policy, Harvard Medical School (T.J.L., 
+T.R.H., A.B.J.), the Department of Health Policy and Management, Harvard T.H. 
+Chan School of Public Health (M.L.B.), the Division of General Internal Medicine 
+and Primary Care, Department of Medicine, Brigham and Women's Hospital (M.L.B.), 
+and the Department of Medicine, Massachusetts General Hospital (A.B.J.), Boston, 
+and the National Bureau of Economic Research, Cambridge (T.J.L., A.B.J.) - all 
+in Massachusetts.
+
+Comment in
+    N Engl J Med. 2019 Feb 14;380(7):692. doi: 10.1056/NEJMc1817539.
+    N Engl J Med. 2019 Feb 14;380(7):692-3. doi: 10.1056/NEJMc1817539.
+
+BACKGROUND: Younger children in a school grade cohort may be more likely to 
+receive a diagnosis of attention deficit-hyperactivity disorder (ADHD) than 
+their older peers because of age-based variation in behavior that may be 
+attributed to ADHD rather than to the younger age of the children. Most U.S. 
+states have arbitrary age cutoffs for entry into public school. Therefore, 
+within the same grade, children with birthdays close to the cutoff date can 
+differ in age by nearly 1 year.
+METHODS: We used data from 2007 through 2015 from a large insurance database to 
+compare the rate of ADHD diagnosis among children born in August with that among 
+children born in September in states with and states without the requirement 
+that children be 5 years old by September 1 for enrollment in kindergarten. ADHD 
+diagnosis was determined on the basis of diagnosis codes from the International 
+Classification of Diseases, 9th Revision. We also used prescription records to 
+compare ADHD treatment between children born in August and children born in 
+September in states with and states without the cutoff date of September 1.
+RESULTS: The study population included 407,846 children in all U.S. states who 
+were born in the period from 2007 through 2009 and were followed through 
+December 2015. The rate of claims-based ADHD diagnosis among children in states 
+with a September 1 cutoff was 85.1 per 10,000 children (309 cases among 36,319 
+children; 95% confidence interval [CI], 75.6 to 94.2) among those born in August 
+and 63.6 per 10,000 children (225 cases among 35,353 children; 95% CI, 55.4 to 
+71.9) among those born in September, an absolute difference of 21.5 per 10,000 
+children (95% CI, 8.8 to 34.0); the corresponding difference in states without 
+the September 1 cutoff was 8.9 per 10,000 children (95% CI, -14.9 to 20.8). The 
+rate of ADHD treatment was 52.9 per 10,000 children (192 of 36,319 children; 95% 
+CI, 45.4 to 60.3) among those born in August and 40.4 per 10,000 children (143 
+of 35,353 children; 95% CI, 33.8 to 47.1) among those born in September, an 
+absolute difference of 12.5 per 10,000 children (95% CI, 2.43 to 22.4). These 
+differences were not observed for other month-to-month comparisons, nor were 
+they observed in states with non-September cutoff dates for starting 
+kindergarten. In addition, in states with a September 1 cutoff, no significant 
+differences between August-born and September-born children were observed in 
+rates of asthma, diabetes, or obesity.
+CONCLUSIONS: Rates of diagnosis and treatment of ADHD are higher among children 
+born in August than among children born in September in states with a September 
+1 cutoff for kindergarten entry. (Funded by the National Institutes of Health.).
+
+DOI: 10.1056/NEJMoa1806828
+PMCID: PMC6322209
+PMID: 30485780 [Indexed for MEDLINE]
+
+
+2. CMAJ. 2012 Apr 17;184(7):755-62. doi: 10.1503/cmaj.111619. Epub 2012 Mar 5.
+
+Influence of relative age on diagnosis and treatment of 
+attention-deficit/hyperactivity disorder in children.
+
+Morrow RL(1), Garland EJ, Wright JM, Maclure M, Taylor S, Dormuth CR.
+
+Author information:
+(1)Department of Anesthesiology, Pharmacology and Therapeutics, University of 
+British Columbia, Victoria, BC. richard.morrow@ti.ubc.ca
+
+BACKGROUND: The annual cut-off date of birth for entry to school in British 
+Columbia, Canada, is Dec. 31. Thus, children born in December are typically the 
+youngest in their grade. We sought to determine the influence of relative age 
+within a grade on the diagnosis and pharmacologic treatment of 
+attention-deficit/hyperactivity disorder (ADHD) in children.
+METHODS: We conducted a cohort study involving 937 943 children in British 
+Columbia who were 6-12 years of age at any time between Dec. 1, 1997, and Nov. 
+30, 2008. We calculated the absolute and relative risk of receiving a diagnosis 
+of ADHD and of receiving a prescription for a medication used to treat ADHD 
+(i.e., methylphenidate, dextroamphetamine, mixed amphetamine salts or 
+atomoxetine) for children born in December compared with children born in 
+January.
+RESULTS: Boys who were born in December were 30% more likely (relative risk [RR] 
+1.30, 95% confidence interval [CI] 1.23-1.37) to receive a diagnosis of ADHD 
+than boys born in January. Girls born in December were 70% more likely (RR 1.70, 
+95% CI 1.53-1.88) to receive a diagnosis of ADHD than girls born in January. 
+Similarly, boys were 41% more likely (RR 1.41, 95% CI 1.33-1.50) and girls 77% 
+more likely (RR 1.77, 95% CI 1.57-2.00) to be given a prescription for a 
+medication to treat ADHD if they were born in December than if they were born in 
+January.
+INTERPRETATION: The results of our analyses show a relative-age effect in the 
+diagnosis and treatment of ADHD in children aged 6-12 years in British Columbia. 
+These findings raise concerns about the potential harms of overdiagnosis and 
+overprescribing. These harms include adverse effects on sleep, appetite and 
+growth, in addition to increased risk of cardiovascular events.
+
+DOI: 10.1503/cmaj.111619
+PMCID: PMC3328520
+PMID: 22392937 [Indexed for MEDLINE]
+
+
+3. Eur Child Adolesc Psychiatry. 2025 Feb;34(2):381-401. doi: 
+10.1007/s00787-024-02459-x. Epub 2024 May 20.
+
+Systematic review and meta-analysis: relative age in attention-deficit/ 
+hyperactivity disorder and autism spectrum disorder.
+
+Frisira E(1), Holland J(2), Sayal K(1).
+
+Author information:
+(1)Institute of Mental Health, School of Medicine, Mental Health and Clinical 
+Neurosciences, University of Nottingham, Innovation Park, Triumph Road, 
+Nottingham, NG7 2TU, UK.
+(2)Institute of Mental Health, School of Medicine, Mental Health and Clinical 
+Neurosciences, University of Nottingham, Innovation Park, Triumph Road, 
+Nottingham, NG7 2TU, UK. josephine.holland@nottingham.ac.uk.
+
+Youngest students in their class, with birthdates just before the school entry 
+cut-off date, are overrepresented among children receiving an 
+Attention-Deficit/Hyperactivity Disorder (ADHD) diagnosis or medication for 
+this. This is known as the relative age effect. This systematic review and 
+meta-analysis summarises the evidence on the influence of relative age on ADHD 
+symptoms, diagnosis and medication prescribing. As no review to date has 
+investigated the association with autism spectrum disorder (ASD) diagnosis, this 
+is also examined. Following prospective registration with PROSPERO, we conducted 
+a systematic review according to the PRISMA guidelines. We searched seven 
+databases: Medline, Embase, PsycInfo, Web of Science Core Collection, ERIC, 
+Psychology and Behavioural Sciences Collection, and Cochrane Library. Additional 
+references were identified from manual search of retrieved reviews. We performed 
+a meta-analysis of quantitative data. Thirty-two studies were included, 
+thirty-one investigated ADHD and two ASD. Younger relative age was associated 
+with ADHD diagnosis and medication, with relative risks of 1.38 (1.36-1.52 95% 
+CI) and 1.28 (1.21-1.36 95% CI) respectively. However, risk estimates exhibited 
+high heterogeneity. A relative age effect was observed for teacher ratings of 
+ADHD symptoms but not for parent ratings. With regard to ASD, the youngest 
+children in their school year were more likely to be diagnosed with ASD. This 
+review confirms a relative age effect for ADHD diagnosis and prescribed ADHD 
+medication and suggests that differences in teacher and parent ratings might 
+contribute to this. Further research is needed on the possible association with 
+ASD.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00787-024-02459-x
+PMCID: PMC11868292
+PMID: 38767699 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Conflict of interest: The authors have no 
+conflicts of interest to disclose.
+
+
+4. J Child Psychol Psychiatry. 2019 Apr;60(4):380-391. doi: 10.1111/jcpp.12991. 
+Epub 2018 Oct 14.
+
+Attention deficit hyperactivity disorder late birthdate effect common in both 
+high and low prescribing international jurisdictions: a systematic review.
+
+Whitely M(1), Raven M(2), Timimi S(3), Jureidini J(2), Phillimore J(1), Leo 
+J(4), Moncrieff J(5), Landman P(6).
+
+Author information:
+(1)John Curtin Institute of Public Policy, Curtin University, Bentley, WA, 
+Australia.
+(2)Robinson Research Institute, University of Adelaide, Adelaide, SA, Australia.
+(3)Lincolnshire Partnership NHS Foundation Trust, Horizon Centre, Lincoln, UK.
+(4)Lincoln Memorial University, Harrogate, TN, USA.
+(5)Division of Psychiatry, Faculty of Brain Sciences, University College London, 
+London, UK.
+(6)Centre de Recherche Psychanalyse, Medecine et Société, Paris, France.
+
+Comment in
+    J Child Psychol Psychiatry. 2019 Apr;60(4):392-394. doi: 10.1111/jcpp.13039.
+
+BACKGROUND: Multiple studies have found that the youngest children in a 
+classroom are at elevated risk of being diagnosed with, or medicated for, ADHD. 
+This systematic review was conducted to investigate whether this late birthdate 
+effect is the norm and whether the strength of effect is related to the absolute 
+risk of being diagnosed/medicated.
+METHODS: A literature search of the PubMed and ERIC databases and snowball and 
+grey literature searching were conducted.
+RESULTS: A total of 19 studies in 13 countries covering over 15.4 million 
+children investigating this relationship were identified. Three other studies 
+exploring related topics were identified. The diversity of methodologies 
+prevented a meta-analysis. Instead a systematic review of the 22 studies was 
+conducted. A total of 17 of the 19 studies found that the youngest children in a 
+school year were considerably more likely to be diagnosed and/or medicated than 
+their older classmates. Two Danish studies found either a weak or no late birth 
+date effect. There was no consistent relationship between per-capita diagnosis 
+or medication rates and the strength of the relative age effect, with strong 
+effects reported in most jurisdictions with comparatively low rates.
+CONCLUSIONS: It is the norm internationally for the youngest children in a 
+classroom to be at increased risk of being medicated for ADHD, even in 
+jurisdictions with relatively low prescribing rates. A lack of a strong effect 
+in Denmark may be accounted for by the common practice of academic 
+'redshirting', where children judged by parents as immature have a delayed 
+school start. Redshirting may prevent and/or disguise late birthdate effects and 
+further research is warranted. The evidence of strong late birthdate effects in 
+jurisdictions with comparatively low diagnosis/medication rates challenges the 
+notion that low rates indicate sound diagnostic practices.
+
+© 2018 The Authors. Journal of Child Psychology and Psychiatry published by John 
+Wiley & Sons Ltd on behalf of Association for Child and Adolescent Mental 
+Health.
+
+DOI: 10.1111/jcpp.12991
+PMCID: PMC7379308
+PMID: 30317644 [Indexed for MEDLINE]
+
+
+5. Pediatrics. 2012 Dec;130(6):1012-8. doi: 10.1542/peds.2012-0689. Epub 2012 Nov
+ 19.
+
+Age, academic performance, and stimulant prescribing for ADHD: a nationwide 
+cohort study.
+
+Zoëga H(1), Valdimarsdóttir UA, Hernández-Díaz S.
+
+Author information:
+(1)Institute for Translational Epidemiology, Mount Sinai School of Medicine, New 
+York, NY 10029, USA. helga.zoega@mssm.edu
+
+BACKGROUND: We evaluated whether younger age in class is associated with poorer 
+academic performance and an increased risk of being prescribed stimulants for 
+attention-deficit/hyperactivity disorder (ADHD).
+METHODS: This was a nationwide population-based cohort study, linking data from 
+national registries of prescribed drugs and standardized scholastic 
+examinations. The study population comprised all children born in 1994-1996 who 
+took standardized tests in Iceland at ages 9 and 12 (n = 11 785). We estimated 
+risks of receiving low test scores (0-10th percentile) and being prescribed 
+stimulants for ADHD. Comparisons were made according to children's relative age 
+in class.
+RESULTS: Mean test scores in mathematics and language arts were lowest among the 
+youngest children in the fourth grade, although the gap attenuated in the 
+seventh grade. Compared with the oldest third, those in the youngest third of 
+class had an increased relative risk of receiving a low test score at age 9 for 
+mathematics (1.9; 95% confidence interval [CI] 1.6-2.2) and language arts (1.8; 
+95% CI 1.6-2.1), whereas at age 12, the relative risk was 1.6 in both subjects. 
+Children in the youngest third of class were 50% more likely (1.5; 95% CI 
+1.3-1.8) than those in the oldest third to be prescribed stimulants between ages 
+7 and 14.
+CONCLUSIONS: Relative age among classmates affects children's academic 
+performance into puberty, as well as their risk of being prescribed stimulants 
+for ADHD. This should be taken into account when evaluating children's 
+performance and behavior in school to prevent unnecessary stimulant treatment.
+
+DOI: 10.1542/peds.2012-0689
+PMCID: PMC3507253
+PMID: 23166340 [Indexed for MEDLINE]
+
+
+7. Lancet Psychiatry. 2017 Nov;4(11):868-875. doi: 10.1016/S2215-0366(17)30394-2.
+ Epub 2017 Oct 9.
+
+Relative age within the school year and diagnosis of attention-deficit 
+hyperactivity disorder: a nationwide population-based study.
+
+Sayal K(1), Chudal R(2), Hinkka-Yli-Salomäki S(2), Joelsson P(2), Sourander 
+A(2).
+
+Author information:
+(1)Division of Psychiatry and Applied Psychology, School of Medicine, University 
+of Nottingham, Nottingham, UK; CANDAL (Centre for ADHD and Neurodevelopmental 
+Disorders across the Lifespan), Institute of Mental Health, Nottingham, UK. 
+Electronic address: kapil.sayal@nottingham.ac.uk.
+(2)Department of Child Psychiatry, University of Turku, Turku, Finland; 
+Department of Child Psychiatry, Turku University Hospital, Turku, Finland.
+
+Comment in
+    Lancet Psychiatry. 2017 Nov;4(11):825-826. doi: 
+10.1016/S2215-0366(17)30406-6.
+
+BACKGROUND: Findings are mixed on the relationship between attention-deficit 
+hyperactivity disorder (ADHD) and younger relative age in the school year. We 
+aimed to investigate whether relative age is associated with ADHD diagnosis in a 
+country where prescribing rates are low and whether any such association has 
+changed over time or relates to comorbid disorders (eg, conduct disorder [CD], 
+oppositional defiant disorder [ODD], or learning disorder [LD]).
+METHODS: We used nationwide population-based registers to identify all Finnish 
+children born between Jan 1, 1991, and Dec 31, 2004, who were diagnosed with 
+ADHD from age 7 years onwards (age of starting school). We calculated incidence 
+ratios to assess the inter-relations between relative age within the school 
+year, age at ADHD diagnosis, and year of diagnosis (1998-2003 vs 2004-11).
+FINDINGS: Between Jan 1, 1998, and Dec 31, 2011, 6136 children with ADHD were 
+identified. Compared with the oldest children in the school year (ie, those born 
+between January and April), the cumulative incidence of an ADHD diagnosis was 
+greatest for the youngest children (ie, those born between September and 
+December); for boys the incidence ratio was 1·26 (95% CI 1·18-1·35; p<0·0001) 
+and for girls it was 1·31 (1·12-1·54; p=0·0007). The association between 
+relative age and age at ADHD diagnosis reflected children diagnosed before age 
+10 years, and the strength of this association increased during recent years 
+(2004-11). Thus, compared with children born between January and April, for 
+those born between May and August, the ADHD incidence ratio was 1·37 (95% CI 
+1·24-1·53; p<0·0001) and for those born between September and December, the 
+incidence ratio was 1·64 (1·48-1·81; p<0·0001). The relative age effect was not 
+accounted for by comorbid disorders such as CD, ODD, or LD.
+INTERPRETATION: In a health service system with low prescribing rates for ADHD, 
+a younger relative age is associated with an increased likelihood of receiving a 
+clinical diagnosis of ADHD. This effect has increased in recent years. Teachers, 
+parents, and clinicians should take relative age into account when considering 
+the possibility of ADHD in a child or encountering a child with a pre-existing 
+diagnosis.
+FUNDING: Academy of Finland, Finnish Medical Foundation, Orion Pharma 
+Foundation, Finnish Cultural Foundation.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2215-0366(17)30394-2
+PMID: 29033006 [Indexed for MEDLINE]
+
+
+9. Scand J Public Health. 2017 Jun;45(4):343-349. doi: 10.1177/1403494817708080. 
+Epub 2017 May 8.
+
+ADHD treatment and diagnosis in relation to children's birth month: Nationwide 
+cohort study from Norway.
+
+Karlstad Ø(1), Furu K(1), Stoltenberg C(1)(2), Håberg SE(1), Bakken IJ(1).
+
+Author information:
+(1)1 Norwegian Institute of Public Health, Oslo, Norway.
+(2)2 Department of Global Public Health and Primary Care, University of Bergen, 
+Norway.
+
+Comment in
+    Scand J Public Health. 2017 Jun;45(4):341-342. doi: 
+10.1177/1403494817711040.
+
+BACKGROUND: Studies from several countries have reported that children youngest 
+in grade are at higher risk of attention-deficit/hyperactivity disorder (ADHD) 
+diagnosis and treatment. Norwegian children start school the year they turn six, 
+making children born in December youngest in their grade. We used data on 
+medication, specialist healthcare diagnoses, and primary healthcare diagnoses 
+from national registers to investigate associations between birth month and 
+ADHD.
+METHODS: All children born in Norway between 1998 and 2006 ( N=509,827) were 
+followed from age six until 31 December 2014. We estimated hazard ratios for 
+ADHD medication and diagnoses by birth month in Cox proportional-hazards models. 
+We compared risk among siblings to control for potentially confounding 
+socioeconomic factors, and assessed risk of receiving ADHD medication by birth 
+month while attending different grades in cross-sectional time-series analyses.
+RESULTS: At end of follow-up, 5.3% of boys born in October-December had received 
+ADHD medication, compared with 3.7% of boys born in January-March. Corresponding 
+numbers for girls were 2.2% and 1.3%, respectively. The adjusted hazard ratio 
+for ADHD medication for children born in October-December (reference: 
+January-March) was 1.4 (95% confidence interval: 1.4-1.5) for boys and 1.8 
+(1.7-2.0) for girls. Analyses with diagnoses as outcome showed consistent 
+results, and analyses restricted to siblings within the study population also 
+supported the findings. Analysis by grade revealed an increased risk for 
+children born late in the year from grade 3 onwards, with most marked 
+differences in higher grades.
+CONCLUSIONS: Children youngest in grade had the highest risk of receiving ADHD 
+treatment. Differences were most marked among older children.
+
+DOI: 10.1177/1403494817708080
+PMID: 28482754 [Indexed for MEDLINE]
+
+
+10. J Child Psychol Psychiatry. 2014 Aug;55(8):897-904. doi: 10.1111/jcpp.12229. 
+Epub 2014 Mar 26.
+
+Relative immaturity and ADHD: findings from nationwide registers, parent- and 
+self-reports.
+
+Halldner L(1), Tillander A, Lundholm C, Boman M, Långström N, Larsson H, 
+Lichtenstein P.
+
+Author information:
+(1)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden; Karolinska Institutet Center of Neurodevelopmental Disorders 
+(KIND), Karolinska Institutet, Stockholm, Sweden.
+
+BACKGROUND: We addressed if immaturity relative to peers reflected in birth 
+month increases the likelihood of ADHD diagnosis and treatment.
+METHODS: We linked nationwide Patient and Prescribed Drug Registers and used 
+prospective cohort and nested case-control designs to study 6-69 year-old 
+individuals in Sweden from July 2005 to December 2009 (Cohort 1). Cohort 1 
+included 56,263 individuals diagnosed with ADHD or ever used prescribed 
+ADHD-specific medication. Complementary population-representative cohorts 
+provided DSM-IV ADHD symptom ratings; parent-reported for 10,760 9-year-old 
+twins born 1995-2000 from the CATSS study (Cohort 2) and self-reported for 6,970 
+adult twins age 20-47 years born 1959-1970 from the STAGE study (Cohort 3). We 
+calculated odds ratios (OR:s) for ADHD across age for individuals born in 
+November/December compared to January/February (Cohort 1). ADHD symptoms in 
+Cohorts 2 and 3 were studied as a function of calendar birth month.
+RESULTS: ADHD diagnoses and medication treatment were both significantly more 
+common in individuals born in November/December versus January/February; peaking 
+at ages 6 (OR: 1.8; 95% CI: 1.5-2.2) and 7 years (OR: 1.6; 95% CI: 1.3-1.8) in 
+the Patient and Prescribed Drug Registers, respectively. We found no 
+corresponding differences in parent- or self-reported ADHD symptoms by calendar 
+birth month.
+CONCLUSION: Relative immaturity compared to class mates might contribute to ADHD 
+diagnosis and pharmacotherapy despite absence of parallel findings in reported 
+ADHD symptom loads by relative immaturity. Increased clinical awareness of this 
+phenomenon may be warranted to decrease risk for imprecise diagnostics and 
+treatment. We speculate that flexibility regarding age at school start according 
+to individual maturity could reduce developmentally inappropriate demands on 
+children and improve the precision of ADHD diagnostic practice and 
+pharmacological treatment.
+
+© 2014 The Authors. Journal of Child Psychology and Psychiatry. © 2014 
+Association for Child and Adolescent Mental Health.
+
+DOI: 10.1111/jcpp.12229
+PMID: 24673585 [Indexed for MEDLINE]
+
+
+12. J Child Psychol Psychiatry. 2014 Nov;55(11):1244-50. doi: 10.1111/jcpp.12243.
+ Epub 2014 May 12.
+
+Children's relative age in class and use of medication for ADHD: a Danish 
+Nationwide Study.
+
+Pottegård A(1), Hallas J, Hernández-Díaz, Zoëga H.
+
+Author information:
+(1)Clinical Pharmacology, Institute of Public Health, University of Southern 
+Denmark, Odense C, Denmark; Department of Clinical Chemistry & Pharmacology, 
+Odense University Hospital, Odense C, Denmark.
+
+Comment in
+    J Child Psychol Psychiatry. 2014 Dec;55(12):e6. doi: 10.1111/jcpp.12361.
+
+BACKGROUND: Previous studies from North America and Iceland have shown that the 
+youngest children within a grade are up to twice as likely to be diagnosed and 
+treated for attention-deficit/hyperactivity disorder (ADHD) compared with their 
+older classmates. We aimed to investigate whether younger age in class is 
+associated with an increased probability of being prescribed medication for ADHD 
+among school-aged children in Denmark.
+METHODS: We followed all Danish children between 2000 and 2012 from 1st through 
+6th grade (7-12 years). Among children who started school on their age-assigned 
+grade level, we estimated the prevalence proportion ratio (PPR) of receiving 
+ADHD medication between the youngest children in class (born in 
+October-December) and the oldest in class (born in January-March), specified by 
+grade level, calendar year and gender. As a sensitivity analysis, we added 
+children not on their age-assigned grade level to the main calculations.
+RESULTS: We identified 932,032 eligible children for the main analysis, of whom 
+17.3% were among the youngest and 26.5% among the oldest in class. In total, 
+1.2% eligible children filled at least one prescription for ADHD medication in 
+2000-2012. The average PPR over the study period was 1.08 (95% CI, 1.04-1.12) 
+and remained stable across subgroups and sensitivity analyses. Overall, 40% of 
+children born October-December had entered school a year after their 
+age-assigned grade level.
+CONCLUSIONS: Contrary to previous study results, we observed almost no relative 
+age effect on medication use for ADHD among children in Denmark. We postulate 
+that this may be due to the high proportion of relatively young children held 
+back by 1 year in the Danish school system and/or a generally low prevalence of 
+ADHD medication use in the country.
+
+© 2014 The Authors. Journal of Child Psychology and Psychiatry published by John 
+Wiley & Sons Ltd on behalf of Association for Child and Adolescent Mental 
+Health.
+
+DOI: 10.1111/jcpp.12243
+PMCID: PMC4277337
+PMID: 24813478 [Indexed for MEDLINE]
