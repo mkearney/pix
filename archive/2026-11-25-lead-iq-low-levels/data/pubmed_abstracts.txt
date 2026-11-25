@@ -1,0 +1,193 @@
+PubMed abstracts via E-utilities efetch, downloaded 2026-11-25. The 2005 abstract (record 1) is the original; the corrected values are in lanphear_2019_erratum_excerpt.txt.
+
+1. Environ Health Perspect. 2005 Jul;113(7):894-9. doi: 10.1289/ehp.7688.
+
+Low-level environmental lead exposure and children's intellectual function: an 
+international pooled analysis.
+
+Lanphear BP(1), Hornung R, Khoury J, Yolton K, Baghurst P, Bellinger DC, 
+Canfield RL, Dietrich KN, Bornschein R, Greene T, Rothenberg SJ, Needleman HL, 
+Schnaas L, Wasserman G, Graziano J, Roberts R.
+
+Author information:
+(1)Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio 45229-3039, 
+USA. bruce.lamphear@cchmc.org
+
+Erratum in
+    Environ Health Perspect. 2019 Sep;127(9):99001. doi: 10.1289/EHP5685.
+
+Comment in
+    Environ Health Perspect. 2006 Feb;114(2):A85-6; author reply A86-7. doi: 
+10.1289/ehp.114-a85.
+
+Lead is a confirmed neurotoxin, but questions remain about lead-associated 
+intellectual deficits at blood lead levels < 10 microg/dL and whether lower 
+exposures are, for a given change in exposure, associated with greater deficits. 
+The objective of this study was to examine the association of intelligence test 
+scores and blood lead concentration, especially for children who had maximal 
+measured blood lead levels < 10 microg/dL. We examined data collected from 1,333 
+children who participated in seven international population-based longitudinal 
+cohort studies, followed from birth or infancy until 5-10 years of age. The 
+full-scale IQ score was the primary outcome measure. The geometric mean blood 
+lead concentration of the children peaked at 17.8 microg/dL and declined to 9.4 
+microg/dL by 5-7 years of age; 244 (18%) children had a maximal blood lead 
+concentration < 10 microg/dL, and 103 (8%) had a maximal blood lead 
+concentration < 7.5 microg/dL. After adjustment for covariates, we found an 
+inverse relationship between blood lead concentration and IQ score. Using a 
+log-linear model, we found a 6.9 IQ point decrement [95% confidence interval 
+(CI), 4.2-9.4] associated with an increase in concurrent blood lead levels from 
+2.4 to 30 microg/dL. The estimated IQ point decrements associated with an 
+increase in blood lead from 2.4 to 10 microg/dL, 10 to 20 microg/dL, and 20 to 
+30 microg/dL were 3.9 (95% CI, 2.4-5.3), 1.9 (95% CI, 1.2-2.6), and 1.1 (95% CI, 
+0.7-1.5), respectively. For a given increase in blood lead, the lead-associated 
+intellectual decrement for children with a maximal blood lead level < 7.5 
+microg/dL was significantly greater than that observed for those with a maximal 
+blood lead level > or = 7.5 microg/dL (p = 0.015). We conclude that 
+environmental lead exposure in children who have maximal blood lead levels < 7.5 
+microg/dL is associated with intellectual deficits.
+
+DOI: 10.1289/ehp.7688
+PMCID: PMC1257652
+PMID: 16002379 [Indexed for MEDLINE]
+
+
+2. Environ Health Perspect. 2019 Sep;127(9):99001. doi: 10.1289/EHP5685. Epub
+2019  Sep 17.
+
+Erratum: "Low-Level Environmental Lead Exposure and Children's Intellectual 
+Function: An International Pooled Analysis".
+
+Lanphear BP, Hornung R, Khoury J, Yolton K, Baghurst P, Bellinger DC, Canfield 
+RL, Dietrich KN, Bornschein R, Greene T, Rothenberg SJ, Needleman HL, Schnaas L, 
+Wasserman G, Graziano J, Roberts R.
+
+Erratum for
+    Environ Health Perspect. 2005 Jul;113(7):894-9. doi: 10.1289/ehp.7688.
+
+DOI: 10.1289/EHP5685
+PMCID: PMC6792371
+PMID: 31526192
+
+
+3. Crit Rev Toxicol. 2013 Oct;43(9):785-99. doi: 10.3109/10408444.2013.832726.
+
+A statistical reevaluation of the data used in the Lanphear et al. ( 2005 ) 
+pooled-analysis that related low levels of blood lead to intellectual deficits 
+in children.
+
+Crump KS(1), Van Landingham C, Bowers TS, Cahoy D, Chandalia JK.
+
+Author information:
+(1)2220 South Vienna , Ruston, LA 71270 , USA .
+
+A pooled-analysis by Lanphear et al. (2005) of seven cohort studies of the 
+association between blood lead (BPb) concentrations in children and measures of 
+their intelligence concluded that "environmental lead exposure in children who 
+have maximal blood lead levels <7.5 μg/dL is associated with intellectual 
+deficits." This study has played a prominent role in shaping the public 
+understanding of the effects upon children's IQ of low BPb exposures (e.g., 
+BPb ≤ 10 μg/dL). Here we present a reanalysis of the data used by Lanphear et 
+al. to evaluate the robustness of their conclusions. Our analysis differed from 
+that of Lanphear et al. primarily in how we controlled for non-lead variables 
+(allowing a number of them to be site-specific), how we defined summary measures 
+of BPb exposure, and in how we decided which BPb measures and transformations 
+best modeled the data. We also reproduced the Lanphear et al. analysis. Although 
+we found some small errors and questionable decisions by Lanphear et al. that, 
+taken alone, could cause doubt in their conclusions, our reanalysis tended to 
+support their conclusions. We concluded that there was statistical evidence that 
+the exposure-response is non-linear over the full range of BPb evaluated in 
+these studies, which implies that, for a given increase in blood lead, the 
+associated IQ decrement is greater at lower BPb levels. However at BPb below 
+10 µg/dL, the exposure-response is adequately modeled as linear. We also found 
+statistical evidence for an association with IQ among children who had maximal 
+measured BPb levels ≤7 μg/dL, and concurrent BPb levels as low as ≤5 μg/dL.
+
+DOI: 10.3109/10408444.2013.832726
+PMID: 24040996 [Indexed for MEDLINE]
+
+
+4. Risk Anal. 2013 Mar;33(3):450-61. doi: 10.1111/j.1539-6924.2012.01882.x. Epub 
+2012 Aug 24.
+
+An international pooled analysis for obtaining a benchmark dose for 
+environmental lead exposure in children.
+
+Budtz-Jørgensen E(1), Bellinger D, Lanphear B, Grandjean P; International Pooled 
+Lead Study Investigators.
+
+Collaborators: Lanphear BP, Hornung R, Khoury J, Yolton K, Baghurst P, Bellinger 
+DC, Canfield RL, Dietrich KN, Bornschein R, Greene T, Rothenberg SJ, Needleman 
+HL, Schnaas L, Wasserman G, Graziano J, Roberts R.
+
+Author information:
+(1)Department of Biostatistics, University of Copenhagen, Denmark. 
+ebj@biostat.ku.dk
+
+Lead is a recognized neurotoxicant, but estimating effects at the lowest 
+measurable levels is difficult. An international pooled analysis of data from 
+seven cohort studies reported an inverse and supra-linear relationship between 
+blood lead concentrations and IQ scores in children. The lack of a clear 
+threshold presents a challenge to the identification of an acceptable level of 
+exposure. The benchmark dose (BMD) is defined as the dose that leads to a 
+specific known loss. As an alternative to elusive thresholds, the BMD is being 
+used increasingly by regulatory authorities. Using the pooled data, this article 
+presents BMD results and applies different statistical techniques in the 
+analysis of multistudy data. The calculations showed only a limited variation 
+between studies in the steepness of the dose-response functions. BMD results 
+were quite robust to modeling assumptions with the best fitting models yielding 
+lower confidence limits (BMDLs) of about 0.1-1.0 μ g/dL for the dose leading to 
+a loss of one IQ point. We conclude that current allowable blood lead 
+concentrations need to be lowered and further prevention efforts are needed to 
+protect children from lead toxicity.
+
+© 2012 Society for Risk Analysis.
+
+DOI: 10.1111/j.1539-6924.2012.01882.x
+PMID: 22924487 [Indexed for MEDLINE]
+
+
+5. Neurotoxicology. 2006 Jul;27(4):520-4. doi: 10.1016/j.neuro.2006.02.001. Epub 
+2006 Mar 6.
+
+What is the meaning of non-linear dose-response relationships between blood lead 
+concentrations and IQ?
+
+Bowers TS(1), Beck BD.
+
+Author information:
+(1)Gradient Corporation, 20 University Road, Cambridge, MA 02138, USA. 
+tbowers@gradientcorp.com
+
+Comment in
+    Neurotoxicology. 2006 Jul;27(4):635. doi: 10.1016/j.neuro.2006.05.017.
+    Neurotoxicology. 2006 Dec;27(6):1123-5. doi: 10.1016/j.neuro.2006.09.004.
+    Neurotoxicology. 2006 Dec;27(6):1125. doi: 10.1016/j.neuro.2006.09.002.
+    Neurotoxicology. 2007 Jan;28(1):196-7; author reply 197-201. doi: 
+10.1016/j.neuro.2006.10.003.
+    Neurotoxicology. 2007 May;28(3):705-6; author reply 706. doi: 
+10.1016/j.neuro.2007.02.005.
+
+Recent literature [e.g. Canfield RL, Henderson CR, Cory-Slechta DA, Cox C, Jusko 
+TA, Lanphear BP. Intellectual impairment in children with blood lead 
+concentrations below 10mg per deciliter. New Engl J Med 2003;348(16):1517-1526; 
+Lanphear BP, Hornung R, Khoury J, Yolton K, Baghurst P, Bellinger DC, Canfield 
+RL, Dietrich KN, Bornschein R, Greene T, Rothenberg SJ, Needleman HL, Schnaas L, 
+Wasserman G, Graziano J, Roberts R. Low-level environmental lead exposure and 
+children's intellectual function: an international pooled analysis. Environ 
+Health Perspect 2005;113(7):894-899] has suggested the existence of a 
+supra-linear dose-response relationship between environmental measures such as 
+blood lead concentrations and IQ. This communication explores the mathematical 
+requirements placed on such dose-response relationships when the environmental 
+measure, or independent variable, is lognormally distributed and the effect, or 
+dependent variable, is normally distributed. Results of the analyses show that a 
+supra-linear slope is a required outcome of correlations between data 
+distributions where one is lognormally distributed and the other is normally 
+distributed. The analysis shows that caution should be taken in assigning 
+biological significance to supra-linear dose-response relationships in these 
+instances. Detailed analyses of such data sets should be conducted to determine 
+if the magnitude of supra-linear slopes are more or less than mathematically 
+required, and from there to consider biological significance.
+
+DOI: 10.1016/j.neuro.2006.02.001
+PMID: 16551479 [Indexed for MEDLINE]
+

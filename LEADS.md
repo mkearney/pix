@@ -48,9 +48,6 @@ Each line: the finding · finding type · where to start · what the chart could
   Psychological Science 2008 · recall against gap, one curve per test delay.
 - **Testing yourself beats rereading.** effect · Rowland, Psychological Bulletin 2014;
   Adesope et al., Review of Educational Research 2017 · effect sizes by condition.
-- **Childhood lead exposure lowers IQ, and the first micrograms do the most damage.**
-  dose-response · Lanphear et al., Environ Health Perspect 2005 (pooled cohorts); Crump et
-  al., Crit Rev Toxicol 2013 (reanalysis) · IQ loss against blood lead, concave curve.
 
 ## Climate, energy & environment
 
@@ -71,6 +68,8 @@ Each line: the finding · finding type · where to start · what the chart could
 
 - **Bed nets did most of the work in Africa's malaria decline.** comparison · Bhatt et al.,
   Nature 2015; Pryce et al., Cochrane 2018 · cases averted by intervention, stacked over time.
+  Checked 2026-11-25 and set aside: the 68/22/10 split rests on one modelling study (the WHO
+  and later work reuse the same group's model), so it lacks independent corroboration.
 - **Childhood vaccines have prevented about 150 million deaths in 50 years.** comparison
   (modelled, label it) · Shattock et al., Lancet 2024 · deaths averted by vaccine over time.
 - **Child mortality fell with mothers' years of schooling.** association · Gakidou et al.,

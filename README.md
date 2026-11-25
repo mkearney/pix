@@ -1,16 +1,16 @@
-<sub>**pix** · one settled finding, drawn clearly, every day · No. 17 · 2026-11-24 · Children · [archive →](archive/)</sub>
+<sub>**pix** · one settled finding, drawn clearly, every day · No. 18 · 2026-11-25 · Environment · [archive →](archive/)</sub>
 
-# Youngest children in class get more ADHD diagnoses
+# The IQ gap is steepest at low lead levels
 
-![Dot plot of ADHD claims per 10,000 US children in states with a September 1 school cutoff: diagnosed, 85.1 for August-born against 63.6 for September-born; treated, 52.9 against 40.4, with 95% intervals. Below, a forest plot of youngest against oldest in the school year: Canada, Norway, Finland and Iceland between 1.26 and 1.8, Denmark 1.08, and a pooled 1.28 for medication from a 2025 meta-analysis.](archive/2026-11-24-youngest-in-class-adhd/chart.png)
+![Curve of IQ against blood lead from 2.4 to 30 micrograms per decilitre, falling 3.8 points between 2.4 and 10, 1.8 between 10 and 20 and 1.1 between 20 and 30, for 6.7 in all (95% CI 4.1 to 9.3). Below, IQ points lower per microgram: 0.50 between 2.4 and 10, 0.18 between 10 and 20, and 0.11 between 20 and 30, with intervals.](archive/2026-11-25-lead-iq-low-levels/chart.png)
 
-The youngest children in a school year are diagnosed with and treated for ADHD more often than the oldest. In US states where children must turn 5 by September 1 to start kindergarten, August-born children had 85.1 ADHD diagnoses per 10,000 by about age 7, against 63.6 for September-born children, 34% more. Without that cutoff, the gap was smaller and not significant. Canada, Norway, Finland and Iceland show a similar gap, and a 2025 meta-analysis found the youngest 28% more likely to get ADHD medication. Denmark, where 40% of the youngest start school a year late, shows almost none.
+In a pooled analysis of 1,333 children from seven birth cohorts, IQ was lower at higher blood lead, and the gap was steepest at the low end. Children with a blood lead of 30 micrograms per decilitre scored 6.7 points lower than those at 2.4. More than half of that gap, 3.8 points, opened between 2.4 and 10. In the paper's log-linear model, the gap per microgram there is more than four times that between 20 and 30.
 
-**Source:** Layton TJ, Barnett ML, Hicks TR, Jena AB. Attention deficit-hyperactivity disorder and month of school enrollment. *N Engl J Med* 379, 2122–2130 (2018). [doi:10.1056/NEJMoa1806828](https://doi.org/10.1056/NEJMoa1806828)<br>
-**Evidence:** A natural experiment in 407,846 children from insurance claims, with states lacking the cutoff as a control. Consistent with a 2025 meta-analysis (Frisira et al.) and a systematic review in which 17 of 19 studies across 13 countries found the effect (Whitely et al., 2019). Numbers transcribed from the papers' text.
+**Source:** Lanphear BP, Hornung R, Khoury J, et al. Low-level environmental lead exposure and children's intellectual function: an international pooled analysis. *Environ Health Perspect* 113, 894–899 (2005); corrected in *Environ Health Perspect* 127, 099001 (2019). [doi:10.1289/ehp.7688](https://doi.org/10.1289/ehp.7688)<br>
+**Evidence:** Seven prospective cohorts in the US, Mexico, Australia and Yugoslavia, IQ measured at about 5 to 10 years, adjusted for confounders. The figures are the 2019 corrected estimates. An independent reanalysis of the same data (Crump et al., 2013) found the same non-linear shape, and the US EPA judges lead a cause of lower cognitive function in children. The step estimates were checked against the paper's log-linear slope; no raw data were reanalysed.
 
-[Data](archive/2026-11-24-youngest-in-class-adhd/data/) · [Code](archive/2026-11-24-youngest-in-class-adhd/analysis.py) · [Evidence notes](archive/2026-11-24-youngest-in-class-adhd/evidence.md) · [SVG](archive/2026-11-24-youngest-in-class-adhd/chart.svg)
+[Data](archive/2026-11-25-lead-iq-low-levels/data/) · [Code](archive/2026-11-25-lead-iq-low-levels/analysis.py) · [Evidence notes](archive/2026-11-25-lead-iq-low-levels/evidence.md) · [SVG](archive/2026-11-25-lead-iq-low-levels/chart.svg)
 
 ---
 
-<sub>Previously: [The earlier smokers quit, the more years they gain](archive/2026-11-23-quit-smoking-age/post.md) · [Global warming rises in step with total CO2 emitted](archive/2026-11-22-warming-cumulative-co2/post.md) · [Life expectancy rises across the whole US income range](archive/2026-11-21-income-life-expectancy/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [Youngest children in class get more ADHD diagnoses](archive/2026-11-24-youngest-in-class-adhd/post.md) · [The earlier smokers quit, the more years they gain](archive/2026-11-23-quit-smoking-age/post.md) · [Global warming rises in step with total CO2 emitted](archive/2026-11-22-warming-cumulative-co2/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
