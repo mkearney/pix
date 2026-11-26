@@ -1,0 +1,315 @@
+PubMed abstracts via E-utilities efetch (PMIDs 27423262, 30389323, 27146380, 9414324), downloaded 2026-11-26.
+
+1. Lancet. 2016 Aug 20;388(10046):776-86. doi: 10.1016/S0140-6736(16)30175-1.
+Epub  2016 Jul 13.
+
+Body-mass index and all-cause mortality: individual-participant-data 
+meta-analysis of 239 prospective studies in four continents.
+
+Global BMI Mortality Collaboration, Di Angelantonio E, Bhupathiraju ShN, Wormser 
+D, Gao P, Kaptoge S, Berrington de Gonzalez A, Cairns BJ, Huxley R, Jackson ChL, 
+Joshy G, Lewington S, Manson JE, Murphy N, Patel AV, Samet JM, Woodward M, Zheng 
+W, Zhou M, Bansal N, Barricarte A, Carter B, Cerhan JR, Smith GD, Fang X, Franco 
+OH, Green J, Halsey J, Hildebrand JS, Jung KJ, Korda RJ, McLerran DF, Moore SC, 
+O'Keeffe LM, Paige E, Ramond A, Reeves GK, Rolland B, Sacerdote C, Sattar N, 
+Sofianopoulou E, Stevens J, Thun M, Ueshima H, Yang L, Yun YD, Willeit P, Banks 
+E, Beral V, Chen Zh, Gapstur SM, Gunter MJ, Hartge P, Jee SH, Lam TH, Peto R, 
+Potter JD, Willett WC, Thompson SG, Danesh J, Hu FB.
+
+Comment in
+    Lancet. 2016 Aug 20;388(10046):734-6. doi: 10.1016/S0140-6736(16)30949-7.
+    Eur J Clin Invest. 2017 Jun;47(6):415-421. doi: 10.1111/eci.12756.
+    J Clin Epidemiol. 2017 Aug;88:30-32. doi: 10.1016/j.jclinepi.2017.04.006.
+    J Clin Epidemiol. 2017 Aug;88:33-36. doi: 10.1016/j.jclinepi.2017.04.005.
+    J Clin Epidemiol. 2017 Aug;88:21-29. doi: 10.1016/j.jclinepi.2017.04.007.
+    Lancet. 2017 Jun 10;389(10086):2284. doi: 10.1016/S0140-6736(17)31436-8.
+    Lancet. 2017 Jun 10;389(10086):2284-2285. doi: 
+10.1016/S0140-6736(17)31437-X.
+    Lancet. 2017 Jun 10;389(10086):2285-2286. doi: 
+10.1016/S0140-6736(17)31369-7.
+    Lancet. 2017 Jun 10;389(10086):2285. doi: 10.1016/S0140-6736(17)31438-1.
+    J Cachexia Sarcopenia Muscle. 2019 Feb;10(1):9-13. doi: 10.1002/jcsm.12378.
+
+BACKGROUND: Overweight and obesity are increasing worldwide. To help assess 
+their relevance to mortality in different populations we conducted 
+individual-participant data meta-analyses of prospective studies of body-mass 
+index (BMI), limiting confounding and reverse causality by restricting analyses 
+to never-smokers and excluding pre-existing disease and the first 5 years of 
+follow-up.
+METHODS: Of 10 625 411 participants in Asia, Australia and New Zealand, Europe, 
+and North America from 239 prospective studies (median follow-up 13·7 years, IQR 
+11·4-14·7), 3 951 455 people in 189 studies were never-smokers without chronic 
+diseases at recruitment who survived 5 years, of whom 385 879 died. The primary 
+analyses are of these deaths, and study, age, and sex adjusted hazard ratios 
+(HRs), relative to BMI 22·5-<25·0 kg/m(2).
+FINDINGS: All-cause mortality was minimal at 20·0-25·0 kg/m(2) (HR 1·00, 95% CI 
+0·98-1·02 for BMI 20·0-<22·5 kg/m(2); 1·00, 0·99-1·01 for BMI 22·5-<25·0 
+kg/m(2)), and increased significantly both just below this range (1·13, 
+1·09-1·17 for BMI 18·5-<20·0 kg/m(2); 1·51, 1·43-1·59 for BMI 15·0-<18·5) and 
+throughout the overweight range (1·07, 1·07-1·08 for BMI 25·0-<27·5 kg/m(2); 
+1·20, 1·18-1·22 for BMI 27·5-<30·0 kg/m(2)). The HR for obesity grade 1 (BMI 
+30·0-<35·0 kg/m(2)) was 1·45, 95% CI 1·41-1·48; the HR for obesity grade 2 
+(35·0-<40·0 kg/m(2)) was 1·94, 1·87-2·01; and the HR for obesity grade 3 
+(40·0-<60·0 kg/m(2)) was 2·76, 2·60-2·92. For BMI over 25·0 kg/m(2), mortality 
+increased approximately log-linearly with BMI; the HR per 5 kg/m(2) units higher 
+BMI was 1·39 (1·34-1·43) in Europe, 1·29 (1·26-1·32) in North America, 1·39 
+(1·34-1·44) in east Asia, and 1·31 (1·27-1·35) in Australia and New Zealand. 
+This HR per 5 kg/m(2) units higher BMI (for BMI over 25 kg/m(2)) was greater in 
+younger than older people (1·52, 95% CI 1·47-1·56, for BMI measured at 35-49 
+years vs 1·21, 1·17-1·25, for BMI measured at 70-89 years; 
+pheterogeneity<0·0001), greater in men than women (1·51, 1·46-1·56, vs 1·30, 
+1·26-1·33; pheterogeneity<0·0001), but similar in studies with self-reported and 
+measured BMI.
+INTERPRETATION: The associations of both overweight and obesity with higher 
+all-cause mortality were broadly consistent in four continents. This finding 
+supports strategies to combat the entire spectrum of excess adiposity in many 
+populations.
+FUNDING: UK Medical Research Council, British Heart Foundation, National 
+Institute for Health Research, US National Institutes of Health.
+
+Copyright © 2016 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC-BY license. Published by Elsevier Ltd.. All rights 
+reserved.
+
+DOI: 10.1016/S0140-6736(16)30175-1
+PMCID: PMC4995441
+PMID: 27423262 [Indexed for MEDLINE]
+
+
+2. Lancet Diabetes Endocrinol. 2018 Dec;6(12):944-953. doi: 
+10.1016/S2213-8587(18)30288-2. Epub 2018 Oct 30.
+
+Association of BMI with overall and cause-specific mortality: a population-based 
+cohort study of 3·6 million adults in the UK.
+
+Bhaskaran K(1), Dos-Santos-Silva I(2), Leon DA(3), Douglas IJ(2), Smeeth L(2).
+
+Author information:
+(1)Department of Non-Communicable Disease Epidemiology, London School of Hygiene 
+& Tropical Medicine, London, UK. Electronic address: 
+krishnan.bhaskaran@lshtm.ac.uk.
+(2)Department of Non-Communicable Disease Epidemiology, London School of Hygiene 
+& Tropical Medicine, London, UK.
+(3)Department of Non-Communicable Disease Epidemiology, London School of Hygiene 
+& Tropical Medicine, London, UK; Department of Community Medicine, The Arctic 
+University of Norway, Tromsø, Norway.
+
+Comment in
+    Lancet Diabetes Endocrinol. 2018 Dec;6(12):916-917. doi: 
+10.1016/S2213-8587(18)30309-7.
+    Natl Med J India. 2019 Jul-Aug;32(4):231-232. doi: 10.4103/0970-258X.291307.
+
+BACKGROUND: BMI is known to be strongly associated with all-cause mortality, but 
+few studies have been large enough to reliably examine associations between BMI 
+and a comprehensive range of cause-specific mortality outcomes.
+METHODS: In this population-based cohort study, we used UK primary care data 
+from the Clinical Practice Research Datalink (CPRD) linked to national mortality 
+registration data and fitted adjusted Cox regression models to examine 
+associations between BMI and all-cause mortality, and between BMI and a 
+comprehensive range of cause-specific mortality outcomes (recorded by 
+International Classification of Diseases, 10th revision [ICD-10] codes). We 
+included all individuals with BMI data collected at age 16 years and older and 
+with subsequent follow-up time available. Follow-up began at whichever was the 
+latest of: start of CPRD research-standard follow up, the 5-year anniversary of 
+the first BMI record, or on Jan 1, 1998 (start date for death registration 
+data); follow-up ended at death or on March 8, 2016. Fully adjusted models were 
+stratified by sex and adjusted for baseline age, smoking, alcohol use, diabetes, 
+index of multiple deprivation, and calendar period. Models were fitted in both 
+never-smokers only and the full study population. We also did an extensive range 
+of sensitivity analyses. The expected age of death for men and women aged 40 
+years at baseline, by BMI category, was estimated from a Poisson model including 
+BMI, age, and sex.
+FINDINGS: 3 632 674 people were included in the full study population; the 
+following results are from the analysis of never-smokers, which comprised 
+1 969 648 people and 188 057 deaths. BMI had a J-shaped association with overall 
+mortality; the estimated hazard ratio per 5 kg/m2 increase in BMI was 0·81 (95% 
+CI 0·80-0·82) below 25 kg/m2 and 1·21 (1·20-1·22) above this point. BMI was 
+associated with all cause of death categories except for transport-related 
+accidents, but the shape of the association varied. Most causes, including 
+cancer, cardiovascular diseases, and respiratory diseases, had a J-shaped 
+association with BMI, with lowest risk occurring in the range 21-25 kg/m2. For 
+mental and behavioural, neurological, and accidental (non-transport-related) 
+causes, BMI was inversely associated with mortality up to 24-27 kg/m2, with 
+little association at higher BMIs; for deaths from self-harm or interpersonal 
+violence, an inverse linear association was observed. Associations between BMI 
+and mortality were stronger at younger ages than at older ages, and the BMI 
+associated with lowest mortality risk was higher in older individuals than in 
+younger individuals. Compared with individuals of healthy weight (BMI 18·5-24·9 
+kg/m2), life expectancy from age 40 years was 4·2 years shorter in obese (BMI 
+≥30·0 kg/m2) men and 3·5 years shorter in obese women, and 4·3 years shorter in 
+underweight (BMI <18·5 kg/m2) men and 4·5 years shorter in underweight women. 
+When smokers were included in analyses, results for most causes of death were 
+broadly similar, although marginally stronger associations were seen among 
+people with lower BMI, suggesting slight residual confounding by smoking.
+INTERPRETATION: BMI had J-shaped associations with overall mortality and most 
+specific causes of death; for mental and behavioural, neurological, and external 
+causes, lower BMI was associated with increased mortality risk.
+FUNDING: Wellcome Trust.
+
+Copyright © 2018 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2213-8587(18)30288-2
+PMCID: PMC6249991
+PMID: 30389323 [Indexed for MEDLINE]
+
+
+3. BMJ. 2016 May 4;353:i2156. doi: 10.1136/bmj.i2156.
+
+BMI and all cause mortality: systematic review and non-linear dose-response 
+meta-analysis of 230 cohort studies with 3.74 million deaths among 30.3 million 
+participants.
+
+Aune D(1), Sen A(2), Prasad M(3), Norat T(4), Janszky I(2), Tonstad S(3), 
+Romundstad P(2), Vatten LJ(2).
+
+Author information:
+(1)Department of Public Health and General Practice, Faculty of Medicine, 
+Norwegian University of Science and Technology, Trondheim, Norway Department of 
+Epidemiology and Biostatistics, Imperial College, London, UK.
+(2)Department of Public Health and General Practice, Faculty of Medicine, 
+Norwegian University of Science and Technology, Trondheim, Norway.
+(3)Department of Community Medicine, Postgraduate Institute of Medical Sciences, 
+Rohtak, Haryana, India.
+(4)Department of Epidemiology and Biostatistics, Imperial College, London, UK.
+
+Comment in
+    BMJ. 2016 May 04;353:i2433. doi: 10.1136/bmj.i2433.
+
+Comment on
+    Am J Epidemiol. 1992 Jun 1;135(11):1301-9. doi: 
+10.1093/oxfordjournals.aje.a116237.
+    Control Clin Trials. 1986 Sep;7(3):177-88. doi: 
+10.1016/0197-2456(86)90046-2.
+
+OBJECTIVE: To conduct a systematic review and meta-analysis of cohort studies of 
+body mass index (BMI) and the risk of all cause mortality, and to clarify the 
+shape and the nadir of the dose-response curve, and the influence on the results 
+of confounding from smoking, weight loss associated with disease, and 
+preclinical disease.
+DATA SOURCES: PubMed and Embase databases searched up to 23 September 2015.
+STUDY SELECTION: Cohort studies that reported adjusted risk estimates for at 
+least three categories of BMI in relation to all cause mortality.
+DATA SYNTHESIS: Summary relative risks were calculated with random effects 
+models. Non-linear associations were explored with fractional polynomial models.
+RESULTS: 230 cohort studies (207 publications) were included. The analysis of 
+never smokers included 53 cohort studies (44 risk estimates) with >738 144 
+deaths and >9 976 077 participants. The analysis of all participants included 
+228 cohort studies (198 risk estimates) with >3 744 722 deaths among 30 233 329 
+participants. The summary relative risk for a 5 unit increment in BMI was 1.18 
+(95% confidence interval 1.15 to 1.21; I(2)=95%, n=44) among never smokers, 1.21 
+(1.18 to 1.25; I(2)=93%, n=25) among healthy never smokers, 1.27 (1.21 to 1.33; 
+I(2)=89%, n=11) among healthy never smokers with exclusion of early follow-up, 
+and 1.05 (1.04 to 1.07; I(2)=97%, n=198) among all participants. There was a J 
+shaped dose-response relation in never smokers (Pnon-linearity <0.001), and the 
+lowest risk was observed at BMI 23-24 in never smokers, 22-23 in healthy never 
+smokers, and 20-22 in studies of never smokers with ≥20 years' follow-up. In 
+contrast there was a U shaped association between BMI and mortality in analyses 
+with a greater potential for bias including all participants, current, former, 
+or ever smokers, and in studies with a short duration of follow-up (<5 years or 
+<10 years), or with moderate study quality scores.
+CONCLUSION: Overweight and obesity is associated with increased risk of all 
+cause mortality and the nadir of the curve was observed at BMI 23-24 among never 
+smokers, 22-23 among healthy never smokers, and 20-22 with longer durations of 
+follow-up. The increased risk of mortality observed in underweight people could 
+at least partly be caused by residual confounding from prediagnostic disease. 
+Lack of exclusion of ever smokers, people with prevalent and preclinical 
+disease, and early follow-up could bias the results towards a more U shaped 
+association.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.i2156
+PMCID: PMC4856854
+PMID: 27146380 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at http://www.icmje.org/coi_disclosure.pdf and 
+declare: no support from any organisation for the submitted work; no financial 
+relationships with any organisation that might have an interest in the submitted 
+work in the previous three years; no other relationships or activities that 
+could appear to have influenced the submitted work.
+1. N Engl J Med. 1998 Jan 1;338(1):1-7. doi: 10.1056/NEJM199801013380101.
+
+The effect of age on the association between body-mass index and mortality.
+
+Stevens J(1), Cai J, Pamuk ER, Williamson DF, Thun MJ, Wood JL.
+
+Author information:
+(1)Department of Nutrition, School of Public Health, University of North 
+Carolina, Chapel Hill 27599-7400, USA.
+
+Comment in
+    N Engl J Med. 1998 Jan 1;338(1):52-4. doi: 10.1056/NEJM199801013380109.
+    N Engl J Med. 1998 Apr 16;338(16):1156; author reply 1158.
+    N Engl J Med. 1998 Apr 16;338(16):1158. doi: 10.1056/NEJM199804163381614.
+    N Engl J Med. 1998 Apr 16;338(16):1158-9; author reply 1159.
+    N Engl J Med. 1998 Apr 16;338(16):1159.
+    N Engl J Med. 1998 Apr 16;338(16):1159.
+    N Engl J Med. 1999 Oct 7;341(15):1140-1. doi: 10.1056/NEJM199910073411508.
+
+BACKGROUND: The effect of age on optimal body weight is controversial, and few 
+studies have had adequate numbers of subjects to analyze mortality as a function 
+of body-mass index across age groups.
+METHODS: We studied mortality over 12 years among white men and women who 
+participated in the American Cancer Society's Cancer Prevention Study I (from 
+1960 through 1972). The 62,116 men and 262,019 women included in this analysis 
+had never smoked cigarettes, had no history of heart disease, stroke, or cancer 
+(other than skin cancer) at base line in 1959-1960, and had no history of recent 
+unintentional weight loss. The date and cause of death for subjects who died 
+were determined from death certificates. The associations between body-mass 
+index (defined as the weight in kilograms divided by the square of the height in 
+meters) and mortality were examined for six age groups in analyses in which we 
+adjusted for age, educational level, physical activity, and alcohol consumption.
+RESULTS: Greater body-mass index was associated with higher mortality from all 
+causes and from cardiovascular disease in men and women up to 75 years of age. 
+However, the relative risk associated with greater body-mass index declined with 
+age. For example, for mortality from cardiovascular disease, the relative risk 
+associated with an increment of 1 in the body-mass index was 1.10 (95 percent 
+confidence interval, 1.04 to 1.16) for 30-to-44-year-old men and 1.03 (95 
+percent confidence interval, 1.02 to 1.05) for 65-to-74-year-old men. For women, 
+the corresponding relative risk estimates were 1.08 (95 percent confidence 
+interval, 1.05 to 1.11) and 1.02 (95 percent confidence interval, 1.02 to 1.03).
+CONCLUSIONS: Excess body weight increases the risk of death from any cause and 
+from cardiovascular disease in adults between 30 and 74 years of age. The 
+relative risk associated with greater body weight is higher among younger 
+subjects.
+
+DOI: 10.1056/NEJM199801013380101
+PMID: 9414324 [Indexed for MEDLINE]1. J Nutr Health Aging. 2017;21(10):1254-1258. doi: 10.1007/s12603-016-0837-4.
+
+The Influence of Age the BMI and All-Cause Mortality Association: A 
+Meta-Analysis.
+
+Winter JE(1), MacInnis RJ, Nowson CA.
+
+Author information:
+(1)J. E. Winter, Institute of Physical Activity and Nutrition, Deakin 
+University, Geelong, Victoria, Australia, jane.winter1@au.nestle.com.
+
+OBJECTIVES: To assess BMI range with the lowest mortality for those aged <65 
+years and those ≥65 years, utilising cohort studies that spanned the entire 
+adult age range.
+DESIGN: A two-stage random effects meta-analysis of studies that reported 
+mortality in cohorts both ≥65 years and <65 years. Setting / Participants: 
+Community living adults aged ≥65 and <65 years.
+RESULTS: Eight studies were included with a total of 370 416 subjects (306 340 
+aged <65 years; 64 076 ≥65 years). In the older age group, mortality risk 
+increased at BMIs lower than 22 (BMI range 21.0-21.9: hazard ratio (HR) (95% 
+confidence interval (CI)): 1.05 (1.03, 1.07)), which was not seen in younger 
+adults. In the younger group, mortality increased from BMI range 28.0-28.9 (HR 
+(95% CI): 1.13 (1.00, 1.29)), but mortality did not tend to increase 
+significantly in the older group at BMIs above 23.
+CONCLUSION: The recommended healthy weight range is appropriate for younger and 
+middle aged adults but a higher BMI range should be recommended for older adults 
+based on mortality.
+
+DOI: 10.1007/s12603-016-0837-4
+PMCID: PMC12879887
+PMID: 29188887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jane Winter is an employee of Nestle Health 
+Science.

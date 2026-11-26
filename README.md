@@ -1,16 +1,16 @@
-<sub>**pix** · one settled finding, drawn clearly, every day · No. 18 · 2026-11-25 · Environment · [archive →](archive/)</sub>
+<sub>**pix** · one settled finding, drawn clearly, every day · No. 19 · 2026-11-26 · Health · [archive →](archive/)</sub>
 
-# The IQ gap is steepest at low lead levels
+# BMI's link to death weakens with age
 
-![Curve of IQ against blood lead from 2.4 to 30 micrograms per decilitre, falling 3.8 points between 2.4 and 10, 1.8 between 10 and 20 and 1.1 between 20 and 30, for 6.7 in all (95% CI 4.1 to 9.3). Below, IQ points lower per microgram: 0.50 between 2.4 and 10, 0.18 between 10 and 20, and 0.11 between 20 and 30, with intervals.](archive/2026-11-25-lead-iq-low-levels/chart.png)
+![Forest plot of hazard ratios for death per 5 units of BMI above 25: 1.52 for BMI measured at ages 35 to 49 and 1.21 at 70 to 89, 1.51 for men and 1.30 for women, 1.29 to 1.39 across regions, 1.31 overall. Below, hazard ratios by BMI band, lowest at 20 to 25 and rising to 2.76 at 40 to 60, with the lowest-risk BMI at 22, 23 and 24 for ages 35 to 49, 50 to 69 and 70 to 89.](archive/2026-11-26-bmi-mortality-age/chart.png)
 
-In a pooled analysis of 1,333 children from seven birth cohorts, IQ was lower at higher blood lead, and the gap was steepest at the low end. Children with a blood lead of 30 micrograms per decilitre scored 6.7 points lower than those at 2.4. More than half of that gap, 3.8 points, opened between 2.4 and 10. In the paper's log-linear model, the gap per microgram there is more than four times that between 20 and 30.
+Excess weight goes with a higher death rate, but less so later in life. In 3.95 million never-smokers without chronic disease across 189 studies, each 5 units of BMI above 25 went with a 52% higher death rate when BMI was measured at 35 to 49, against 21% at 70 to 89. The BMI with the lowest death rate rose with age, from 22 to 24. A separate UK study of 2.0 million never-smokers found the same weakening with age. Older people still die at higher absolute rates.
 
-**Source:** Lanphear BP, Hornung R, Khoury J, et al. Low-level environmental lead exposure and children's intellectual function: an international pooled analysis. *Environ Health Perspect* 113, 894–899 (2005); corrected in *Environ Health Perspect* 127, 099001 (2019). [doi:10.1289/ehp.7688](https://doi.org/10.1289/ehp.7688)<br>
-**Evidence:** Seven prospective cohorts in the US, Mexico, Australia and Yugoslavia, IQ measured at about 5 to 10 years, adjusted for confounders. The figures are the 2019 corrected estimates. An independent reanalysis of the same data (Crump et al., 2013) found the same non-linear shape, and the US EPA judges lead a cause of lower cognitive function in children. The step estimates were checked against the paper's log-linear slope; no raw data were reanalysed.
+**Source:** Global BMI Mortality Collaboration. Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies in four continents. *Lancet* 388, 776–786 (2016). [doi:10.1016/S0140-6736(16)30175-1](https://doi.org/10.1016/S0140-6736(16)30175-1)<br>
+**Evidence:** Individual-participant data from 10.6 million people in 239 cohorts, analysed in never-smokers without chronic disease at baseline and excluding the first 5 years of follow-up to limit reverse causation. The weakening with age is also seen in UK primary-care records (Bhaskaran et al., 2018), a separate meta-analysis (Winter et al., 2017) and an earlier US cohort (Stevens et al., 1998). Numbers transcribed from the paper's text.
 
-[Data](archive/2026-11-25-lead-iq-low-levels/data/) · [Code](archive/2026-11-25-lead-iq-low-levels/analysis.py) · [Evidence notes](archive/2026-11-25-lead-iq-low-levels/evidence.md) · [SVG](archive/2026-11-25-lead-iq-low-levels/chart.svg)
+[Data](archive/2026-11-26-bmi-mortality-age/data/) · [Code](archive/2026-11-26-bmi-mortality-age/analysis.py) · [Evidence notes](archive/2026-11-26-bmi-mortality-age/evidence.md) · [SVG](archive/2026-11-26-bmi-mortality-age/chart.svg)
 
 ---
 
-<sub>Previously: [Youngest children in class get more ADHD diagnoses](archive/2026-11-24-youngest-in-class-adhd/post.md) · [The earlier smokers quit, the more years they gain](archive/2026-11-23-quit-smoking-age/post.md) · [Global warming rises in step with total CO2 emitted](archive/2026-11-22-warming-cumulative-co2/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [The IQ gap is steepest at low lead levels](archive/2026-11-25-lead-iq-low-levels/post.md) · [Youngest children in class get more ADHD diagnoses](archive/2026-11-24-youngest-in-class-adhd/post.md) · [The earlier smokers quit, the more years they gain](archive/2026-11-23-quit-smoking-age/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
