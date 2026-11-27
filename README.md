@@ -1,16 +1,16 @@
-<sub>**pix** · one settled finding, drawn clearly, every day · No. 19 · 2026-11-26 · Health · [archive →](archive/)</sub>
+<sub>**pix** · one settled finding, drawn clearly, every day · No. 20 · 2026-11-27 · Technology · [archive →](archive/)</sub>
 
-# BMI's link to death weakens with age
+# Solar panel prices fell 24% per doubling of capacity
 
-![Forest plot of hazard ratios for death per 5 units of BMI above 25: 1.52 for BMI measured at ages 35 to 49 and 1.21 at 70 to 89, 1.51 for men and 1.30 for women, 1.29 to 1.39 across regions, 1.31 overall. Below, hazard ratios by BMI band, lowest at 20 to 25 and rising to 2.76 at 40 to 60, with the lowest-risk BMI at 22, 23 and 24 for ages 35 to 49, 50 to 69 and 70 to 89.](archive/2026-11-26-bmi-mortality-age/chart.png)
+![Log-log scatter of solar module price per watt against cumulative installed capacity, one dot per year from 1975 to 2025, falling roughly along a straight line from $132 at under 0.001 gigawatts to $0.12 at 2,378 gigawatts. Below, the fitted fall per doubling: 24% for 1975 to 2025, 21% for 1975 to 2010 and 38% for 2010 to 2025, shown against a 10% to 47% range and 23% average from 13 published studies.](archive/2026-11-27-solar-learning-curve/chart.png)
 
-Excess weight goes with a higher death rate, but less so later in life. In 3.95 million never-smokers without chronic disease across 189 studies, each 5 units of BMI above 25 went with a 52% higher death rate when BMI was measured at 35 to 49, against 21% at 70 to 89. The BMI with the lowest death rate rose with age, from 22 to 24. A separate UK study of 2.0 million never-smokers found the same weakening with age. Older people still die at higher absolute rates.
+Solar module prices have fallen by a large share each time the world's installed capacity doubled, though not at a fixed rate. Fitting 50 years of prices against cumulative capacity gives about 24% per doubling, close to the 23% average of estimates from 13 studies in a 2015 review, most of them of module prices. Over 22 doublings since 1975, a watt of panel went from $132 to 12 cents in 2025 dollars. In European benchmark prices since 2010, the fall has been faster, at about 38% per doubling, helped by recent oversupply.
 
-**Source:** Global BMI Mortality Collaboration. Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies in four continents. *Lancet* 388, 776–786 (2016). [doi:10.1016/S0140-6736(16)30175-1](https://doi.org/10.1016/S0140-6736(16)30175-1)<br>
-**Evidence:** Individual-participant data from 10.6 million people in 239 cohorts, analysed in never-smokers without chronic disease at baseline and excluding the first 5 years of follow-up to limit reverse causation. The weakening with age is also seen in UK primary-care records (Bhaskaran et al., 2018), a separate meta-analysis (Winter et al., 2017) and an earlier US cohort (Stevens et al., 1998). Numbers transcribed from the paper's text.
+**Source:** Rubin ES, Azevedo IML, Jaramillo P, Yeh S. A review of learning rates for electricity supply technologies. *Energy Policy* 86, 198–218 (2015). [doi:10.1016/j.enpol.2015.06.011](https://doi.org/10.1016/j.enpol.2015.06.011). Data: Our World in Data, from Nemet (2009), Farmer & Lafond (2016) and IRENA.<br>
+**Evidence:** A learning curve fitted here to 50 years (51 annual points) of module prices and global capacity, matching the average of 13 published estimates. The cost decline is confirmed by the IPCC's 2022 mitigation report and decomposed by Kavlak et al. (*Energy Policy*, 2018). The relationship is an association: scale, research and policy all contributed.
 
-[Data](archive/2026-11-26-bmi-mortality-age/data/) · [Code](archive/2026-11-26-bmi-mortality-age/analysis.py) · [Evidence notes](archive/2026-11-26-bmi-mortality-age/evidence.md) · [SVG](archive/2026-11-26-bmi-mortality-age/chart.svg)
+[Data](archive/2026-11-27-solar-learning-curve/data/) · [Code](archive/2026-11-27-solar-learning-curve/analysis.py) · [Evidence notes](archive/2026-11-27-solar-learning-curve/evidence.md) · [SVG](archive/2026-11-27-solar-learning-curve/chart.svg)
 
 ---
 
-<sub>Previously: [The IQ gap is steepest at low lead levels](archive/2026-11-25-lead-iq-low-levels/post.md) · [Youngest children in class get more ADHD diagnoses](archive/2026-11-24-youngest-in-class-adhd/post.md) · [The earlier smokers quit, the more years they gain](archive/2026-11-23-quit-smoking-age/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>
+<sub>Previously: [BMI's link to death weakens with age](archive/2026-11-26-bmi-mortality-age/post.md) · [The IQ gap is steepest at low lead levels](archive/2026-11-25-lead-iq-low-levels/post.md) · [Youngest children in class get more ADHD diagnoses](archive/2026-11-24-youngest-in-class-adhd/post.md) · [full archive](archive/) · [how this works](CLAUDE.md)</sub>

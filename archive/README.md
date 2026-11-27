@@ -1,9 +1,10 @@
 # pix archive
 
-9 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
+10 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
 
 | Date | | Finding |
 |---|---|---|
+| 2026-11-27 | <a href="2026-11-27-solar-learning-curve/post.md"><img src="2026-11-27-solar-learning-curve/chart.png" width="180"></a> | **[Solar panel prices fell 24% per doubling of capacity](2026-11-27-solar-learning-curve/post.md)**<br><sub>Technology · Rubin et al., Energy Policy, 2015; data from Our World in Data (Nemet; Farmer & Lafond; IRENA)</sub><br>Each doubling of the world's installed solar capacity came with a 24% fall in module prices. Since 1975 a watt of panel went from $132 to 12 cents, in 2025 dollars. |
 | 2026-11-26 | <a href="2026-11-26-bmi-mortality-age/post.md"><img src="2026-11-26-bmi-mortality-age/chart.png" width="180"></a> | **[BMI's link to death weakens with age](2026-11-26-bmi-mortality-age/post.md)**<br><sub>Health · Global BMI Mortality Collaboration, Lancet, 2016</sub><br>In never-smokers, each 5 units of BMI above 25 went with a 52% higher death rate when BMI was measured at 35 to 49, but 21% when measured at 70 to 89. |
 | 2026-11-25 | <a href="2026-11-25-lead-iq-low-levels/post.md"><img src="2026-11-25-lead-iq-low-levels/chart.png" width="180"></a> | **[The IQ gap is steepest at low lead levels](2026-11-25-lead-iq-low-levels/post.md)**<br><sub>Environment · Lanphear et al., Environmental Health Perspectives, 2005 (corrected 2019)</sub><br>In 1,333 children, IQ was 6.7 points lower at a blood lead of 30 micrograms per decilitre than at 2.4. More than half of that, 3.8 points, came between 2.4 and 10. |
 | 2026-11-24 | <a href="2026-11-24-youngest-in-class-adhd/post.md"><img src="2026-11-24-youngest-in-class-adhd/chart.png" width="180"></a> | **[Youngest children in class get more ADHD diagnoses](2026-11-24-youngest-in-class-adhd/post.md)**<br><sub>Children · Layton et al., New England Journal of Medicine, 2018</sub><br>In US states with a September 1 school cutoff, August-born children were diagnosed with ADHD 34% more often than September-born children, 85.1 against 63.6 per 10,000. |

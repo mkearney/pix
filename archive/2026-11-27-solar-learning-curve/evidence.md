@@ -1,0 +1,28 @@
+# Evidence
+
+Finding: Solar photovoltaic module prices have fallen by a large, though not fixed, share per doubling of cumulative installed capacity: 24% per doubling over 1975–2025, consistent with the 23% average learning rate across 13 published studies.
+
+Type: dose-response.
+
+Source: Rubin ES, Azevedo IML, Jaramillo P, Yeh S. A review of learning rates for electricity supply technologies. Energy Policy 86, 198–218 (2015). doi:10.1016/j.enpol.2015.06.011. Author-hosted PDF: https://www.cmu.edu/epp/iecm/rubin/PDF%20files/2015/A%20review%20of%20learning%20rates%20for%20electricity%20supply%20technologies.pdf. Data: Our World in Data, "Solar PV module prices vs. cumulative capacity" (https://ourworldindata.org/grapher/solar-pv-prices-vs-cumulative-capacity), compiled from Nemet (2009), Farmer & Lafond (2016) and IRENA (2025, 2026).
+
+Design: Learning-curve (Wright's law) analysis: least-squares regression of log module price (constant 2025 US$/W) on log cumulative installed capacity, world, 1975–2025 (51 annual points, 22.1 doublings). Compared with the review's one-factor learning rates for solar PV (13 studies, 1959–2011 data).
+
+Key numbers:
+- 24% per doubling (24.3%; naive 95% CI 23.3–25.3%), 1975–2025. Computed in `analysis.py`; asserted to fall within the review's 10–47% range and within 3 points of its 23% mean.
+- 21% (1975–2010) and 38% (2010–2025). Computed; chart only except 38% in the post.
+- $132.38/W in 1975 to $0.12/W in 2025 (2025 US$), a 99.9% fall; 0.54 MW to 2,378 GW; 22 doublings. From the OWID series.
+- 23% average and 10–47% range across 13 one-factor studies: Rubin et al. 2015, Table 1 and text ("solar PV energy systems, whose average learning rates for one-factor models were ... 23%"). Transcribed and asserted against the saved excerpt. The mean is over estimates (Fig. 9); most are of module prices, but Table A3 also includes balance-of-system, inverter and one electricity-cost estimate. Rubin et al. add that no single learning-rate estimate can be considered robust.
+- Sensitivity (fact-checker): 1975–2022 gives 23.3% and 2010–2022 gives 34.6%, so the headline holds and the post-2010 rate depends on end years. The two period fits share the 2010 point.
+
+Corroboration:
+- IPCC. Climate Change 2022: Mitigation of Climate Change, Summary for Policymakers, B.4.1 (2022). doi:10.1017/9781009157926.001. "From 2010 to 2019, there have been sustained decreases in the unit costs of solar energy (85%)", alongside large increases in deployment. This is the unit cost of solar electricity, not module price: it supports the direction of the change, not the 24% figure.
+- Kavlak G, McNerney J, Trancik JE. Evaluating the causes of cost reduction in photovoltaic modules. Energy Policy 123, 700–710 (2018). doi:10.1016/j.enpol.2018.08.015. States that "PV module costs fell by about 20% with every doubling of cumulative capacity since the 1970s"; module costs fell about 96% from 1980 to 2012 (Table 2: $29.07/W to $1.08/W, 2015 US$); attributes the decline to efficiency, materials, plant size and other factors, with R&D dominant early and scale economies later.
+- Farmer JD, Lafond F. How predictable is technological progress? Research Policy 45(3), 647–665 (2016). doi:10.1016/j.respol.2015.11.001. Solar PV among technologies whose costs follow persistent exponential declines (one of the data sources, so not fully independent).
+- Gan and Li (2015), as reported by Rubin et al., found the module learning rate fell from 32% to 14% over periods from 1976 to 2006; this series instead shows a faster rate after 2010, so a single rate is an average.
+
+Wording check: A learning curve is a statistical regularity, not a causal estimate; the post says prices "have fallen by a large share each time the world's installed capacity doubled, though not at a fixed rate" and the Evidence line states that scale, research and policy all contributed. No claim that deployment alone caused the fall.
+
+Limits: The regression confidence interval assumes independent annual errors and is too narrow for a trending time series. Prices before 2010 are global (Nemet; Farmer and Lafond); from 2010 they are European pvXchange benchmarks, thin-film (a-Si, cheaper than crystalline) until late 2013 (the 2011 to 2012 drop is 46%), and from 2020 IRENA's mainstream series joined without rescaling. The post-2010 break coincides with this splice, and the 2023–2025 drop partly reflects oversupply, both of which push the post-2010 rate up. The 2004–2011 points sit above the line (polysilicon shortage). Module prices are not system or electricity costs. Cumulative capacity and time move together, so learning-by-doing cannot be separated from other progress (Kavlak 2018).
+
+Fact-check: An independent subagent recomputed every fit from the saved CSV (24.3%, 20.6%, 37.5%; $132.38 to $0.12; 22.1 doublings), confirmed Rubin et al.'s Table 1 row and text in the author PDF, confirmed the IPCC SPM B.4.1 wording, Kavlak et al. and Farmer and Lafond, and found no dispute of the learning-curve regularity (only of its causal reading, which the post avoids). Verdict: pass with fixes. Changed as a result: 'near-constant share' became 'a large share ... though not at a fixed rate'; the Rubin average is described as estimates mostly of module prices; the post-2010 rate is attributed to European benchmark prices and oversupply, and the thin-film period and 2020 join are in Limits and the chart note; the regression intervals are labelled naive; the Gan and Li attribution, Kavlak's 96% and its 20%-per-doubling line, and the IPCC metric are corrected or added; '50 years (51 annual points)' used consistently.

@@ -48,9 +48,6 @@ Each line: the finding · finding type · where to start · what the chart could
 
 ## Climate, energy & environment
 
-- **Solar module prices fall by a steady share with each doubling of installed capacity.**
-  dose-response · Way et al., Joule 2022; IRENA cost reports · log-log price against
-  cumulative capacity (OWID).
 - **Cold kills more people than heat.** dose-response · Gasparrini et al., Lancet 2015 (384
   locations); Zhao et al., Lancet Planetary Health 2021 (750 locations) · relative risk
   against temperature percentile, with attributable deaths.

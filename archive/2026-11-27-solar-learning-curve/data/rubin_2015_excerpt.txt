@@ -1,0 +1,12 @@
+Rubin ES, Azevedo IML, Jaramillo P, Yeh S. A review of learning rates for electricity supply technologies. Energy Policy 86:198-218 (2015). doi:10.1016/j.enpol.2015.06.011. Text extracted from the author-hosted PDF (cmu.edu), downloaded 2026-11-27.
+
+
+NOT FOUND: [^.]*defined as the fractional reduction in cost[^.]*\.
+
+Table 1 summarizes the range of learning rates reported in these studies.
+
+TABLE 1 ROW, as extracted from the PDF (the text below confirms the 23% mean is for one-factor models; 10–47% is the one-factor range): Solar PV 13 3 10 –47% 23% 14 –32% 18% 10 –14.3% 12% 1959 –201 1
+
+ With few exceptions (most notably for nuclear power plants), studies report declining unit capital cost (or cost of electricity generation) with increasing installed capacity (or production) over the time periods analyzed, The most-studied technologies in the literature were onshore wind and solar PV energy systems, whose average learning rates for one-factor models were 12% and 23%, respec- tively (see Table 1 ).
+
+ Overall, they ﬁnd that the learning rate for PV module cost declined over time, from 32% to 14% over periods from 1976 to 2006, indicating lower rates of progress as PV technology matured (see Table A3; Appendix A for more details).
