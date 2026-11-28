@@ -31,9 +31,6 @@ Each line: the finding · finding type · where to start · what the chart could
 - **Alcohol raises breast cancer risk with every drink.** dose-response · Collaborative Group
   on Hormonal Factors in Breast Cancer, Br J Cancer 2002; IARC Monographs · relative risk by
   daily grams of alcohol.
-- **GLP-1 drugs cut body weight far more than placebo in large trials.** effect · Wilding et al., NEJM
-  2021 (STEP 1); Jastreboff et al., NEJM 2022 (SURMOUNT-1); Lincoff et al., NEJM 2023
-  (SELECT) · weight change over time, drug against placebo.
 - **Folic acid fortification cut neural tube defects.** effect · Williams et al., MMWR 2015;
   Atta et al., Am J Public Health 2016 (global meta-analysis) · prevalence before and after
   fortification, or fortified against unfortified countries.

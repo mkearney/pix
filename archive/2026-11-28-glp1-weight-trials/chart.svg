@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="1166.4pt" viewBox="0 0 864 1166.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-28T13:13:24.279594</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1166.4 
+L 864 1166.4 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f3eee4"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 15.12 1147.392 
+L 34.56 1147.392 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 19.008 1151.28 
+L 19.008 1131.84 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 15.12 19.008 
+L 34.56 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 19.008 15.12 
+L 19.008 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 848.88 1147.392 
+L 829.44 1147.392 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 844.992 1151.28 
+L 844.992 1131.84 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 848.88 19.008 
+L 829.44 19.008 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 844.992 15.12 
+L 844.992 34.56 
+" style="fill: none; stroke: #8c877d; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 289.44 713.5848 
+L 574.56 713.5848 
+L 574.56 433.6488 
+L 289.44 433.6488 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_9">
+      <path d="M 309.103448 713.5848 
+L 309.103448 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_10">
+      <defs>
+       <path id="ma910b3729d" d="M 0 0 
+L 0 3 
+" style="stroke: #8c877d; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma910b3729d" x="309.103448" y="713.5848" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="309.103448" y="732.3223" transform="rotate(-0 309.103448 732.3223)">-25%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_11">
+      <path d="M 358.262069 713.5848 
+L 358.262069 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#ma910b3729d" x="358.262069" y="713.5848" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="358.262069" y="732.3223" transform="rotate(-0 358.262069 732.3223)">-20%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_13">
+      <path d="M 407.42069 713.5848 
+L 407.42069 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#ma910b3729d" x="407.42069" y="713.5848" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="407.42069" y="732.3223" transform="rotate(-0 407.42069 732.3223)">-15%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_15">
+      <path d="M 456.57931 713.5848 
+L 456.57931 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#ma910b3729d" x="456.57931" y="713.5848" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="456.57931" y="732.3223" transform="rotate(-0 456.57931 732.3223)">-10%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_17">
+      <path d="M 505.737931 713.5848 
+L 505.737931 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#ma910b3729d" x="505.737931" y="713.5848" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="505.737931" y="732.3223" transform="rotate(-0 505.737931 732.3223)">-5%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_19">
+      <path d="M 554.896552 713.5848 
+L 554.896552 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#ma910b3729d" x="554.896552" y="713.5848" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="554.896552" y="732.3223" transform="rotate(-0 554.896552 732.3223)">0%</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="432" y="748.137925" transform="rotate(-0 432 748.137925)">Mean change in body weight from the start of the trial</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_21">
+    <path d="M 531.300414 485.672304 
+L 408.403862 485.672304 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #bdb4a4; stroke-width: 2.5"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 498.855724 535.218499 
+L 397.588966 535.218499 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #bdb4a4; stroke-width: 2.5"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 524.418207 584.764694 
+L 407.42069 584.764694 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #bdb4a4; stroke-width: 2.5"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 524.418207 634.310888 
+L 363.177931 634.310888 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #bdb4a4; stroke-width: 2.5"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 524.418207 683.857083 
+L 349.413517 683.857083 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #bdb4a4; stroke-width: 2.5"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 554.896552 713.5848 
+L 554.896552 433.6488 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #17171a; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 289.44 713.5848 
+L 574.56 713.5848 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="583.1136" y="489.234804" transform="rotate(-0 583.1136 489.234804)">-12.4 (-13.4 to -11.5)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="403.488" y="489.797304" transform="rotate(-0 403.488 489.797304)">-14.9%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #4a4741" x="531.300414" y="473.288065" transform="rotate(-0 531.300414 473.288065)">-2.4%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="280.8864" y="477.073441" transform="rotate(-0 280.8864 477.073441)">STEP 1</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="280.8864" y="493.128588" transform="rotate(-0 280.8864 493.128588)">semaglutide, 68 weeks</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="583.1136" y="538.780999" transform="rotate(-0 583.1136 538.780999)">-10.3 (-12.0 to -8.6)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="392.673103" y="539.343499" transform="rotate(-0 392.673103 539.343499)">-16.0%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #4a4741" x="498.855724" y="522.83426" transform="rotate(-0 498.855724 522.83426)">-5.7%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="280.8864" y="526.619635" transform="rotate(-0 280.8864 526.619635)">STEP 3</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'Inter'; fill: #8c877d" transform="translate(185.657181 542.674782)">semaglutide + intensive</text>
+    <text style="font-size: 8.5px; font-family: 'Inter'; fill: #8c877d" transform="translate(172.502103 555.093415)">lifestyle support, 68 weeks</text>
+   </g>
+   <g id="line2d_27">
+    <path d="M 512.620138 591.701161 
+L 536.216276 591.701161 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #4a4741; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 398.572138 591.701161 
+L 415.286069 591.701161 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #e4572e; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="583.1136" y="588.327194" transform="rotate(-0 583.1136 588.327194)">-11.9 (derived)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="393.656276" y="588.889694" transform="rotate(-0 393.656276 588.889694)">-15.0%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #4a4741" x="524.418207" y="572.380455" transform="rotate(-0 524.418207 572.380455)">-3.1%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="280.8864" y="576.16583" transform="rotate(-0 280.8864 576.16583)">SURMOUNT-1</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="280.8864" y="592.220977" transform="rotate(-0 280.8864 592.220977)">tirzepatide 5 mg, 72 weeks</text>
+   </g>
+   <g id="line2d_29">
+    <path d="M 512.620138 641.247356 
+L 536.216276 641.247356 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #4a4741; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 354.329379 641.247356 
+L 373.009655 641.247356 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #e4572e; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="583.1136" y="637.873388" transform="rotate(-0 583.1136 637.873388)">-16.4 (derived)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 11px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="349.413517" y="638.435888" transform="rotate(-0 349.413517 638.435888)">-19.5%</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #4a4741" x="524.418207" y="621.92665" transform="rotate(-0 524.418207 621.92665)">-3.1%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="280.8864" y="625.712025" transform="rotate(-0 280.8864 625.712025)">SURMOUNT-1</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="280.8864" y="641.767172" transform="rotate(-0 280.8864 641.767172)">tirzepatide 10 mg, 72 weeks</text>
+   </g>
+   <g id="line2d_31">
+    <path d="M 512.620138 690.79355 
+L 536.216276 690.79355 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #4a4741; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 340.564966 690.79355 
+L 359.245241 690.79355 
+" clip-path="url(#pdbf952ba10)" style="fill: none; stroke: #e4572e; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="583.1136" y="687.419583" transform="rotate(-0 583.1136 687.419583)">-17.8 (derived)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="335.649103" y="687.982083" transform="rotate(-0 335.649103 687.982083)">-20.9%</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #4a4741" x="524.418207" y="671.472844" transform="rotate(-0 524.418207 671.472844)">-3.1%</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="280.8864" y="675.25822" transform="rotate(-0 280.8864 675.25822)">SURMOUNT-1</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: end; fill: #8c877d" x="280.8864" y="691.313366" transform="rotate(-0 280.8864 691.313366)">tirzepatide 15 mg, 72 weeks</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 600; font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #e4572e" x="408.403862" y="448.698464" transform="rotate(-0 408.403862 448.698464)">Drug</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #4a4741" x="531.300414" y="448.698464" transform="rotate(-0 531.300414 448.698464)">Placebo</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="583.1136" y="448.698464" transform="rotate(-0 583.1136 448.698464)">Difference, points</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m722f477e4b" d="M 0 3.872983 
+C 1.027127 3.872983 2.012324 3.464901 2.738613 2.738613 
+C 3.464901 2.012324 3.872983 1.027127 3.872983 0 
+C 3.872983 -1.027127 3.464901 -2.012324 2.738613 -2.738613 
+C 2.012324 -3.464901 1.027127 -3.872983 0 -3.872983 
+C -1.027127 -3.872983 -2.012324 -3.464901 -2.738613 -2.738613 
+C -3.464901 -2.012324 -3.872983 -1.027127 -3.872983 0 
+C -3.872983 1.027127 -3.464901 2.012324 -2.738613 2.738613 
+C -2.012324 3.464901 -1.027127 3.872983 0 3.872983 
+z
+" style="stroke: #4a4741; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m722f477e4b" x="531.300414" y="485.672304" style="fill: #f3eee4; stroke: #4a4741; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m33a22d0998" d="M 0 4.1833 
+C 1.109424 4.1833 2.173559 3.742521 2.95804 2.95804 
+C 3.742521 2.173559 4.1833 1.109424 4.1833 0 
+C 4.1833 -1.109424 3.742521 -2.173559 2.95804 -2.95804 
+C 2.173559 -3.742521 1.109424 -4.1833 0 -4.1833 
+C -1.109424 -4.1833 -2.173559 -3.742521 -2.95804 -2.95804 
+C -3.742521 -2.173559 -4.1833 -1.109424 -4.1833 0 
+C -4.1833 1.109424 -3.742521 2.173559 -2.95804 2.95804 
+C -2.173559 3.742521 -1.109424 4.1833 0 4.1833 
+z
+" style="stroke: #f3eee4; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m33a22d0998" x="408.403862" y="485.672304" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m722f477e4b" x="498.855724" y="535.218499" style="fill: #f3eee4; stroke: #4a4741; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m33a22d0998" x="397.588966" y="535.218499" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m722f477e4b" x="524.418207" y="584.764694" style="fill: #f3eee4; stroke: #4a4741; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m33a22d0998" x="407.42069" y="584.764694" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m722f477e4b" x="524.418207" y="634.310888" style="fill: #f3eee4; stroke: #4a4741; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m33a22d0998" x="363.177931" y="634.310888" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m722f477e4b" x="524.418207" y="683.857083" style="fill: #f3eee4; stroke: #4a4741; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#pdbf952ba10)">
+     <use xlink:href="#m33a22d0998" x="349.413517" y="683.857083" style="fill: #e4572e; stroke: #f3eee4; stroke-width: 0.8"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2"/>
+  <g id="axes_3">
+   <g id="patch_4">
+    <path d="M 289.44 993.5208 
+L 660.96 993.5208 
+L 660.96 853.5528 
+L 289.44 853.5528 
+z
+" style="fill: #f3eee4"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_33">
+      <path d="M 320.4 993.5208 
+L 320.4 853.5528 
+" clip-path="url(#p59fe6e1f3b)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#ma910b3729d" x="320.4" y="993.5208" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="320.4" y="1012.2583" transform="rotate(-0 320.4 1012.2583)">-10%</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_35">
+      <path d="M 397.8 993.5208 
+L 397.8 853.5528 
+" clip-path="url(#p59fe6e1f3b)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#ma910b3729d" x="397.8" y="993.5208" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="397.8" y="1012.2583" transform="rotate(-0 397.8 1012.2583)">-5%</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_37">
+      <path d="M 475.2 993.5208 
+L 475.2 853.5528 
+" clip-path="url(#p59fe6e1f3b)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#ma910b3729d" x="475.2" y="993.5208" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="475.2" y="1012.2583" transform="rotate(-0 475.2 1012.2583)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_39">
+      <path d="M 552.6 993.5208 
+L 552.6 853.5528 
+" clip-path="url(#p59fe6e1f3b)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#ma910b3729d" x="552.6" y="993.5208" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="552.6" y="1012.2583" transform="rotate(-0 552.6 1012.2583)">+5%</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_41">
+      <path d="M 630 993.5208 
+L 630 853.5528 
+" clip-path="url(#p59fe6e1f3b)" style="fill: none; stroke-dasharray: 0.8,2; stroke-dashoffset: 0; stroke: #d6cebf; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#ma910b3729d" x="630" y="993.5208" style="fill: #8c877d; stroke: #8c877d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-size: 9.5px; font-family: 'IBM Plex Mono'; text-anchor: middle; fill: #8c877d" x="630" y="1012.2583" transform="rotate(-0 630 1012.2583)">+10%</text>
+     </g>
+    </g>
+    <g id="text_41">
+     <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: middle; fill: #8c877d" x="475.2" y="1028.073925" transform="rotate(-0 475.2 1028.073925)">Change in body weight from week 20 to week 68 (difference -14.8, 95% CI -16.0 to -13.5)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_5">
+    <path d="M 475.2 909.221891 
+L 352.908 909.221891 
+L 352.908 874.229891 
+L 475.2 874.229891 
+z
+" clip-path="url(#p59fe6e1f3b)" style="fill: #e4572e"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 475.2 972.843709 
+L 582.012 972.843709 
+L 582.012 937.851709 
+L 475.2 937.851709 
+z
+" clip-path="url(#p59fe6e1f3b)" style="fill: #2b4592"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 475.2 993.5208 
+L 475.2 853.5528 
+" clip-path="url(#p59fe6e1f3b)" style="fill: none; stroke: #17171a; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 289.44 993.5208 
+L 660.96 993.5208 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 12px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #e4572e" x="346.716" y="896.225891" transform="rotate(-0 346.716 896.225891)">-7.9%</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="278.2944" y="895.727356" transform="rotate(-0 278.2944 895.727356)">Stayed on semaglutide</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 12px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #2b4592" x="588.204" y="959.847709" transform="rotate(-0 588.204 959.847709)">+6.9%</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: end; fill: #17171a" x="278.2944" y="959.349174" transform="rotate(-0 278.2944 959.349174)">Switched to placebo</text>
+   </g>
+  </g>
+  <g id="axes_4"/>
+  <g id="line2d_44">
+   <path d="M 56.16 54.8208 
+L 807.84 54.8208 
+" style="fill: none; stroke: #17171a; stroke-width: 0.9; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_45">
+   <path d="M 56.16 284.4408 
+L 807.84 284.4408 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_46">
+   <path d="M 56.16 352.0008 
+L 807.84 352.0008 
+" style="fill: none; stroke: #17171a; stroke-width: 0.7; stroke-linecap: round"/>
+  </g>
+  <g id="line2d_47">
+   <path d="M 56.16 1091.7504 
+L 807.84 1091.7504 
+" style="fill: none; stroke: #17171a; stroke-width: 0.6; stroke-linecap: round"/>
+  </g>
+  <g id="text_46">
+   <text style="font-weight: 500; font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #17171a" x="56.16" y="44.3232" transform="rotate(-0 56.16 44.3232)">PIX</text>
+  </g>
+  <g id="text_47">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #8c877d" x="90.72" y="44.3232" transform="rotate(-0 90.72 44.3232)">No. 021</text>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 10px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #8c877d" x="807.84" y="44.3232" transform="rotate(-0 807.84 44.3232)">SAT 28 NOV 2026</text>
+  </g>
+  <g id="text_49">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="98.2425" transform="rotate(-0 56.16 98.2425)">HEALTH · OBESITY DRUGS</text>
+  </g>
+  <g id="text_50">
+   <text style="font-size: 50px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="53.568" y="154.26" transform="rotate(-0 53.568 154.26)">Obesity drug users lost</text>
+  </g>
+  <g id="text_51">
+   <text style="font-style: italic; font-size: 50px; font-family: 'Instrument Serif'; text-anchor: start; fill: #e4572e" x="53.568" y="205.26" transform="rotate(-0 53.568 205.26)">15% to 21%</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 50px; font-family: 'Instrument Serif'; text-anchor: start; fill: #17171a" x="227.97675" y="205.26" transform="rotate(-0 227.97675 205.26)"> in trials</text>
+  </g>
+  <g id="text_53">
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 234.215933)">Over 68 to 72 weeks, people on weekly semaglutide lost 14.9% of their weight, against 2.4% on placebo.</text>
+   <text style="font-size: 13.5px; font-family: 'Inter'; fill: #4a4741" transform="translate(56.16 258.648032)">On tirzepatide they lost 15.0% to 20.9%, depending on dose, against 3.1%.</text>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="56.16" y="305.3933" transform="rotate(-0 56.16 305.3933)">STUDY</text>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 325.29245)">Double-blind randomised</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(56.16 342.073993)">placebo-controlled trials</text>
+  </g>
+  <g id="text_56">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="244.08" y="305.3933" transform="rotate(-0 244.08 305.3933)">SAMPLE</text>
+  </g>
+  <g id="text_57">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(244.08 324.226044)">Adults with obesity or overweight</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(244.08 342.073993)">plus a related condition, no diabetes</text>
+  </g>
+  <g id="text_58">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="454.5504" y="305.3933" transform="rotate(-0 454.5504 305.3933)">SOURCE</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(454.5504 324.787138)">STEP 1, 3 and 4 (2021)</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(454.5504 343.019814)">SURMOUNT-1 (2022)</text>
+  </g>
+  <g id="text_60">
+   <text style="font-weight: 500; font-size: 8.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="612.4032" y="305.3933" transform="rotate(-0 612.4032 305.3933)">CONSISTENT WITH</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(612.4032 324.193232)">Meta-analyses: Nat Med 2025</text>
+   <text style="font-size: 10.5px; font-family: 'Inter'; fill: #17171a" transform="translate(612.4032 342.573564)">(56 trials), Am J Cardiol 2024</text>
+  </g>
+  <g id="text_62">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="378.2088" transform="rotate(-0 73.44 378.2088)">01</text>
+  </g>
+  <g id="text_63">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="378.2088" transform="rotate(-0 101.088 378.2088)">Weight change by the end of each trial, drug against placebo</text>
+  </g>
+  <g id="text_64">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="394.0488" transform="rotate(-0 101.088 394.0488)">Separate trials, not head-to-head. All arms had lifestyle advice. Whiskers: 95% CIs reported for the arm.</text>
+  </g>
+  <g id="text_65">
+   <text style="font-weight: 500; font-size: 10.5px; font-family: 'IBM Plex Mono'; text-anchor: start; fill: #e4572e" x="73.44" y="798.1128" transform="rotate(-0 73.44 798.1128)">02</text>
+  </g>
+  <g id="text_66">
+   <text style="font-weight: 600; font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #17171a" x="101.088" y="798.1128" transform="rotate(-0 101.088 798.1128)">After 20 weeks on semaglutide, a third were switched to placebo (STEP 4)</text>
+  </g>
+  <g id="text_67">
+   <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start; fill: #4a4741" x="101.088" y="813.9528" transform="rotate(-0 101.088 813.9528)">803 adults who had lost 10.6% on average in the first 20 weeks; randomised 2:1. Changes are % of week-20 weight.</text>
+  </g>
+  <g id="text_68">
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1111.593475)">DATA  Wilding et al., NEJM 384:989 (2021); Wadden et al., JAMA 325:1403 (2021); Jastreboff et al., NEJM 387:205 (2022);</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1128.2816)">      Rubino et al., JAMA 325:1414 (2021). Values transcribed from the abstracts. Trials funded by the manufacturers.</text>
+   <text style="font-size: 8px; font-family: 'IBM Plex Mono'; fill: #8c877d" transform="translate(56.16 1144.873475)">NOTE  Trials excluded people with diabetes. Gastrointestinal side effects were common, mostly mild to moderate.</text>
+  </g>
+  <g id="text_69">
+   <text style="font-weight: 500; font-size: 9px; font-family: 'IBM Plex Mono'; text-anchor: end; fill: #17171a" x="807.84" y="1110.3066" transform="rotate(-0 807.84 1110.3066)">PIX · 021</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdbf952ba10">
+   <rect x="289.44" y="433.6488" width="285.12" height="279.936"/>
+  </clipPath>
+  <clipPath id="p59fe6e1f3b">
+   <rect x="289.44" y="853.5528" width="371.52" height="139.968"/>
+  </clipPath>
+ </defs>
+</svg>

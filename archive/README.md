@@ -1,9 +1,10 @@
 # pix archive
 
-10 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
+11 settled findings, newest first. Each folder holds the post, the chart, the evidence notes, the code and the data.
 
 | Date | | Finding |
 |---|---|---|
+| 2026-11-28 | <a href="2026-11-28-glp1-weight-trials/post.md"><img src="2026-11-28-glp1-weight-trials/chart.png" width="180"></a> | **[Obesity drug users lost 15% to 21% in trials](2026-11-28-glp1-weight-trials/post.md)**<br><sub>Health · Wilding et al., NEJM, 2021 (STEP 1); Jastreboff et al., NEJM, 2022 (SURMOUNT-1)</sub><br>In trials of 68 to 72 weeks, people on weekly semaglutide lost 14.9% of their weight against 2.4% on placebo; on tirzepatide, 15.0% to 20.9% against 3.1%. |
 | 2026-11-27 | <a href="2026-11-27-solar-learning-curve/post.md"><img src="2026-11-27-solar-learning-curve/chart.png" width="180"></a> | **[Solar panel prices fell 24% per doubling of capacity](2026-11-27-solar-learning-curve/post.md)**<br><sub>Technology · Rubin et al., Energy Policy, 2015; data from Our World in Data (Nemet; Farmer & Lafond; IRENA)</sub><br>Each doubling of the world's installed solar capacity came with a 24% fall in module prices. Since 1975 a watt of panel went from $132 to 12 cents, in 2025 dollars. |
 | 2026-11-26 | <a href="2026-11-26-bmi-mortality-age/post.md"><img src="2026-11-26-bmi-mortality-age/chart.png" width="180"></a> | **[BMI's link to death weakens with age](2026-11-26-bmi-mortality-age/post.md)**<br><sub>Health · Global BMI Mortality Collaboration, Lancet, 2016</sub><br>In never-smokers, each 5 units of BMI above 25 went with a 52% higher death rate when BMI was measured at 35 to 49, but 21% when measured at 70 to 89. |
 | 2026-11-25 | <a href="2026-11-25-lead-iq-low-levels/post.md"><img src="2026-11-25-lead-iq-low-levels/chart.png" width="180"></a> | **[The IQ gap is steepest at low lead levels](2026-11-25-lead-iq-low-levels/post.md)**<br><sub>Environment · Lanphear et al., Environmental Health Perspectives, 2005 (corrected 2019)</sub><br>In 1,333 children, IQ was 6.7 points lower at a blood lead of 30 micrograms per decilitre than at 2.4. More than half of that, 3.8 points, came between 2.4 and 10. |
